@@ -10,15 +10,9 @@
 <td>
 <p><strong>Dimension</strong></p>
 </td>
-<td>
-<p><strong>Alias</strong></p>
-</td>
-<td>
-<p><strong>Definition &amp; Notes</strong></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p>Universal constants&nbsp;used in too many categories to constrain their scope<sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -32,12 +26,6 @@
 <td>
 <p>m.s<sup>-1</sup></p>
 </td>
-<td>
-<p>m/s<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>Assigned</strong>&nbsp;(see&nbsp;<u>SI&nbsp;units</u>)<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -48,12 +36,6 @@
 </td>
 <td>
 <p>kg.m.s<sup>-2</sup>.A<sup>-2</sup></p>
-</td>
-<td>
-<p>H/m | N/A<sup>2</sup></p>
-</td>
-<td>
-<p>= 4&pi;.10<sup>-7</sup>.&nbsp;<strong>Assigned</strong>.</p>
 </td>
 </tr>
 <tr>
@@ -66,12 +48,6 @@
 <td>
 <p>kg<sup>-1</sup>.m<sup>-3</sup>.s<sup>4</sup>.A<sup>2</sup></p>
 </td>
-<td>
-<p>F/m<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= 1 / (c<sup>2</sup>&nbsp;&mu;<sub>0</sub>).&nbsp;<strong>Assigned</strong>.</p>
-</td>
 </tr>
 <tr>
 <td>
@@ -82,12 +58,6 @@
 </td>
 <td>
 <p>kg<sup>-1</sup>.m<sup>3</sup>.s<sup>-2</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>force = G M<sub>1</sub>M<sub>2</sub>&nbsp;/ r<sub>12</sub><sup>2</sup></p>
 </td>
 </tr>
 <tr>
@@ -100,12 +70,6 @@
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-1</sup></p>
 </td>
-<td>
-<p>J.s<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= (energy transfer quantum)/(channel frequency)</p>
-</td>
 </tr>
 <tr>
 <td>
@@ -116,12 +80,6 @@
 </td>
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-1</sup></p>
-</td>
-<td>
-<p>J.s<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= h/2&pi;, the&nbsp;<strong>angular momentum quantum</strong></p>
 </td>
 </tr>
 <tr>
@@ -134,12 +92,6 @@
 <td>
 <p>kg<sup>-1</sup>.m<sup>-2</sup>.s<sup>2</sup>.A</p>
 </td>
-<td>
-<p>A/J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= e / h<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -150,12 +102,6 @@
 </td>
 <td>
 <p>s.A<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>C<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -168,12 +114,6 @@
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup>.A<sup>-1</sup></p>
 </td>
-<td>
-<p>J/A<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= h / e<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -184,12 +124,6 @@
 </td>
 <td>
 <p><strong>Dimensionless</strong><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= &mu;<sub>0</sub>&nbsp;c e<sup>2</sup>&nbsp;/ 2h.</p>
 </td>
 </tr>
 <tr>
@@ -202,12 +136,6 @@
 <td>
 <p><strong>Dimensionless</strong><sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= 1/&alpha; = 2h / (&mu;<sub>0</sub>&nbsp;c e<sup>2</sup>). See ref.[1].</p>
-</td>
 </tr>
 <tr>
 <td>
@@ -218,12 +146,6 @@
 </td>
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup>.K<sup>-1</sup></p>
-</td>
-<td>
-<p>J/K<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>Sets thermodynamic temperature<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -236,12 +158,6 @@
 <td>
 <p>kg<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>m<sub>p</sub><sup>2</sup>&nbsp;= (h/2&pi;) c / G<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -252,12 +168,6 @@
 </td>
 <td>
 <p>s<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= (h/2&pi;) / (m<sub>p</sub>c<sup>2</sup>)</p>
 </td>
 </tr>
 <tr>
@@ -270,12 +180,6 @@
 <td>
 <p>m<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= ct<sub>p</sub><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -287,15 +191,9 @@
 <td>
 <p>K<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= m<sub>p</sub>c<sup>2</sup>&nbsp;/ k</p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p>Electromagnetic constants&nbsp;other than those already listed<sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -309,12 +207,6 @@
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-3</sup>.A<sup>-2</sup></p>
 </td>
-<td>
-<p>&Omega;<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>Derived from&nbsp;<strong>assigned</strong>'s: Z<sub>0</sub><sup>2</sup>&nbsp;= &mu;<sub>0</sub>/&epsilon;<sub>0</sub>.</p>
-</td>
 </tr>
 <tr>
 <td>
@@ -325,12 +217,6 @@
 </td>
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup>.A<sup>-1</sup></p>
-</td>
-<td>
-<p>Wb<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= h / 2e<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -343,12 +229,6 @@
 <td>
 <p>kg<sup>-1</sup>.m<sup>-2</sup>.s<sup>2</sup>.A</p>
 </td>
-<td>
-<p>Hz/V<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= 2e / h<sup>&nbsp;</sup>. Conventional:&nbsp;<strong>483597.9 GHz/V</strong></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -359,12 +239,6 @@
 </td>
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-3</sup>.A<sup>-2</sup></p>
-</td>
-<td>
-<p>&Omega;<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= h / e<sup>2</sup>. &nbsp;Conventional:&nbsp;<strong>25812.807 &Omega;</strong></p>
 </td>
 </tr>
 <tr>
@@ -377,12 +251,6 @@
 <td>
 <p>kg<sup>-1</sup>.m<sup>-2</sup>.s<sup>3</sup>.A<sup>2</sup></p>
 </td>
-<td>
-<p>S<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= 2e<sup>2</sup>&nbsp;/ h = 2 / R<sub>K</sub></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -394,15 +262,9 @@
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-3</sup>.A<sup>-2</sup></p>
 </td>
-<td>
-<p>&Omega;<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= R<sub>K</sub>&nbsp;/ 2<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p>Electromagnetic radiation constants.&nbsp;For&nbsp;<strong>solar constant</strong>, see&nbsp;<u>solar system</u><sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -416,12 +278,6 @@
 <td>
 <p>kg.s<sup>-3</sup>.K<sup>-4</sup></p>
 </td>
-<td>
-<p>W/m<sup>2</sup>.K<sup>4</sup></p>
-</td>
-<td>
-<p>= 2 &pi;<sup>5</sup>&nbsp;k<sup>4</sup>&nbsp;/ 15 h<sup>3</sup>&nbsp;c<sup>2&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -432,12 +288,6 @@
 </td>
 <td>
 <p>kg.m<sup>4</sup>.s<sup>-3</sup></p>
-</td>
-<td>
-<p>W.m<sup>2</sup></p>
-</td>
-<td>
-<p>= 2 &pi; h c<sup>2&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -450,12 +300,6 @@
 <td>
 <p>m.K<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= h c / k<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -466,12 +310,6 @@
 </td>
 <td>
 <p>m.K<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= c<sub>2</sub>&nbsp;/ 4.9651423...<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -484,12 +322,6 @@
 <td>
 <p>s<sup>-1</sup>.K<sup>-1</sup></p>
 </td>
-<td>
-<p>Hz/K<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -500,12 +332,6 @@
 </td>
 <td>
 <p>cd.sr.kg<sup>-1</sup>.m<sup>-1</sup>.s<sup>3</sup></p>
-</td>
-<td>
-<p>lm/W<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>100% efficient, ideal 555 nm light source.<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -518,12 +344,6 @@
 <td>
 <p>cd.sr.kg<sup>-1</sup>.m<sup>-1</sup>.s<sup>3</sup></p>
 </td>
-<td>
-<p>lm/W<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><u>Achieved at</u>&nbsp;7000 &deg;K<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -534,12 +354,6 @@
 </td>
 <td>
 <p>cd.sr.kg<sup>-1</sup>.m<sup>-1</sup>.s<sup>3</sup></p>
-</td>
-<td>
-<p>lm/W<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>see&nbsp;<u>Wikipedia</u><sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -552,15 +366,9 @@
 <td>
 <p>cd.sr.m<sup>-2</sup></p>
 </td>
-<td>
-<p>lx<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>in the brightest sunlight, on Earth<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p>Electron and atomic physics constants<sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -574,12 +382,6 @@
 <td>
 <p>m<sup>-1</sup></p>
 </td>
-<td>
-<p>m<sup>-1</sup></p>
-</td>
-<td>
-<p>= c &alpha;<sup>2</sup>&nbsp;m<sub>e</sub>&nbsp;/ 2h<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -590,12 +392,6 @@
 </td>
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
-</td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= &alpha;<sup>2</sup>&nbsp;m<sub>e</sub>&nbsp;c<sup>2</sup>&nbsp;= 2h c R&infin;<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -608,12 +404,6 @@
 <td>
 <p>m<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p>m<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= &alpha; / (4&pi; R&infin;)<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -624,12 +414,6 @@
 </td>
 <td>
 <p>m<sup>2</sup>.A</p>
-</td>
-<td>
-<p>J/T<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= (1/2)(h/2&pi;)(e/m<sub>e</sub>)<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -642,12 +426,6 @@
 <td>
 <p>kg<sup>-1</sup>.s.A</p>
 </td>
-<td>
-<p>Hz/T<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= &mu;<sub>B</sub>/h = [Larmor frequency]/[g-factor]; ~ 14 GHz/T<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -658,12 +436,6 @@
 </td>
 <td>
 <p>m<sup>2</sup>.s<sup>-1</sup></p>
-</td>
-<td>
-<p>m<sup>2</sup>/s</p>
-</td>
-<td>
-<p>= h / 2m<sub>e</sub><sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -676,15 +448,9 @@
 <td>
 <p>A.m<sup>-2</sup>.K<sup>-2</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= 4&pi;em<sub>e</sub>k<sup>2</sup>&nbsp;/ h<sup>3</sup>; arises in&nbsp;<u>thermionic emission</u><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><strong>Electron</strong>&nbsp;(stable lepton, charge -1, spin 1/2, fermion, its antiparticle&nbsp;<strong>positron</strong>&nbsp;has positive charge)<sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -698,12 +464,6 @@
 <td>
 <p>kg<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= 5.485 799 0946[22] e-4 u<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -714,12 +474,6 @@
 </td>
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
-</td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= 0.510 998 928[11] MeV<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -732,12 +486,6 @@
 <td>
 <p>kg<sup>-1</sup>.s.A</p>
 </td>
-<td>
-<p>C/kg<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= e / m<sub>e</sub><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -748,12 +496,6 @@
 </td>
 <td>
 <p>m<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= h / c m<sub>e</sub><sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -766,12 +508,6 @@
 <td>
 <p>m<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= e<sup>2</sup>&nbsp;/ (4&pi;&epsilon;<sub>0</sub>m<sub>e</sub>c<sup>2&nbsp;</sup>)</p>
-</td>
 </tr>
 <tr>
 <td>
@@ -782,12 +518,6 @@
 </td>
 <td>
 <p>m<sup>2</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= (8&pi;/3) r<sub>e</sub><sup>2</sup></p>
 </td>
 </tr>
 <tr>
@@ -800,12 +530,6 @@
 <td>
 <p>m<sup>2</sup>.A</p>
 </td>
-<td>
-<p>J/T<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -816,12 +540,6 @@
 </td>
 <td>
 <p><strong>Dimensionless</strong><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= (&mu;<sub>e</sub>&nbsp;/ &mu;<sub>B</sub>) / S<sub>e</sub><sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -834,12 +552,6 @@
 <td>
 <p>Dimensionless<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= (abs(g<sub>e</sub>) - 2) / 2<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -850,12 +562,6 @@
 </td>
 <td>
 <p>kg<sup>-1</sup>.s.A</p>
-</td>
-<td>
-<p>Hz/T<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= &mu;<sub>e</sub>&nbsp;/ (hS<sub>e</sub>); ~ 28 GHz/T<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -868,12 +574,6 @@
 <td>
 <p><strong>Dimensionless</strong><sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -884,12 +584,6 @@
 </td>
 <td>
 <p><strong>Dimensionless</strong><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -902,15 +596,9 @@
 <td>
 <p>Dimensionless<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>Shielded</strong>&nbsp;in water; standard conditions<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p>Physico-chemical constants<sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -924,12 +612,6 @@
 <td>
 <p>kg<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>Mass of&nbsp;<sup>12</sup>C nuclide / 12</p>
-</td>
 </tr>
 <tr>
 <td>
@@ -940,12 +622,6 @@
 </td>
 <td>
 <p>kg<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>Assigned</strong><sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -958,12 +634,6 @@
 <td>
 <p>kg.mol<sup>-1</sup></p>
 </td>
-<td>
-<p>kg/mol<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>Assigned</strong><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -974,12 +644,6 @@
 </td>
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup>.K<sup>-1</sup></p>
-</td>
-<td>
-<p>J/K<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>Sets thermodynamic temperature<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -992,12 +656,6 @@
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-3</sup>.A<sup>-1</sup>.K<sup>-1</sup></p>
 </td>
-<td>
-<p>V/K<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= k/e. Electrochemical potential ~ (k/e)T ln(c1/c2)<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -1008,12 +666,6 @@
 </td>
 <td>
 <p>mol<sup>-1</sup></p>
-</td>
-<td>
-<p>count/mol<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>~ 602&nbsp;<strong>Z</strong>&nbsp;(Zetta)&nbsp;particles in a mole of substance<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -1026,12 +678,6 @@
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-1</sup>.mol<sup>-1</sup></p>
 </td>
-<td>
-<p>J.s/mol<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= h N<sub>A</sub><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -1042,12 +688,6 @@
 </td>
 <td>
 <p>kg.m<sup>3</sup>.s<sup>-2</sup>.mol<sup>-1</sup></p>
-</td>
-<td>
-<p>J.m/mol<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= h c N<sub>A</sub><sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -1060,12 +700,6 @@
 <td>
 <p>kg.mol<sup>-1</sup></p>
 </td>
-<td>
-<p>kg/mol<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= m<sub>e</sub>&nbsp;N<sub>A</sub><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -1076,12 +710,6 @@
 </td>
 <td>
 <p>s.A.mol<sup>-1</sup></p>
-</td>
-<td>
-<p>C/mol<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= e N<sub>A</sub>.<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -1094,12 +722,6 @@
 <td>
 <p>s.A.mol<sup>-1</sup></p>
 </td>
-<td>
-<p>C/mol<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= |electron molar charge|.<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -1110,12 +732,6 @@
 </td>
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup>.K<sup>-1</sup>.mol<sup>-1</sup></p>
-</td>
-<td>
-<p>J/K.mol<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= k N<sub>A</sub><sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -1128,12 +744,6 @@
 <td>
 <p>m<sup>3</sup>.mol<sup>-1</sup></p>
 </td>
-<td>
-<p>m<sup>3</sup>/mol</p>
-</td>
-<td>
-<p>= (RT/p)<sup>&nbsp;</sup>&nbsp;at T=273.15 K, p=101325 Pa<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -1144,12 +754,6 @@
 </td>
 <td>
 <p>m<sup>-3</sup></p>
-</td>
-<td>
-<p>count/m<sup>3</sup></p>
-</td>
-<td>
-<p>= N<sub>A</sub>&nbsp;/ V<sub>m</sub>&nbsp;at T=273.15 K, p=101325 Pa<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -1162,15 +766,9 @@
 <td>
 <p><strong>Dimensionless</strong><sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>(5/2)+ln[(2&pi;m<sub>u</sub>kT/h<sup>2</sup>)(kT/p)] at T=1K, p=101325 Pa.<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p>Basic nuclear physics data&nbsp;(those listed in CODATA)<sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -1184,12 +782,6 @@
 <td>
 <p>kg<sup>-2</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= (1.026 8365[88] e-5) / m<sub>p</sub><sup>2</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -1200,12 +792,6 @@
 </td>
 <td>
 <p>eV<sup>-2</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -1218,12 +804,6 @@
 <td>
 <p><strong>Dimensionless</strong><sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= 1- (m<sub>W</sub>/m<sub>Z</sub>)<sup>2</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -1234,12 +814,6 @@
 </td>
 <td>
 <p>m<sup>2</sup>.A</p>
-</td>
-<td>
-<p>J/T<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= (1/2)(h/2&pi;)(e/m<sub>p</sub>)<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -1252,15 +826,9 @@
 <td>
 <p>kg<sup>-1</sup>.s.A</p>
 </td>
-<td>
-<p>Hz/T<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= &mu;<sub>N</sub>/h = [Larmor frequency]/[g-factor]; ~ 7.6 MHz/T<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><strong>Proton</strong>&nbsp;(stable baryon, nucleon, hadron, charge +1, spin 1/2, fermion, parity +, isospin 1/2, its anti-particle&nbsp;<em>antiproton</em>&nbsp;has opposite charge)<sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -1274,12 +842,6 @@
 <td>
 <p>kg<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>1.007 276 466 812[90] u<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -1290,12 +852,6 @@
 </td>
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
-</td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>938.272 046[21] MeV; quarks composition:&nbsp;<strong>uud</strong><sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -1308,12 +864,6 @@
 <td>
 <p><strong>Dimensionless</strong><sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>inverse: 5.4461702178[22]e-4<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -1324,12 +874,6 @@
 </td>
 <td>
 <p>m<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>&lambda;<sub>C,p</sub>&nbsp;= h / c m<sub>p</sub><sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -1342,12 +886,6 @@
 <td>
 <p>m<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -1358,12 +896,6 @@
 </td>
 <td>
 <p>m<sup>2</sup>.A</p>
-</td>
-<td>
-<p>J/T<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>&mu;<sub>p</sub></strong><sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -1376,12 +908,6 @@
 <td>
 <p>Dimensionless<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= &mu;<sub>p</sub>&nbsp;/ (S<sub>p</sub>&nbsp;&mu;<sub>N</sub>)<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -1392,12 +918,6 @@
 </td>
 <td>
 <p>kg<sup>-1</sup>.s.A</p>
-</td>
-<td>
-<p>Hz/T<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>&gamma;<sub>p</sub></strong>&nbsp;= &mu;<sub>p</sub>&nbsp;/ h S<sub>p</sub>.<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -1410,12 +930,6 @@
 <td>
 <p>kg<sup>-1</sup>.s.A</p>
 </td>
-<td>
-<p>Hz/T<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>In H<sub>2</sub>O,<sup>&nbsp;</sup>&nbsp;standard conditions</p>
-</td>
 </tr>
 <tr>
 <td>
@@ -1426,12 +940,6 @@
 </td>
 <td>
 <p>Dimensionless<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>Relative value for pure water at 25 &deg;C<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -1444,12 +952,6 @@
 <td>
 <p>m.s.A<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p>C.m<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>&lt; 5.4 e-24 e.cm; existence not confirmed<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -1460,12 +962,6 @@
 </td>
 <td>
 <p>m<sup>3</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -1478,15 +974,9 @@
 <td>
 <p>m<sup>3</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><strong>Neutron</strong>&nbsp;(baryon, nucleon, hadron, charge 0, spin 1/2, fermion, parity +, isospin 1/2, its anti-particle is&nbsp;<strong>antineutron</strong>)<sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -1500,12 +990,6 @@
 <td>
 <p>kg<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>1.008 664 916 00[43] u<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -1516,12 +1000,6 @@
 </td>
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
-</td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>939.565 379[21] MeV; quarks composition&nbsp;<strong>udd</strong><sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -1534,12 +1012,6 @@
 <td>
 <p>m<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>&lambda;<sub>C,n</sub>&nbsp;= h / c m<sub>n</sub><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -1550,12 +1022,6 @@
 </td>
 <td>
 <p>s<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>Beta-decay into proton + e<sup>-</sup>&nbsp;+ &nu;<sub>e</sub><sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -1568,12 +1034,6 @@
 <td>
 <p>m<sup>2</sup>.A</p>
 </td>
-<td>
-<p>J/T<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>&mu;<sub>n</sub></strong><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -1584,12 +1044,6 @@
 </td>
 <td>
 <p>Dimensionless<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= &mu;<sub>n</sub>&nbsp;/ (S<sub>n</sub>&nbsp;&mu;<sub>N</sub>)<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -1602,12 +1056,6 @@
 <td>
 <p>kg<sup>-1</sup>.s.A</p>
 </td>
-<td>
-<p>Hz/T<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>&gamma;<sub>n</sub></strong>&nbsp;= &mu;<sub>n</sub>&nbsp;/ h S<sub>n</sub><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -1618,12 +1066,6 @@
 </td>
 <td>
 <p>m.s.A<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>C.m<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>&lt; 2.9 e-26 e.cm; existence not confirmed<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -1636,12 +1078,6 @@
 <td>
 <p>m<sup>3</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -1653,15 +1089,9 @@
 <td>
 <p>m<sup>3</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><strong>Deuteron</strong>&nbsp;(stable nuclide, protons 1, neutrons 1, charge +1, spin 1, boson)<sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -1675,12 +1105,6 @@
 <td>
 <p>kg<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>2.013 553 212 712[77] u<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -1691,12 +1115,6 @@
 </td>
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
-</td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>1875.612 859[41] MeV<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -1709,12 +1127,6 @@
 <td>
 <p>m<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -1725,12 +1137,6 @@
 </td>
 <td>
 <p>m<sup>2</sup>.A</p>
-</td>
-<td>
-<p>J/T<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -1743,12 +1149,6 @@
 <td>
 <p>Dimensionless<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -1759,12 +1159,6 @@
 </td>
 <td>
 <p>kg<sup>-1</sup>.s.A</p>
-</td>
-<td>
-<p>Hz/T<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -1777,15 +1171,9 @@
 <td>
 <p>m<sup>2</sup>.s.A</p>
 </td>
-<td>
-<p>C.m<sup>2&nbsp;</sup></p>
-</td>
-<td>
-<p>0.2859 e(fm)<sup>2&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><strong>Triton</strong>&nbsp;(stable nuclide, protons 1, neutrons 2, charge +1, spin 1/2, fermion)<sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -1799,12 +1187,6 @@
 <td>
 <p>kg<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>3.015 500 7134[25] u<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -1815,12 +1197,6 @@
 </td>
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
-</td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>2808.921 005[62] MeV<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -1833,12 +1209,6 @@
 <td>
 <p>s<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= 12.32 years; beta-decay into&nbsp;<sup>3</sup>He + e<sup>-</sup>&nbsp;+ &nu;<sub>e</sub><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -1849,12 +1219,6 @@
 </td>
 <td>
 <p>m<sup>2</sup>.A</p>
-</td>
-<td>
-<p>J/T<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -1867,12 +1231,6 @@
 <td>
 <p>Dimensionless<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -1884,15 +1242,9 @@
 <td>
 <p>kg<sup>-1</sup>.s.A</p>
 </td>
-<td>
-<p>Hz/T<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><strong>Helion</strong>&nbsp;(stable nuclide, protons 2, neutrons 1, charge +2, spin 1/2, fermion, nuclide)<sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -1906,12 +1258,6 @@
 <td>
 <p>kg<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>3.014 932 2468[25] u<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -1922,12 +1268,6 @@
 </td>
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
-</td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>2808.391 482[62] MeV<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -1940,12 +1280,6 @@
 <td>
 <p>m<sup>2</sup>.A</p>
 </td>
-<td>
-<p>J/T<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>Shielded<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -1956,12 +1290,6 @@
 </td>
 <td>
 <p>Dimensionless<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -1974,15 +1302,9 @@
 <td>
 <p>kg<sup>-1</sup>.s.A</p>
 </td>
-<td>
-<p>Hz/T<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>Shielded<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><strong>Alpha particle</strong>&nbsp;(stable nuclide, protons 2, neutrons 2, charge +2, spin 0, magnetic moment 0, boson)<sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -1996,12 +1318,6 @@
 <td>
 <p>kg<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>4.001 506 179 125[62] u<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -2013,20 +1329,14 @@
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
 </td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>3727.379 240[82] MeV<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p>Particle physics data&nbsp;(source:&nbsp;<u>Particle Data Group</u>)<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><u>Neutrinos &nu;</u>&nbsp;(stable leptons, charge 0, exist in e,&mu;,&tau;&nbsp;<em>flavors</em>, each has matter / anti-matter version with opposite&nbsp;<em>chirality</em>, spin 1/2, fermions)<sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -2040,12 +1350,6 @@
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
 </td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>0 to 2.2</strong>&nbsp;eV<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -2056,12 +1360,6 @@
 </td>
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
-</td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>0 to 0.17</strong>&nbsp;MeV<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -2074,15 +1372,9 @@
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
 </td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>0 to 15.5</strong>&nbsp;MeV<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><strong>Muon &mu;<sup>&plusmn;</sup></strong>&nbsp;(lepton, charge &plusmn;1, matter &mu;<sup>-</sup>, antimatter &mu;<sup>+</sup>, spin 1/2, fermion)<sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -2096,12 +1388,6 @@
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
 </td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>105.658 3715[35]</strong>&nbsp;MeV<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -2112,12 +1398,6 @@
 </td>
 <td>
 <p>kg<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>0.113 428 9267[29] u<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -2130,12 +1410,6 @@
 <td>
 <p>m<sup>2</sup>.A</p>
 </td>
-<td>
-<p>J/T<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -2146,12 +1420,6 @@
 </td>
 <td>
 <p>Dimensionless<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>(&mu; / &mu;<sub>B</sub>) * (m / m<sub>e</sub>) / spin<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -2164,12 +1432,6 @@
 <td>
 <p>Dimensionless<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>(abs(g<sub>&mu;</sub>) - 2) / 2<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -2180,12 +1442,6 @@
 </td>
 <td>
 <p>kg<sup>-1</sup>.s.A</p>
-</td>
-<td>
-<p>Hz/T<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>= &mu;<sub>n</sub>&nbsp;/ h S<sub>n</sub><sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -2198,15 +1454,9 @@
 <td>
 <p>s<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><strong>Tau &tau;<sup>&plusmn;</sup></strong>&nbsp;(lepton, charge &plusmn;1, matter &tau;<sup>-</sup>, antimatter &tau;<sup>+</sup>, spin 1/2, fermion)<sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -2220,12 +1470,6 @@
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
 </td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>1776.82[16]</strong>&nbsp;MeV<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -2236,12 +1480,6 @@
 </td>
 <td>
 <p>kg<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>1.907 49[17] u<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -2254,15 +1492,9 @@
 <td>
 <p>s<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><u>Quarks with charge +2/3</u>&nbsp;(baryon number 1/3, exist in u,c,t&nbsp;<em>flavors</em>, each has matter / anti-matter versions with some property flipped, spin 1/2, fermions)<sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -2276,12 +1508,6 @@
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
 </td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>2.4</strong>&nbsp;MeV,&nbsp;<strong>stable</strong><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -2292,12 +1518,6 @@
 </td>
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
-</td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>1.27</strong>&nbsp;GeV, unstable<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -2310,15 +1530,9 @@
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
 </td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>171.2</strong>&nbsp;GeV, terribly unstable<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><u>Quarks with charge -1/3</u>&nbsp;(baryon number 1/3, exist in d,s,b&nbsp;<em>flavors</em>, each has matter / anti-matter versions with some property flipped, spin 1/2, fermions)<sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -2332,12 +1546,6 @@
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
 </td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>4.8</strong>&nbsp;MeV,&nbsp;<strong>stable</strong><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -2348,12 +1556,6 @@
 </td>
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
-</td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>104</strong>&nbsp;MeV, unstable<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -2366,15 +1568,9 @@
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
 </td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>4.2</strong>&nbsp;GeV, unstable<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><strong>Pions &pi;<sup>&plusmn;</sup></strong>&nbsp;(mesons, hadrons, charge &plusmn;1, anti-particles of each other, spin 0, boson, parity -, isospin 1)<sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -2388,12 +1584,6 @@
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
 </td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>139.570 18[35]</strong>&nbsp;MeV<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -2404,12 +1594,6 @@
 </td>
 <td>
 <p>kg<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>0.149 834 75[37] u<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -2422,15 +1606,9 @@
 <td>
 <p>s<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>quarks composition: &pi;<sup>+</sup>:&nbsp;<strong>ud'</strong>, &pi;<sup>-</sup>:&nbsp;<strong>du'</strong><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><strong>Pion &pi;<sup>0</sup></strong>&nbsp;(meson, hadron, charge 0, its own antiparticle, spin 0, boson, parity -,C-parity +, isospin 1)<sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -2444,12 +1622,6 @@
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
 </td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>134.976 60[60]</strong>&nbsp;MeV<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -2460,12 +1632,6 @@
 </td>
 <td>
 <p>kg<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>0.144 903 34[64] u<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -2478,15 +1644,9 @@
 <td>
 <p>s<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>quarks composition:&nbsp;<strong>(uu'-dd')/&amp;radiv;2</strong><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><strong>Kaons K<sup>&plusmn;</sup></strong>&nbsp;('strange' mesons, hadrons, charge &plusmn;1, anti-particles of each other, spin 0, boson, parity -, isospin 1/2)<sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -2500,12 +1660,6 @@
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
 </td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>493.677[16]</strong>&nbsp;MeV<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -2516,12 +1670,6 @@
 </td>
 <td>
 <p>kg<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>0.529 984[17] u<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -2534,15 +1682,9 @@
 <td>
 <p>s<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>quarks composition: K<sup>+</sup>:&nbsp;<strong>us'</strong>, K<sup>-</sup>:&nbsp;<strong>su'</strong><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><strong>Kaon K<sup>0</sup></strong>&nbsp;('strange' meson, hadron, charge 0, self-antiparticle, spin 0, boson, isospin 1/2, parity -)<sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -2556,12 +1698,6 @@
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
 </td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>497.614[24]</strong>&nbsp;MeV; quarks: see below<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -2572,12 +1708,6 @@
 </td>
 <td>
 <p>kg<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>0.534 211[26] u<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -2590,12 +1720,6 @@
 <td>
 <p>s<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>quarks composition:&nbsp;<strong>(ds'+sd')/&radic;2</strong><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -2607,15 +1731,9 @@
 <td>
 <p>s<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>quarks composition:&nbsp;<strong>(ds'-sd')/&radic;2</strong><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><strong>Eta mesons</strong>&nbsp;&eta; and &eta;' (hadrons, charge 0, antiparticles of each other, spin integer, bosons,&nbsp;<sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -2629,12 +1747,6 @@
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
 </td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>547.853[24]</strong>&nbsp;MeV<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -2645,12 +1757,6 @@
 </td>
 <td>
 <p>kg<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>0.588 144[25] u<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -2663,12 +1769,6 @@
 <td>
 <p>s<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>quarks composition:&nbsp;<strong>(uu'+dd'-2ss')/&radic;6</strong><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -2679,12 +1779,6 @@
 </td>
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
-</td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>957.66[24]</strong>&nbsp;MeV<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -2697,12 +1791,6 @@
 <td>
 <p>kg<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>1.02809[26] u<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -2714,15 +1802,9 @@
 <td>
 <p>s<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>quarks composition:&nbsp;<strong>(uu'+dd'+ss')/&radic;3</strong><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><u>Lambda hyperons</u>&nbsp;(baryons, charge 0 or +1, spin 1/2, fermions, parity +; predicted only: top &Lambda;<sub>t</sub><sup>+</sup>, quarks&nbsp;<strong>udt</strong>, but t-quark decays before it hadronizes)<sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -2736,12 +1818,6 @@
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
 </td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>1.1156830[60]</strong>&nbsp;GeV; charge 0<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -2752,12 +1828,6 @@
 </td>
 <td>
 <p>kg<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>1.1977349[64] u<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -2770,12 +1840,6 @@
 <td>
 <p>s<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>quarks composition:&nbsp;<strong>uds</strong><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -2786,12 +1850,6 @@
 </td>
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
-</td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>5.6202[16]</strong>&nbsp;GeV; charge 0<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -2804,12 +1862,6 @@
 <td>
 <p>kg<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>6.0335[17] u<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -2820,12 +1872,6 @@
 </td>
 <td>
 <p>s<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>quarks composition:&nbsp;<strong>udb</strong><sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -2838,12 +1884,6 @@
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
 </td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>2.28646[14]</strong>&nbsp;GeV; charge +1<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -2854,12 +1894,6 @@
 </td>
 <td>
 <p>kg<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>2.45462[15] u<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -2872,15 +1906,9 @@
 <td>
 <p>s<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>quarks composition:&nbsp;<strong>udc</strong><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><u>Sigma hyperons with spin 1/2</u>&nbsp;(barions, charge -1, 0, +1 or +2, fermions, parity +; predicted only:&nbsp;<strong>udb</strong>,&nbsp;<strong>uut</strong>,&nbsp;<strong>udt</strong>,&nbsp;<strong>ddt</strong>)<sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -2894,12 +1922,6 @@
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
 </td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>1.189370[70]</strong>&nbsp;GeV; charge +1<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -2910,12 +1932,6 @@
 </td>
 <td>
 <p>kg<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>1.276841[75] u<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -2928,12 +1944,6 @@
 <td>
 <p>s<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>quarks composition:&nbsp;<strong>uus</strong><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -2944,12 +1954,6 @@
 </td>
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
-</td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>1.192642[24]</strong>&nbsp;GeV; charge 0<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -2962,12 +1966,6 @@
 <td>
 <p>kg<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>1.280353[26] u<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -2978,12 +1976,6 @@
 </td>
 <td>
 <p>s<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>quarks composition:&nbsp;<strong>uds</strong><sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -2996,12 +1988,6 @@
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
 </td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>1.197449[30]</strong>&nbsp;GeV; charge -1<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -3012,12 +1998,6 @@
 </td>
 <td>
 <p>kg<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>1.285514[32] u<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -3030,12 +2010,6 @@
 <td>
 <p>s<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>quarks composition:&nbsp;<strong>dds</strong><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -3046,12 +2020,6 @@
 </td>
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
-</td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>2.45402[18]</strong>&nbsp;GeV; charge +2<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -3064,12 +2032,6 @@
 <td>
 <p>kg<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>2.63450[19] u<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -3080,12 +2042,6 @@
 </td>
 <td>
 <p>s<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>quarks composition:&nbsp;<strong>uuc</strong><sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -3098,12 +2054,6 @@
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
 </td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>2.45290[40]</strong>&nbsp;GeV; charge +1<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -3114,12 +2064,6 @@
 </td>
 <td>
 <p>kg<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>2.63330[43] u<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -3132,12 +2076,6 @@
 <td>
 <p>s<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>quarks composition:&nbsp;<strong>udc</strong><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -3148,12 +2086,6 @@
 </td>
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
-</td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>2.45376[18]</strong>&nbsp;GeV; charge 0<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -3166,12 +2098,6 @@
 <td>
 <p>kg<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>2.63422[19] u<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -3182,12 +2108,6 @@
 </td>
 <td>
 <p>s<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>quarks composition:&nbsp;<strong>ddc</strong><sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -3200,12 +2120,6 @@
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
 </td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>5.8078[39]</strong>&nbsp;GeV; charge +1<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -3216,12 +2130,6 @@
 </td>
 <td>
 <p>kg<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>6.2349[42] u<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -3234,12 +2142,6 @@
 <td>
 <p>s<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>quarks composition:&nbsp;<strong>uub</strong><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -3250,12 +2152,6 @@
 </td>
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
-</td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>5.8152[27]</strong>&nbsp;GeV; charge -1<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -3268,12 +2164,6 @@
 <td>
 <p>kg<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>6.2429[30] u<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -3285,15 +2175,9 @@
 <td>
 <p>s<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>quarks composition:&nbsp;<strong>ddb</strong><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><u>Sigma<sup>*</sup>&nbsp;hyperons with spin 3/2</u>&nbsp;(barions, charge -1, 0, +1 or +2, fermions, parity +; predicted only:&nbsp;<strong>uub</strong>,&nbsp;<strong>udb</strong>,&nbsp;<strong>ddb</strong>,&nbsp;<strong>uut</strong>,&nbsp;<strong>udt</strong>,&nbsp;<strong>ddt</strong>)<sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -3307,12 +2191,6 @@
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
 </td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>1.38280[40]</strong>&nbsp;GeV; charge +1<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -3323,12 +2201,6 @@
 </td>
 <td>
 <p>kg<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>1.48450[43] u<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -3341,12 +2213,6 @@
 <td>
 <p>s<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>quarks composition:&nbsp;<strong>uus</strong><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -3357,12 +2223,6 @@
 </td>
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
-</td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>1.38370[10]</strong>&nbsp;GeV; charge 0<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -3375,12 +2235,6 @@
 <td>
 <p>kg<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>1.48546[11] u<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -3391,12 +2245,6 @@
 </td>
 <td>
 <p>s<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>quarks composition:&nbsp;<strong>uds</strong><sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -3409,12 +2257,6 @@
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
 </td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>1.38720[50]</strong>&nbsp;GeV; charge -1<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -3425,12 +2267,6 @@
 </td>
 <td>
 <p>kg<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>1.48922[54] u<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -3443,12 +2279,6 @@
 <td>
 <p>s<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>quarks composition:&nbsp;<strong>dds</strong><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -3459,12 +2289,6 @@
 </td>
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
-</td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>2.51840[60]</strong>&nbsp;GeV; charge +2<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -3477,12 +2301,6 @@
 <td>
 <p>kg<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>2.70361[64] u<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -3493,12 +2311,6 @@
 </td>
 <td>
 <p>s<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>quarks composition:&nbsp;<strong>uuc</strong><sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -3511,12 +2323,6 @@
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
 </td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>2.5175[23]</strong>&nbsp;GeV; charge +1<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -3527,12 +2333,6 @@
 </td>
 <td>
 <p>kg<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>2.7026[25] u<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -3545,12 +2345,6 @@
 <td>
 <p>s<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>quarks composition:&nbsp;<strong>udc</strong><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -3561,12 +2355,6 @@
 </td>
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
-</td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>2.518</strong>&nbsp;GeV; charge 0<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -3579,12 +2367,6 @@
 <td>
 <p>kg<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>2.70318[54] u<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -3596,15 +2378,9 @@
 <td>
 <p>s<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>quarks composition:&nbsp;<strong>ddc</strong><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><u>Xi hyperons</u>&nbsp;(barions, charge -1, 0, +1, spin 1/2, fermions, parity +; predicted only:&nbsp;<strong>ucc</strong>,&nbsp;<strong>ubb</strong>,&nbsp;<strong>dbb</strong>,&nbsp;<strong>ucb</strong>,&nbsp;<strong>dcb</strong>)<sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -3618,12 +2394,6 @@
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
 </td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>1.31486[20]</strong>&nbsp;GeV; charge 0<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -3634,12 +2404,6 @@
 </td>
 <td>
 <p>kg<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>1.41156[21] u<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -3652,12 +2416,6 @@
 <td>
 <p>s<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>quarks composition:&nbsp;<strong>uss</strong><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -3668,12 +2426,6 @@
 </td>
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
-</td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>1.32131[13]</strong>&nbsp;GeV; charge -1<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -3686,12 +2438,6 @@
 <td>
 <p>kg<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>1.41848[14] u<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -3702,12 +2448,6 @@
 </td>
 <td>
 <p>s<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>quarks composition:&nbsp;<strong>dss</strong><sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -3720,12 +2460,6 @@
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
 </td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>2.46790[40]</strong>&nbsp;GeV; charge +1<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -3736,12 +2470,6 @@
 </td>
 <td>
 <p>kg<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>2.64940[43] u<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -3754,12 +2482,6 @@
 <td>
 <p>s<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>quarks composition:&nbsp;<strong>usc</strong><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -3770,12 +2492,6 @@
 </td>
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
-</td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>2.47100[40]</strong>&nbsp;GeV; charge 0<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -3788,12 +2504,6 @@
 <td>
 <p>kg<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>2.65273[43] u<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -3804,12 +2514,6 @@
 </td>
 <td>
 <p>s<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>quarks composition:&nbsp;<strong>dsc</strong><sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -3822,12 +2526,6 @@
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
 </td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>3.51890[90]</strong>&nbsp;GeV; charge +1<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -3838,12 +2536,6 @@
 </td>
 <td>
 <p>kg<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>3.77769[97] u<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -3856,12 +2548,6 @@
 <td>
 <p>s<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>quarks composition:&nbsp;<strong>dcc</strong><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -3872,12 +2558,6 @@
 </td>
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
-</td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>5.7920[30]</strong>&nbsp;GeV; charge 0<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -3890,12 +2570,6 @@
 <td>
 <p>kg<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>6.2180[32] u<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -3906,12 +2580,6 @@
 </td>
 <td>
 <p>s<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>quarks composition:&nbsp;<strong>usb</strong><sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -3924,12 +2592,6 @@
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
 </td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>5.7929[30]</strong>&nbsp;GeV; charge -1<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -3940,12 +2602,6 @@
 </td>
 <td>
 <p>kg<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>6.2191[32] u<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -3958,20 +2614,14 @@
 <td>
 <p>s<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>quarks composition:&nbsp;<strong>dsb</strong><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><strong>&Xi; resonances:</strong>&nbsp; {<strong>uss</strong>, S=3/2, 1.53180[32] GeV}, {<strong>dss</strong>, S=3/2, 1.53500[60] GeV}, {<strong>usc</strong>, S=1/2, 2.57570[31] GeV}, {<strong>dsc</strong>, S=1/2, 2.57800[29] GeV, 1.1e-13 s},&nbsp;<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><u>Omega hyperons</u>&nbsp;(barions, charge -1 or 0, spin 1/2 or 3/2, fermions, parity +; predicted only:&nbsp;<strong>scc</strong>,&nbsp;<strong>scb</strong>,&nbsp;<strong>sbb</strong>,&nbsp;<strong>ccc</strong>,&nbsp;<strong>ccb</strong>,&nbsp;<strong>cbb</strong>,&nbsp;<strong>bbb</strong>)<sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -3985,12 +2635,6 @@
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
 </td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>1.67245[29]</strong>&nbsp;GeV; charge -1, spin 3/2<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -4001,12 +2645,6 @@
 </td>
 <td>
 <p>kg<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>1.79544[31] u<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -4019,12 +2657,6 @@
 <td>
 <p>s<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>quarks composition:&nbsp;<strong>sss</strong><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -4035,12 +2667,6 @@
 </td>
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
-</td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>2.6975[26]</strong>&nbsp;GeV; charge 0, spin 1/2<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -4053,12 +2679,6 @@
 <td>
 <p>kg<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>2.8959[28] u<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -4069,12 +2689,6 @@
 </td>
 <td>
 <p>s<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>quarks composition:&nbsp;<strong>ssc</strong><sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -4087,12 +2701,6 @@
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
 </td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>6.0544[68]</strong>&nbsp;GeV; charge -1, spin 1/2<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -4103,12 +2711,6 @@
 </td>
 <td>
 <p>kg<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>6.49967[73] u<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -4121,15 +2723,9 @@
 <td>
 <p>s<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>quarks composition:&nbsp;<strong>ssb</strong><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><u>W<sup>&nbsp;&plusmn;</sup>&nbsp;gauge boson</u>&nbsp;(charge &plusmn;1, matter W<sup>&nbsp;-</sup>, antimatter W<sup>+</sup>, spin 1)<sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -4143,12 +2739,6 @@
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
 </td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>80.385[15]</strong>&nbsp;GeV<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -4160,15 +2750,9 @@
 <td>
 <p>kg<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>86.296[16] u<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><u>Z gauge boson</u>&nbsp;(charge 0, spin 1)<sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -4182,12 +2766,6 @@
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
 </td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>91.1876[21]</strong>&nbsp;GeV<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -4199,15 +2777,9 @@
 <td>
 <p>kg<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>97.8939[23] u<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><u>Higgs boson H<sup>0</sup></u>&nbsp;(charge 0, spin 0,&nbsp;<strong>predicted only</strong>,&nbsp;<strong>not found</strong>)<sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -4221,12 +2793,6 @@
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
 </td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>125.09[21]</strong>&nbsp;GeV;&nbsp;<u>ATLAS/CMS</u>&nbsp;26 Mar 2015<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -4237,12 +2803,6 @@
 </td>
 <td>
 <p>kg<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>134.29[23] u<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -4255,15 +2815,9 @@
 <td>
 <p>s<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>h/(2&pi;&Gamma;), predicted &Gamma; = 4.21 MeV<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><u>Cosmic microwave background</u>&nbsp;(CMB)<sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -4277,12 +2831,6 @@
 <td>
 <p>K<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p>Kelvin<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>From CMB black-body radiation spectrum<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -4293,12 +2841,6 @@
 </td>
 <td>
 <p>K<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>18 &mu;K; deviations from perfect isotropy<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -4311,12 +2853,6 @@
 <td>
 <p>Hz<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>160.23 GHz, corresponding to &lambda; = 1.871 mm<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -4328,15 +2864,9 @@
 <td>
 <p>m<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>1.063 mm, corresponding to 318.7 GHz<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><u>Metrics of the known Universe</u>&nbsp;&nbsp;(for the prefixes&nbsp;<strong>M</strong>&nbsp;(Mega),&nbsp;<strong>G</strong>&nbsp;(Giga),&nbsp;<strong>Z</strong>&nbsp;(Zetta), and&nbsp;<strong>Y</strong>&nbsp;(Yocto),&nbsp;<u>click here</u>)&nbsp;<sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -4350,12 +2880,6 @@
 <td>
 <p>m<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>~ 93&nbsp;<strong>G</strong>&nbsp;light-years<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -4366,12 +2890,6 @@
 </td>
 <td>
 <p>m<sup>3</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>~ 420&nbsp;<strong>MY</strong>&nbsp;light-years<sup>3</sup>&nbsp;(Mega-Yocta)</p>
 </td>
 </tr>
 <tr>
@@ -4384,12 +2902,6 @@
 <td>
 <p>kg<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>~ 3.56&nbsp;<strong>MYY</strong>&nbsp;kg; mostly dark energy &amp; matter<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -4400,12 +2912,6 @@
 </td>
 <td>
 <p>kg.m<sup>-1</sup></p>
-</td>
-<td>
-<p>kg/m<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>~ 9.9 e-30 g/ml<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -4418,12 +2924,6 @@
 <td>
 <p>s<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>~ 13.75&plusmn;0.17&nbsp;<strong>G</strong>&nbsp;years<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -4434,12 +2934,6 @@
 </td>
 <td>
 <p>s<sup>-1</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>~ 70.8&plusmn;4.0 (km/s)/<strong>M</strong>pc&nbsp;(km/s per Megaparsec)</p>
 </td>
 </tr>
 <tr>
@@ -4452,12 +2946,6 @@
 <td>
 <p>Dimensionless<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>~ 300&nbsp;<strong>Z</strong>&nbsp;, or 0.5 mols of stars<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -4468,12 +2956,6 @@
 </td>
 <td>
 <p>Dimensionless<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>~ 125&nbsp;<strong>G</strong>, or 0.2 pico-mols of galaxies<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -4486,12 +2968,6 @@
 <td>
 <p>Dimensionless<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>~ 100&nbsp;<strong>MYYY</strong>&nbsp;(Mega-Yocto-Yocto-Yocto)<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -4503,15 +2979,9 @@
 <td>
 <p>m<sup>-3</sup></p>
 </td>
-<td>
-<p>counts/m<sup>3</sup></p>
-</td>
-<td>
-<p>~ 4.5e-28 molar "solution"<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><u>Milky Way galaxy</u>.&nbsp;Type&nbsp;<strong>BSc</strong>&nbsp;(barred spiral), lentil-shaped, 9 arms, center in the direction of Sagittarius constellation<sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -4525,12 +2995,6 @@
 <td>
 <p>m<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>100000 - 120000 light-years (30 - 37 Kpc)<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -4541,12 +3005,6 @@
 </td>
 <td>
 <p>m<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>~1000 light-years (~300 pc)<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -4559,12 +3017,6 @@
 <td>
 <p>kg<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>1.25[25] e+12 solar masses<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -4575,12 +3027,6 @@
 </td>
 <td>
 <p>Dimensionless<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>count<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>~300 e+9<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -4593,12 +3039,6 @@
 <td>
 <p>s<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>13.2 e+9 years<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -4609,12 +3049,6 @@
 </td>
 <td>
 <p>m.s<sup>-1&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>552 &plusmn; 6 km/s; the absolute galaxy motion<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -4627,15 +3061,9 @@
 <td>
 <p>rad<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>~60 degrees<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><strong>Milky Way arms</strong>&nbsp;look like logarithmic-spirals; galaxy is a kind of vortex and its apparent features keep changing faster than the motions of its stars<sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -4649,15 +3077,9 @@
 <td>
 <p>s<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>~50 million years; move like ripple patterns<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><strong>Milky Way central bar</strong>&nbsp;<sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -4671,15 +3093,9 @@
 <td>
 <p>s<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>15-18 million years; moves like a ripple pattern<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p>Solar system data;&nbsp;see also&nbsp;<u>NASA Planetary Fact Sheets</u><sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -4693,12 +3109,6 @@
 <td>
 <p>m<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>27200 &plusmn;1100 light-years<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -4709,12 +3119,6 @@
 </td>
 <td>
 <p>s<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>225 - 250 million years<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -4727,12 +3131,6 @@
 <td>
 <p>m.s<sup>-1&nbsp;</sup></p>
 </td>
-<td>
-<p>m/s<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>approximately opposed to absolute galaxy motion<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -4743,12 +3141,6 @@
 </td>
 <td>
 <p>m.s<sup>-1&nbsp;</sup></p>
-</td>
-<td>
-<p>m/s<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>370 km/s; 0.123% of the speed of light<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -4761,12 +3153,6 @@
 <td>
 <p>m<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>over 1068 au; planetoid&nbsp;<u>(87269) 2000 OO67</u><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -4778,15 +3164,9 @@
 <td>
 <p>m<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>4.2 light-years;&nbsp;<u>Proxima Centauri</u><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><u>The Sun</u>; spectral class G2V, main sequence (V) yellow dearf (G2). Composition: 73.46% H, 24.85% He, 0.77% O, 0.29 C, 0.16% Fe, 0.12% Ne, 0.09% N<sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -4800,12 +3180,6 @@
 <td>
 <p>kg<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>330'000 times that of Earth<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -4816,12 +3190,6 @@
 </td>
 <td>
 <p>m<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>109.2 times that of Earth<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -4834,12 +3202,6 @@
 <td>
 <p>Dimensionless<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>(equatorial - polar)/equatorial radii<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -4850,12 +3212,6 @@
 </td>
 <td>
 <p>m<sup>3</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>1'304'000 times that of Earth<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -4868,12 +3224,6 @@
 <td>
 <p>kg.m<sup>-3</sup></p>
 </td>
-<td>
-<p>kg/m<sup>3</sup></p>
-</td>
-<td>
-<p>0.255 times that of Earth<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -4884,12 +3234,6 @@
 </td>
 <td>
 <p>m.s<sup>-2</sup></p>
-</td>
-<td>
-<p>m/s<sup>2</sup></p>
-</td>
-<td>
-<p>27.94 g<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -4902,12 +3246,6 @@
 <td>
 <p>m.s<sup>-1</sup></p>
 </td>
-<td>
-<p>m/s<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>55.2 times that of Earth<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -4918,12 +3256,6 @@
 </td>
 <td>
 <p>K<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>In the layer emitting the light we see<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -4936,12 +3268,6 @@
 <td>
 <p>Dimensionless<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>see stellar magnitudes (Conventional constants)<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -4952,12 +3278,6 @@
 </td>
 <td>
 <p>W.m<sup>2</sup>.sr<sup>-1</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>total from the layer emitting the light we see<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -4970,12 +3290,6 @@
 <td>
 <p>lm.kg<sup>-1</sup>.m<sup>-2</sup>.s<sup>3&nbsp;</sup></p>
 </td>
-<td>
-<p>lm/W<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>see "Electromagnetic radiation constants"<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -4986,12 +3300,6 @@
 </td>
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-3&nbsp;</sup></p>
-</td>
-<td>
-<p>W<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>~3.75 e+28 lm<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -5004,12 +3312,6 @@
 <td>
 <p>kg.s<sup>-1&nbsp;</sup></p>
 </td>
-<td>
-<p>kg/s<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>&lt;electromagnetic power output&gt; / c<sup>2&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -5020,12 +3322,6 @@
 </td>
 <td>
 <p>s<sup>-1&nbsp;</sup></p>
-</td>
-<td>
-<p>count/s<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>Mean value (very variable)<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -5038,15 +3334,9 @@
 <td>
 <p>s<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>4.57 e+9 years<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><u>Planet Earth</u>&nbsp;in relation to the&nbsp;<u>Sun</u>&nbsp;and the&nbsp;<u>Solar system</u>. The orbit of Earth defines the&nbsp;<strong>ecliptic plane</strong>.<sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -5060,12 +3350,6 @@
 <td>
 <p>m<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>1.01671388 au<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -5076,12 +3360,6 @@
 </td>
 <td>
 <p>m<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>0.98329134 au<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -5094,12 +3372,6 @@
 <td>
 <p>rad<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>348.73936 degrees<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -5110,12 +3382,6 @@
 </td>
 <td>
 <p>rad<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>114.20783 degrees<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -5128,12 +3394,6 @@
 <td>
 <p>m<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>1.00000261 au<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -5144,12 +3404,6 @@
 </td>
 <td>
 <p>rad<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>7.155 degrees<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -5162,12 +3416,6 @@
 <td>
 <p>rad<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>1.57869 degrees<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -5178,12 +3426,6 @@
 </td>
 <td>
 <p>Dimensionless<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>will be about 0.015 after 5000 years<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -5196,12 +3438,6 @@
 <td>
 <p>Dimensionless<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -5212,12 +3448,6 @@
 </td>
 <td>
 <p>m.s<sup>-1</sup></p>
-</td>
-<td>
-<p>m/s<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>107200 km/h<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -5230,12 +3460,6 @@
 <td>
 <p>Dimensionless<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>see stellar magnitudes (Conventional constants)<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -5246,12 +3470,6 @@
 </td>
 <td>
 <p>rad<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>Varies between 0.527 and 0.545 degrees<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -5264,12 +3482,6 @@
 <td>
 <p>kg.s<sup>-3</sup></p>
 </td>
-<td>
-<p>W/m<sup>2</sup></p>
-</td>
-<td>
-<p>Elmag irradiation from Sun at 1 AU distance<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -5280,12 +3492,6 @@
 </td>
 <td>
 <p>m<sup>-2</sup>.s<sup>-1</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>Mean count per m<sup>2</sup>&nbsp;per second; very variable<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -5298,15 +3504,9 @@
 <td>
 <p>Dimesionless<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>994 artificial (December 2011)<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><u>Planets</u>: see the PDF document&nbsp;<u>SOLAR SYSTEM PLANETS AT A GLANCE</u>&nbsp;and the&nbsp;<u>NASA Planetary Fact Sheets</u><sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -5320,15 +3520,9 @@
 <td>
 <p>Dimensionless<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p>count<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><u>Planetary data table</u><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><u>Minor planets</u>; see also&nbsp;<strong>NASA Facts Sheets</strong>:&nbsp;<u>Pluto</u>,&nbsp;<u>Chiron</u>,&nbsp;<u>Asteroids</u>,&nbsp;<u>Comets</u>,&nbsp;<sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -5342,12 +3536,6 @@
 <td>
 <p>Dimensionless<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p>count<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>Apr 2012; ~3000 are added every month<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -5358,12 +3546,6 @@
 </td>
 <td>
 <p>Dimensionless<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>count<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>Apr 2012<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -5376,15 +3558,9 @@
 <td>
 <p>Dimensionless<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p>count<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>Apr 2012<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><u>Planet Earth</u>&nbsp;(<strong>Terra</strong>) data, other than those listed above; see also&nbsp;<u>NASA Earth Fact Sheet</u><sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -5398,18 +3574,12 @@
 <td>
 <p>s<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>4.54 e+9 years<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
 <p>Global composition in weight %<sup>&nbsp;</sup></p>
 </td>
-<td colspan="4">
+<td colspan="2">
 <p>Fe 32.1, O 30.1, Si 15.1, Mg 13.9, S 2.9, Ni 1.8, Ca 1.5, Al 1.4, the rest: 1.2<sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -5417,7 +3587,7 @@
 <td>
 <p>Atmospheric composition in weight %<sup>&nbsp;</sup></p>
 </td>
-<td colspan="4">
+<td colspan="2">
 <p>N<sub>2</sub>&nbsp;78.08, O<sub>2</sub>&nbsp;20.95, Ar 0.93, CO<sub>2</sub>&nbsp;0.038, the rest: 0.002; extra: 1% of H<sub>2</sub>O wapor (variable)<sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -5431,12 +3601,6 @@
 <td>
 <p>kg<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -5447,12 +3611,6 @@
 </td>
 <td>
 <p>m<sup>3</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>108.321 km<sup>3&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -5465,12 +3623,6 @@
 <td>
 <p>kg.m<sup>-3</sup></p>
 </td>
-<td>
-<p>kg/m<sup>3</sup></p>
-</td>
-<td>
-<p>5.515 g/cm<sup>3</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -5481,12 +3633,6 @@
 </td>
 <td>
 <p>m<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>this is volumetric mean<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -5499,12 +3645,6 @@
 <td>
 <p>m<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>6378.1 km; circumpherence 40075.017 km<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -5515,12 +3655,6 @@
 </td>
 <td>
 <p>m<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>6356.8 km; circumpherence 40007.860 km<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -5533,12 +3667,6 @@
 <td>
 <p>Dimensionless<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>f = (a-b)/a; a = equatorial, b = polar radius<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -5549,12 +3677,6 @@
 </td>
 <td>
 <p>m<sup>2</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>5.100720 e+8 km<sup>2</sup></p>
 </td>
 </tr>
 <tr>
@@ -5567,12 +3689,6 @@
 <td>
 <p>m<sup>2</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>1.48940 e+8 km (29.200 %)<sup>2</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -5583,12 +3699,6 @@
 </td>
 <td>
 <p>K<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>14.0 &deg;C; range 184 to 331 K (-90 to 58 &deg;C))<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -5601,12 +3711,6 @@
 <td>
 <p>kg.m<sup>-1</sup>.s<sup>-2</sup></p>
 </td>
-<td>
-<p>Pa<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>1 atm = 101325 Pa<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -5617,12 +3721,6 @@
 </td>
 <td>
 <p>m.s<sup>-2</sup></p>
-</td>
-<td>
-<p>m/s<sup>2</sup></p>
-</td>
-<td>
-<p>0.99732 g<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -5635,12 +3733,6 @@
 <td>
 <p>m.s<sup>-1</sup></p>
 </td>
-<td>
-<p>m/s<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>11.186 km/s<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -5651,12 +3743,6 @@
 </td>
 <td>
 <p>Dimensionless<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -5669,12 +3755,6 @@
 <td>
 <p>Dimensionless<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -5685,12 +3765,6 @@
 </td>
 <td>
 <p>s<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>0.99726968 days, or 23 h 56 m 4.100 s<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -5703,12 +3777,6 @@
 <td>
 <p>m.s<sup>-1</sup></p>
 </td>
-<td>
-<p>m/s<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>0.4651 km/s (4.1579 % of escape volocity))<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -5719,12 +3787,6 @@
 </td>
 <td>
 <p>rad<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>23.355948 &deg;, or 23 &deg; 26' 21&ldquo;.4119<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -5737,12 +3799,6 @@
 <td>
 <p>m<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>3485 km<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -5754,15 +3810,9 @@
 <td>
 <p>s<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>29 days+ 12 hours+ 44 minutes+ 3 seconds<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p>Conventional constants<sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -5776,12 +3826,6 @@
 <td>
 <p>kg.mol<sup>-1</sup></p>
 </td>
-<td>
-<p>kg/mol<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>Assigned</strong>&nbsp;(exact)<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -5792,12 +3836,6 @@
 </td>
 <td>
 <p>kg<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>Assigned</strong>&nbsp;(exact)<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -5810,12 +3848,6 @@
 <td>
 <p>m.s<sup>-2</sup></p>
 </td>
-<td>
-<p>m/s<sup>2</sup></p>
-</td>
-<td>
-<p><strong>Assigned</strong>.<sup>&nbsp;</sup>Called&nbsp;<strong>1 g</strong>&nbsp;(gee).</p>
-</td>
 </tr>
 <tr>
 <td>
@@ -5827,15 +3859,9 @@
 <td>
 <p>Pa<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>Assigned</strong>. Called&nbsp;<strong>1 atm</strong><sup>&nbsp;</sup>.</p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><strong>Stellar magnitudes</strong>. Reference points:&nbsp;<strong>Apparent</strong>&nbsp;brightness: bolometric, initially Vega was 0 (now it is +0.03).&nbsp;<strong>Absolute</strong>: the Sun is 4.83 (used to be 4.75)&nbsp;<sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -5849,12 +3875,6 @@
 <td>
 <p>Dimensionless<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p>a ratio<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>100<sup>1/5</sup>&nbsp;= 10<sup>0.4</sup>; also stellar&nbsp;<strong>brightness</strong><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -5866,20 +3886,14 @@
 <td>
 <p>Dimensionless<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p>a ratio<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>Brightness of a star when distant 10 parsecs<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p>Conventional engineering constants.&nbsp;See also&nbsp;<u>Math constants pertinent to Engineering definitions</u><sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><strong>dBm</strong><sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -5893,12 +3907,6 @@
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-3</sup></p>
 </td>
-<td>
-<p>Watts<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>1 mW; assigned</strong><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -5909,12 +3917,6 @@
 </td>
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-3</sup>.A<sup>-1</sup></p>
-</td>
-<td>
-<p>Volts<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>1 mW into&nbsp;<strong>600 Ohm</strong>&nbsp;load<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -5927,15 +3929,9 @@
 <td>
 <p>A<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p>Amperes<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>1 mW into&nbsp;<strong>600 Ohm</strong>&nbsp;load<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><strong>dBW</strong><sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -5949,12 +3945,6 @@
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-3</sup></p>
 </td>
-<td>
-<p>Watts<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><strong>1 W; assigned</strong><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -5965,12 +3955,6 @@
 </td>
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-3</sup>.A<sup>-1</sup></p>
-</td>
-<td>
-<p>Volts<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>sqrt(Z<sub>0</sub>); 1 W into&nbsp;<strong>50 Ohm</strong>&nbsp;load Z<sub>0</sub><sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -5983,12 +3967,6 @@
 <td>
 <p>A<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p>Amperes<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>sqrt(1/Z<sub>0</sub>); 1 W into&nbsp;<strong>50 Ohm</strong>&nbsp;load Z<sub>0</sub><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -6000,15 +3978,9 @@
 <td>
 <p>Dimensionless<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p>dB<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>In terms of power<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><strong>Relative luminance Y of RGB color primaries</strong>: Y = 0.2126.R + 0.7152.G + 0.0722.B.&nbsp;<u>More info ...</u><sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -6022,12 +3994,6 @@
 <td>
 <p>Dimensionless<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p>a ratio<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -6038,12 +4004,6 @@
 </td>
 <td>
 <p>Dimensionless<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>a ratio<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>Human eye is most sensitive to green<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -6056,15 +4016,9 @@
 <td>
 <p>Dimensionless<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p>a ratio<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><strong>Music and acoustics</strong><sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -6078,12 +4032,6 @@
 <td>
 <p>s<sup>-1</sup></p>
 </td>
-<td>
-<p>Hz<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>ISO 16<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -6094,12 +4042,6 @@
 </td>
 <td>
 <p>Dimensionless<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>Ratio<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>C,C#,D,D#,E,F,F#,G,G#,A,A#,B,...next C<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -6112,20 +4054,14 @@
 <td>
 <p>Dimensionless<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p>Ratio<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>12 half-tones per octave, each worth 100 cents<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p>Conversion factors for entities tolerated by SI, as well as some others<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><strong>Energy &amp; its equivalents</strong><sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -6139,12 +4075,6 @@
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
 </td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>Basic eV-to-SI conversion<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -6155,12 +4085,6 @@
 </td>
 <td>
 <p>kg<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>mass = energy/c<sup>2&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -6173,12 +4097,6 @@
 <td>
 <p>-<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p>u<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>a mass equivalent<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -6189,12 +4107,6 @@
 </td>
 <td>
 <p>s<sup>-1</sup></p>
-</td>
-<td>
-<p>Hz<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>frequency = energy/h<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -6207,12 +4119,6 @@
 <td>
 <p>s<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>Inverse relationship: &tau; = h/(2&pi;&Gamma;)<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -6223,12 +4129,6 @@
 </td>
 <td>
 <p>-<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>eV<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>Basic SI-to-eV conversion<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -6241,12 +4141,6 @@
 <td>
 <p>-<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p>eV<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>energy = mass.c<sup>2&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -6257,12 +4151,6 @@
 </td>
 <td>
 <p>-<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>eV<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>a bit less than 1 GeV/atomic_unit&nbsp;<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -6275,12 +4163,6 @@
 <td>
 <p>-<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p>eV<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>energy = frequency*h<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -6291,12 +4173,6 @@
 </td>
 <td>
 <p>kg<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>Mass of&nbsp;<sup>12</sup>C nuclide / 12<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -6309,15 +4185,9 @@
 <td>
 <p>kg.m<sup>2</sup>.s<sup>-2</sup></p>
 </td>
-<td>
-<p>J<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>931.494 061[21] MeV<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><strong>Length / Distance</strong><sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -6331,12 +4201,6 @@
 <td>
 <p>m<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p>~150 Gm<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>Mean Earth-to-Sun distance<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -6347,12 +4211,6 @@
 </td>
 <td>
 <p>m<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>~9.5 Pm<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>Exact: light covers it in one Julian year<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -6365,15 +4223,9 @@
 <td>
 <p>m<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p>~30 Pm<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>Corresponds to au parallax of 1 second<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><strong>Time</strong><sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -6387,12 +4239,6 @@
 <td>
 <p>s<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>Exact: 3600 seconds<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -6403,12 +4249,6 @@
 </td>
 <td>
 <p>s<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>Exact: 24 hours<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -6421,12 +4261,6 @@
 <td>
 <p>s<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>Exact: 365.25 days<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -6437,12 +4271,6 @@
 </td>
 <td>
 <p>s<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>Exact: 365.2425 days<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -6455,15 +4283,9 @@
 <td>
 <p>s<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p><sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>365.2421896698 days in year 2000<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
-<td colspan="5">
+<td colspan="3">
 <p><strong>Plane and solid angles</strong><sup>&nbsp;</sup></p>
 </td>
 </tr>
@@ -6477,12 +4299,6 @@
 <td>
 <p>Dimensionless<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p>&deg;, degree<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>180/&pi;; planar angle; 57&deg; 17' 44.806247...''<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -6493,12 +4309,6 @@
 </td>
 <td>
 <p>Dimensionless<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>rad<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>&pi;/180; planar angle<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -6511,12 +4321,6 @@
 <td>
 <p>Dimensionless<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p>rad<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>&pi;/180/60; planar angle<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -6527,12 +4331,6 @@
 </td>
 <td>
 <p>Dimensionless<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>rad<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>&pi;/180/60/60; planar angle<sup>&nbsp;</sup></p>
 </td>
 </tr>
 <tr>
@@ -6545,12 +4343,6 @@
 <td>
 <p>Dimensionless<sup>&nbsp;</sup></p>
 </td>
-<td>
-<p>degree<sup>2&nbsp;</sup></p>
-</td>
-<td>
-<p>(180/&pi;)<sup>2</sup>; for solid angle infinitesimals<sup>&nbsp;</sup></p>
-</td>
 </tr>
 <tr>
 <td>
@@ -6561,12 +4353,6 @@
 </td>
 <td>
 <p>Dimensionless<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>sr<sup>&nbsp;</sup></p>
-</td>
-<td>
-<p>(&pi;/180)<sup>2</sup>; for solid angle infinitesimals<sup>&nbsp;</sup></p>
 </td>
 </tr>
 </tbody>
