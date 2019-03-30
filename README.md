@@ -45,5 +45,29 @@
 <td>Naming scheme for hadrons</td>
 <td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/10.pdf">PDF</a></td>
 </tr>
+  
+<tr>
+<td>Fundamental Physical Constants </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/11.pdf">PDF</a></td>
+</tr>
+    
+<tr>
+<td>The Constants of Nature  </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/12.pdf">PDF</a></td>
+</tr>  
+  
+ <tr>
+<td>For Pi to Omega: Constants in Mathematics  </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/13.pdf">PDF</a></td>
+</tr>  
+   
+  <tr>
+<td>Mathematical Constants   </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/14.pdf">PDF</a></td>
+</tr>  
+    
+  
+  
+  
 </tbody>
 </table>
