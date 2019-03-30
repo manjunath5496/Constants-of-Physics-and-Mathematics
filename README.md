@@ -98,5 +98,26 @@
 </tr>  
 
 
+ <tr>
+<td> The Periodic Table  </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/21.pdf">PDF</a></td>
+</tr>     
+  
+  <tr>
+<td> The Electronic Structure of Atoms </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/22.pdf">PDF</a></td>
+</tr>
+
+  <tr>
+<td> The General Physical Constants </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/23.pdf">PDF</a></td>
+</tr>
+
+
+
+
+
+
+
 </tbody>
 </table>
