@@ -7,43 +7,43 @@
 </tr>
 <tr>
 <td>Physical constants (Rev.)</td>
-<td><a href="http://pdg.lbl.gov/2002/consrpp.pdf">PDF</a></td>
+<td><a href="http://pdg.lbl.gov/2002/1.pdf">PDF</a></td>
 </tr>
 <tr>
 <td>Physical constants (Rev.)&nbsp;<span style="color: darkviolet;">Book Format</span></td>
-<td><a href="http://pdg.lbl.gov/2002/consonepagerpp.pdf">PDF</a></td>
+<td><a href="http://pdg.lbl.gov/2002/2.pdf">PDF</a></td>
 </tr>
 <tr bgcolor="#e6e6e6">
 <td>Astrophysical constants (Rev.)</td>
-<td><a href="http://pdg.lbl.gov/2002/astrorpp.pdf">PDF</a></td>
+<td><a href="http://pdg.lbl.gov/2002/3.pdf">PDF</a></td>
 </tr>
 <tr bgcolor="#e6e6e6">
 <td>Astrophysical constants (Rev.)&nbsp;<span style="color: darkviolet;">Book Format</span></td>
-<td><a href="http://pdg.lbl.gov/2002/astroonepagerpp.pdf">PDF</a></td>
+<td><a href="http://pdg.lbl.gov/2002/4.pdf">PDF</a></td>
 </tr>
 <tr>
 <td>International System of units</td>
-<td><a href="http://pdg.lbl.gov/2002/unitsmetricrpp.pdf">PDF</a></td>
+<td><a href="http://pdg.lbl.gov/2002/5.pdf">PDF</a></td>
 </tr>
 <tr bgcolor="#e6e6e6">
 <td>Periodic table of the elements</td>
-<td><a href="http://pdg.lbl.gov/2002/periodicrpp.pdf">PDF</a></td>
+<td><a href="http://pdg.lbl.gov/2002/6.pdf">PDF</a></td>
 </tr>
 <tr>
 <td>Electronic structure of the elements (Rev.)</td>
-<td><a href="http://pdg.lbl.gov/2002/elecstrpp.pdf">PDF</a></td>
+<td><a href="http://pdg.lbl.gov/2002/7.pdf">PDF</a></td>
 </tr>
 <tr bgcolor="#e6e6e6">
 <td><span style="color: magenta;">*</span>Atomic and nuclear properties of materials (Rev.)</td>
-<td><a href="http://pdg.lbl.gov/2002/atomicrpp.pdf">PDF</a></td>
+<td><a href="http://pdg.lbl.gov/2002/8.pdf">PDF</a></td>
 </tr>
 <tr>
 <td>Electromagnetic relations</td>
-<td><a href="http://pdg.lbl.gov/2002/elecrelarpp.pdf">PDF</a></td>
+<td><a href="http://pdg.lbl.gov/2002/9.pdf">PDF</a></td>
 </tr>
 <tr bgcolor="#e6e6e6">
 <td>Naming scheme for hadrons</td>
-<td><a href="http://pdg.lbl.gov/2002/namingrpp.pdf">PDF</a></td>
+<td><a href="http://pdg.lbl.gov/2002/10.pdf">PDF</a></td>
 </tr>
 </tbody>
 </table>
