@@ -272,6 +272,29 @@
 <td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr16.pdf">PDF</a></td>
 </tr>
 
+<tr>
+<td>Basic Statistics Formulas </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr17.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Mathematical Formulae and Statistical Tables </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr18.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>Formulae and Tables </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr19.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>List of formulae and statistical tables </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr20.pdf">PDF</a></td>
+</tr>
+
+
 
 
 
