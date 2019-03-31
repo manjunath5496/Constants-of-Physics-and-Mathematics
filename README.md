@@ -135,15 +135,7 @@
 </tr>
 
 
-  <tr>
-<td> Nuclei </td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/th5.pdf">PDF</a></td>
-</tr>
-
-  <tr>
-<td> Basic Concept of Periodic Table </td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/th6.pdf">PDF</a></td>
-</tr>
+ 
 
   <tr>
 <td> Atomic Structure and Periodic Properties </td>
