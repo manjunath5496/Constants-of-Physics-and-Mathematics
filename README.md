@@ -157,6 +157,36 @@
 </tr>
 
 
+  <tr>
+<td>The Gravitational Constant and the Planck's Units </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/th9.pdf">PDF</a></td>
+</tr>
+
+  <tr>
+<td> Chemical Elements </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/th10.pdf">PDF</a></td>
+</tr>
+
+
+  <tr>
+<td> Six easy roads to the Planck scale </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/th11.pdf">PDF</a></td>
+</tr>
+
+ <tr>
+<td> Natural Systems Of Units </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/th12.pdf">PDF</a></td>
+</tr>
+
+
+
+
+
+
+
+
+
+
 
 </tbody>
 </table>
