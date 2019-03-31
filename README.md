@@ -295,18 +295,70 @@
 </tr>
 
 
+<tr>
+<td>Clark's Tables </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr21.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>The AIChE Pocket Handbook </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr22.pdf">PDF</a></td>
+</tr>
 
 
 
 
+<tr>
+<td>AP Biology Equations and Formulas  </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr23.pdf">PDF</a></td>
+</tr>
 
 
+<tr>
+<td>Equations in Physics </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr24.pdf">PDF</a></td>
+</tr>
 
 
+<tr>
+<td>Formulae Handbook For Maths and Science  </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr25.pdf">PDF</a></td>
+</tr>
 
 
+<tr>
+<td>CRC Standard Mathematical Tables and Formulae </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr26.pdf">PDF</a></td>
+</tr>
 
 
+<tr>
+<td>Electronics Engineering Formula Book  </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr27.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Formulas and Conversions  </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr28.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Formulae Handbook  </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr29.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>Engineering Formula Sheet  </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr30.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>Data and Formulae for Mechanical Engineering Students  </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr31.pdf">PDF</a></td>
+</tr>
 
 </tbody>
 </table>
