@@ -234,6 +234,52 @@
 <td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr8.pdf">PDF</a></td>
 </tr>
 
+<tr>
+<td>Basic Thermodynamic Formulas</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr9.pdf">PDF</a></td>
+</tr>
+<tr>
+<td>Principles of Chemical Nomenclature</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr10.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>Formulae Sheet for Physics</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr11.pdf">PDF</a></td>
+</tr>
+<tr>
+<td>Physical Science: Tables & Formulas</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr12.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>Important Formulas of Physical Chemistry</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr13.pdf">PDF</a></td>
+</tr>
+<tr>
+<td>Physics Formula Booklet </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr14.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>Physical Chemistry Formula Booklet </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr15.pdf">PDF</a></td>
+</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </tbody>
 </table>
 
