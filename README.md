@@ -113,9 +113,47 @@
 <td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/23.pdf">PDF</a></td>
 </tr>
 
+  <tr>
+<td> Theoretical Atomic Physics </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/th1.pdf">PDF</a></td>
+</tr>
+
+  <tr>
+<td> Fundamentals in Nuclear Physics </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/th2.pdf">PDF</a></td>
+</tr>
 
 
+  <tr>
+<td> Dimensions and Units </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/th3.pdf">PDF</a></td>
+</tr>
 
+  <tr>
+<td> Nuclear Properties </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/th4.pdf">PDF</a></td>
+</tr>
+
+
+  <tr>
+<td> Nuclei </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/th5.pdf">PDF</a></td>
+</tr>
+
+  <tr>
+<td> Basic Concept of Periodic Table </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/th6.pdf">PDF</a></td>
+</tr>
+
+  <tr>
+<td> Atomic Structure and Periodic Properties </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/th7.pdf">PDF</a></td>
+</tr>
+
+  <tr>
+<td> Atomic Physics </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/th8.pdf">PDF</a></td>
+</tr>
 
 
 
