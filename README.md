@@ -267,6 +267,11 @@
 </tr>
 
 
+<tr>
+<td>Chemistry Data Booklet </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr16.pdf">PDF</a></td>
+</tr>
+
 
 
 
