@@ -198,7 +198,7 @@
 <tbody>
 <tr valign="bottom">
 <td colspan="4">
-<p style="text-align: center;"><strong>Formulas</strong></p>
+<p style="text-align: center;"><strong>Formulas and Equations</strong></p>
 </td>
 </tr>
 <tr>
