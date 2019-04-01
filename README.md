@@ -888,7 +888,10 @@
 <td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs26.pdf">PDF</a></td>
 </tr>
 
-
+<tr>
+<td>Log and Antilog Tables</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/lg1.pdf">PDF</a></td>
+</tr>
 
 
 
