@@ -667,6 +667,91 @@
 </tr>
 
 
+<tr>
+<td>Newnes Mechanical Engineer's Pocket Book </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr85.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td> Quantum Mechanics Formulas </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr86.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Physics Pocket diary of concepts and formulas  </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr87.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td> Mathematics Formulary </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr88.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>Formulae and Statistical Tables  </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr89.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td> Physics Terms, Definitions And Units </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr90.pdf">PDF</a></td>
+</tr>
+
+
+
+<tr>
+<td>Physics Formulas  </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr91.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td> Functional Groups In Organic Chemistry </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr92.pdf">PDF</a></td>
+</tr>
+
+
+
+<tr>
+<td>Rotational Kinematics Formulas  </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr93.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td> Maxwell's Equations </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr94.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Probability Cheatsheet  </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr95.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td> Physics Data Booklet </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr96.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td> Equations Of Stellar Structure </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr97.pdf">PDF</a></td>
+</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 </tbody>
 </table>
