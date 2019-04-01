@@ -200,6 +200,35 @@
 </tr>
 
 
+ <tr>
+<td> Handbook of the Elements </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/thr1.pdf">PDF</a></td>
+</tr>
+
+ <tr>
+<td> List of melting point and boiling point of elements </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/thr2.pdf">PDF</a></td>
+</tr>
+
+
+ <tr>
+<td> Metals – Melting Temperatures Reference Chart </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/thr3.pdf">PDF</a></td>
+</tr>
+
+ <tr>
+<td> Physical Properties of Various Metals and Alloys </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/thr4.pdf">PDF</a></td>
+</tr>
+
+
+ <tr>
+<td> Specific Heat Capacity Table </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/thr5.pdf">PDF</a></td>
+</tr>
+
+
+
 </tbody>
 </table>
 
