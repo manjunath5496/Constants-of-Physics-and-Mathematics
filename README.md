@@ -421,8 +421,56 @@
 
 
 
+<tr>
+<td>Engineering Science Data Booklet </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr42.pdf">PDF</a></td>
+</tr>
 
 
+
+<tr>
+<td>Trigonometry Formulas </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr43.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>Differentiation and Integration Formulas  </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr44.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Formula Sheet for Financial Mathematics  </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr45.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Mathematical Formulas and Tables   </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr46.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Formulas in Solid Mechanics  </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr47.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Integral Calculus Formula Sheet </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr48.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td> Humidity Conversion Formulas</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr49.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td> Queuing Formulas</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr50.pdf">PDF</a></td>
+</tr>
 
 
 
