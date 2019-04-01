@@ -189,6 +189,14 @@
 <td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/th14.pdf">PDF</a></td>
 </tr>
 
+ <tr>
+<td> Quantities, Units and Symbols in Physical Chemistry </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/th15.pdf">PDF</a></td>
+</tr>
+
+
+
+
 </tbody>
 </table>
 
@@ -471,6 +479,68 @@
 <td> Queuing Formulas</td>
 <td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr50.pdf">PDF</a></td>
 </tr>
+
+<tr>
+<td> Laplace Transform: General Formulas</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr51.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td> Numerical Reasoning Formulas</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr52.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td> Laplace Transform: General Formulas</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr53.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td> Ramanujan Type Trigonometric Formulas</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr54.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>Work, Energy and Power formulae</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr54.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td> Quadrature Formulas</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr55.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>Common Drilling Formulas</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr56.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td> Beam Deflection Formulae</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr57.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Mathematical Formulae</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr58.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td> Electrostatics Formulas</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr59.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>Formula Sheet: Electricity and Magnetism</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr60.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td> Chemical Kinetics - Formulas</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr61.pdf">PDF</a></td>
+</tr>
+
 
 
 
