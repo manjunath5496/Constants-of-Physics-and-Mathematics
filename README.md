@@ -194,7 +194,10 @@
 <td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/th15.pdf">PDF</a></td>
 </tr>
 
-
+ <tr>
+<td> Index Of Refraction Table </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr68.pdf">PDF</a></td>
+</tr>
 
 
 </tbody>
@@ -543,13 +546,125 @@
 
 
 
+<tr>
+<td>Astrophysics Formulas</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr62.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td> Geographic Tables and Formulas</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr63.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>Fluid Mechanics Formulas</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr64.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td> Basic Geometric Formulas And Properties</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr65.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>Engineer's Mini-Notebook: Formulas, Tables and. Basic Circuits</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr66.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td> Compendium of Chemical Terminology Gold Book</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr67.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Business Ratios and Formulas</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr69.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td> Financial and Insurance Formulas</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr70.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td> Formulas For Stress, Strain, And Structural Matrices</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr71.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Kinematic-wave Rainfall-runoff Formulas</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr72.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td> Pocket Book of Integrals and Mathematical Formulas</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr73.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Fundamental Formulas of Physics</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr74.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>Empirical Formulas</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr75.pdf">PDF</a></td>
+</tr>
 
 
 
+<tr>
+<td>Some Inversion Formulas And Formulas For Stirling Numbers</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr76.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>Lifting Frenet Formulas</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr77.pdf">PDF</a></td>
+</tr>
 
 
 
+<tr>
+<td>Poisson-Newton Formulas And Dirichlet Series</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr78.pdf">PDF</a></td>
+</tr>
 
+<tr>
+<td>Kinematic Formulas for area measures</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr79.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Newton's Interpolation Formulas</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr80.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>Formulas In Gearing</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr81.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Transmission-line Formulas</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr82.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>Organic Type Formulas </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr83.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td> Pharmacokinetic Equations </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr84.pdf">PDF</a></td>
+</tr>
 
 
 
