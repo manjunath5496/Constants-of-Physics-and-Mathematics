@@ -360,6 +360,81 @@
 <td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr31.pdf">PDF</a></td>
 </tr>
 
+
+<tr>
+<td>Optics Formulas  </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr32.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>Quantitative Aptitude Formulae  </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr33.pdf">PDF</a></td>
+</tr>
+
+
+
+<tr>
+<td>Materials Data Book  </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr34.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>Chemical Compound Formulas  </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr35.pdf">PDF</a></td>
+</tr>
+
+
+
+<tr>
+<td>Math Formulas and Fundas </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr36.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>Handy Formulae for Quantitative Aptitude Problems </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr37.pdf">PDF</a></td>
+</tr>
+
+
+
+<tr>
+<td>The Equations For Introductory Astronomy  </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr38.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>Science Data Booklet  </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr39.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Chemical Equations and Reactions  </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr40.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>Chemical Reactions and their Equations   </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr41.pdf">PDF</a></td>
+</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </tbody>
 </table>
 
