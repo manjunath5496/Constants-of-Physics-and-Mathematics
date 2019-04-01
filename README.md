@@ -741,72 +741,153 @@
 
 
 <tr>
-<td> A Glossary of Animal Physiology Terms</td>
+<td> Glossary of Animal Physiology Terms</td>
 <td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs1.pdf">PDF</a></td>
 </tr>
 
 <tr>
-<td> A Glossary of Chemistry Terms</td>
+<td>Glossary of Chemistry Terms</td>
 <td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs2.pdf">PDF</a></td>
 </tr>
 
 <tr>
-<td>A Glossary of Physics Terms</td>
+<td>Glossary of Physics Terms</td>
 <td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs3.pdf">PDF</a></td>
 </tr>
 
 <tr>
-<td> A Glossary of Biology Terms</td>
+<td> Glossary of Biology Terms</td>
 <td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs4.pdf">PDF</a></td>
 </tr>
 
 
 <tr>
-<td> A Glossary of Human Biology Terms</td>
+<td> Glossary of Human Biology Terms</td>
 <td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs5.pdf">PDF</a></td>
 </tr>
 
 <tr>
-<td> A Glossary of Zoology Terms</td>
+<td> Glossary of Zoology Terms</td>
 <td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs6.pdf">PDF</a></td>
 </tr>
 
 <tr>
-<td>A Glossary of Mathematics Terms</td>
+<td>Glossary of Mathematics Terms</td>
 <td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs7.pdf">PDF</a></td>
 </tr>
 
 <tr>
-<td>A Glossary of Biochemistry Terms</td>
+<td>Glossary of Biochemistry Terms</td>
 <td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs8.pdf">PDF</a></td>
 </tr>
 
 
 <tr>
-<td>A Glossary of Cell Biology Terms</td>
+<td>Glossary of Cell Biology Terms</td>
 <td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs9.pdf">PDF</a></td>
 </tr>
 
 <tr>
-<td>A Glossary of Life Science Terms</td>
+<td>Glossary of Life Science Terms</td>
 <td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs10.pdf">PDF</a></td>
 </tr>
 
 <tr>
-<td>A Glossary of Earth Science Terms</td>
+<td>Glossary of Earth Science Terms</td>
 <td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs11.pdf">PDF</a></td>
 </tr>
 
 
 <tr>
-<td>A Glossary of Physical Science Terms</td>
+<td>Glossary of Physical Science Terms</td>
 <td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs12.pdf">PDF</a></td>
 </tr>
 
 <tr>
-<td>A Glossary of Molecular Biology Terms</td>
+<td>Glossary of Molecular Biology Terms</td>
 <td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs13.pdf">PDF</a></td>
 </tr>
+
+
+<tr>
+<td>Glossary Of Terms Used In Physical Organic Chemistry</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs14.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Glossary Of Astronomical Terms</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs15.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Astrophysics – Glossary</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs16.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Glossary Of Terms Used In Theoretical Organic Chemistry</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs17.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Geometry – Glossary</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs18.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Glossary Of Financial Terms</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs19.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Genetics - Glossary</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs20.pdf">PDF</a></td>
+</tr>
+
+
+
+<tr>
+<td>Glossary Of Geographical Terms</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs21.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Glossary of Medical Terms</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs22.pdf">PDF</a></td>
+</tr>
+
+
+
+<tr>
+<td>Glossary Of Medical And Anatomical Terms</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs23.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Glossary Of Terms Related To Pharmaceutics</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs24.pdf">PDF</a></td>
+</tr>
+
+
+
+<tr>
+<td>Social Psychology Glossary</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs25.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>Glossary Of Terms For Thermal Physiology</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs26.pdf">PDF</a></td>
+</tr>
+
 
 
 
