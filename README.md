@@ -740,10 +740,73 @@
 
 
 
+<tr>
+<td> Animal Physiology Glossary</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs1.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td> Chemistry Glossary</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs2.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td> Physics Glossary</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs3.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td> Biology Glossary</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs4.pdf">PDF</a></td>
+</tr>
 
 
+<tr>
+<td> Human Biology Glossary</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs5.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td> Zoology Glossary</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs6.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td> Mathematics Glossary</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs7.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td> Biochemistry Glossary</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs8.pdf">PDF</a></td>
+</tr>
 
 
+<tr>
+<td>Cellbiology Glossary</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs9.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td> Life Science Glossary</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs10.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td> Earth Science Glossary</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs11.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td> Physical Science Glossary</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs12.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td> Molecular Biology Glossary</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs13.pdf">PDF</a></td>
+</tr>
 
 
 
