@@ -783,7 +783,7 @@
 
 
 <tr>
-<td>Cellbiology Glossary</td>
+<td>Cell Biology Glossary</td>
 <td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs9.pdf">PDF</a></td>
 </tr>
 
