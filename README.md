@@ -254,6 +254,16 @@
 <td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm31.pdf">PDF</a></td>
 </tr>
 
+
+<tr>
+<td>Periodic Table And Atomic Properties</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm43.pdf">PDF</a></td>
+</tr>
+
+
+
+
+
 </tbody>
 </table>
 
@@ -1014,7 +1024,26 @@
 </tr>
 
 
+<tr>
+<td>Fundamental Equations of Thermodynamics</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm36.pdf">PDF</a></td>
+</tr>
 
+<tr>
+<td>Classical Mechanics Formula Sheet </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm41.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>Basic Thermodynamic Formulas </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm48.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Thermodynamics and Statistical Physics: Formulas and Constants</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm47.pdf">PDF</a></td>
+</tr>
 
 
 </tbody>
@@ -1222,11 +1251,61 @@
 
 
 
+<tr>
+<td>Baryon Decay Parameters</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm37.pdf">PDF</a></td>
+</tr>
 
 
 
+<tr>
+<td>High-energy Collider Parameters</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm38.pdf">PDF</a></td>
+</tr>
 
 
+<tr>
+<td>Pseudoscalar-meson Decay Constants</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm39.pdf">PDF</a></td>
+</tr>
+
+
+
+<tr>
+<td>Electron, Muon, And Tau Neutrinos</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm40.pdf">PDF</a></td>
+</tr>
+
+
+
+<tr>
+<td>Grand Unified Theories</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm42.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Particle Accelerator Physics</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm44.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Passage of Particles through Matter</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm45.pdf">PDF</a></td>
+</tr>
+
+
+
+<tr>
+<td>Electroweak Model And Constraints On New Physics</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm46.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>Particle Detectors</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm49.pdf">PDF</a></td>
+</tr>
 
 
 
