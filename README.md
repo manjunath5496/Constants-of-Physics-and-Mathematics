@@ -754,7 +754,7 @@
 
 <tr>
 <td>Formulae and Statistical Tables  </td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr89.pdf">PDF</a></td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr89.PDF">PDF</a></td>
 </tr>
 
 <tr>
