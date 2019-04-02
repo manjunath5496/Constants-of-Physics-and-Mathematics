@@ -1414,6 +1414,112 @@
 </tr>
 
 
+<tr>
+<td>A Brief History of Time </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs1.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>A Briefer History of Time </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs2.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Black Holes And Baby Universes And Other Essays </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs3.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Cosmology: The Origin and Evolution of Cosmic Structure </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs4.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Relativistic Cosmology </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs5.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Frontiers of Cosmology </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs6.pdf">PDF</a></td>
+</tr>
+
+
+
+<tr>
+<td>Fundamentals of Cosmology </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs7.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Hawking on the Big Bang and Black Holes </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs8.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>String Cosmology </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs9.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Foundations of Modern Cosmology </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs10.pdf">PDF</a></td>
+</tr>
+
+
+
+<tr>
+<td>Modern Cosmology </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs11.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Cosmic Journeys To the Edge of Gravity, Space, and Time</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs12.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>The Evolution and Development of the Universe </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs13.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>The Theory of Everything</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs15.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Understanding The Universe: From Quarks To The Cosmos </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs16.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Astrophysics: Decoding the Cosmos</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs17.pdf">PDF</a></td>
+</tr>
+
+
+
+
+
+
+
+
+
+
 
 
 
