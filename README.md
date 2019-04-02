@@ -1309,6 +1309,39 @@
 
 
 
+<tr>
+<td>Gauge And Higgs Bosons </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gx1.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>Leptons </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gx2.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Quarks </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gx3.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>Mesons </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gx4.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Baryons </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gx5.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>Neutrinos in Particle Physics, Astronomy and Cosmology</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gx6.pdf">PDF</a></td>
+</tr>
+
+
 </tbody>
 </table>
 
