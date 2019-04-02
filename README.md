@@ -249,6 +249,10 @@
 <td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm23.pdf">PDF</a></td>
 </tr>
 
+<tr>
+<td> Mole Concept </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm31.pdf">PDF</a></td>
+</tr>
 
 </tbody>
 </table>
