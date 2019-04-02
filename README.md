@@ -1058,6 +1058,65 @@
 </tr>
 
 
+<tr>
+<td>Atom: Journey Across the Subatomic Cosmos</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm9.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>The Discovery of Subatomic Particles </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm10.pdf">PDF</a></td>
+</tr>
+
+
+
+<tr>
+<td>Particle Metaphysics: A Critical Account Of Subatomic Reality</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm11.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>The Physics of Subatomic Particles </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm12.pdf">PDF</a></td>
+</tr>
+
+
+
+<tr>
+<td>Subatomic Physics</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm13.pdf">PDF</a></td>
+</tr>
+
+
+
+
+<tr>
+<td>Histories of Particles in the Dark Universe </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm14.pdf">PDF</a></td>
+</tr>
+
+
+
+<tr>
+<td>Summary of Elementary Particle Physics</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm15.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>Hypothetical particles </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm16.pdf">PDF</a></td>
+</tr>
+
+
+
+<tr>
+<td>Fundamental Forces Of Nature: The Story Of Gauge Fields</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm17.pdf">PDF</a></td>
+</tr>
+
+
 
 
 
