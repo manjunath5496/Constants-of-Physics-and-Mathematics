@@ -960,6 +960,33 @@
 </tr>
 
 
+<tr>
+<td>Planet Data Table </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/thl8.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>Chemistry Data Book</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/thl9.pdf">PDF</a></td>
+</tr>
+
+
+
+<tr>
+<td>AP Physics Equations </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/thl10.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>AP Chemistry Equations and Constants</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/thl11.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Reference Tables for Physical Chemistry</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/thl12.pdf">PDF</a></td>
+</tr>
 
 
 
