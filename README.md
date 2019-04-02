@@ -1571,14 +1571,65 @@
 <td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs17.pdf">PDF</a></td>
 </tr>
 
+<tr>
+<td>The Accelerating Universe</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un1.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>A Short Journey from Quarks to the Universe</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un3.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>A Universe of Atoms, An Atom in the Universe</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un4.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>Four Laws That Drive the Universe</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un5.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>Our Place in the Universe</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un6.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Our Universe: The Thrill of Extragalactic Exploration As Told by Leading Experts</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un7.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>The Magnetic Universe</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un8.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td> Mysteries of the Universe</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un9.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>The Origins of Life and the Universe</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un10.pdf">PDF</a></td>
+</tr>
 
 
 
+<tr>
+<td>Ultimate Explanations Of The Universe</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un11.pdf">PDF</a></td>
+</tr>
 
-
-
-
-
+<tr>
+<td>The Universe and the Atom</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un12.pdf">PDF</a></td>
+</tr>
 
 
 
