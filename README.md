@@ -1634,6 +1634,60 @@
 
 
 
+<tr>
+<td>Cosmos in Collision</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un13.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>Death By Black Hole</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un14.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Physics of the Universe</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un16.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>The Law-Governed Universe</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un17.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>The Thermodynamic Universe</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un18.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>The Wraparound Universe</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un19.pdf">PDF</a></td>
+</tr>
+
+
+
+<tr>
+<td>Universe Or Multiverse?</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un20.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>The Life Of The Cosmos</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un22.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Wonders of the Universe</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un23.pdf">PDF</a></td>
+</tr>
+
+
+
+
+
+
 </tbody>
 </table>
 
