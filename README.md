@@ -924,6 +924,42 @@
 
 
 
+<tr>
+<td>Handbook Of Integral Equations</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/thl1.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>Handbook of Differential Equations</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/thl2.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>Handbook of Industrial Engineering Equations, Formulas, and Calculations</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/thl3.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>CFA Formula Booklet </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/thl4.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>The Handbook of Formulas and Tables for Signal Processing</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/thl5.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>Radioactive Decay Equations </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/thl6.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>Handbook Of Nonlinear Partial Differential Equations</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/thl7.pdf">PDF</a></td>
+</tr>
+
+
 
 
 
