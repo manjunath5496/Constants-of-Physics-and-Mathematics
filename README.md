@@ -227,6 +227,27 @@
 <td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/thr5.pdf">PDF</a></td>
 </tr>
 
+<tr>
+<td> Elements, their Atomic Number and Molar Mass </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm20.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td> Atomic Masses Of The Elements </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm21.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td> Atomic Weights of the Elements </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm22.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td> Table of Isotopic Masses and Natural Abundances </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm23.pdf">PDF</a></td>
+</tr>
 
 
 </tbody>
@@ -1115,6 +1136,88 @@
 <td>Fundamental Forces Of Nature: The Story Of Gauge Fields</td>
 <td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm17.pdf">PDF</a></td>
 </tr>
+
+
+
+<tr>
+<td>From Quarks and Gluons to Quantum Gravity </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm18.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>The Quest for Quarks</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm19.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Quantum Chromodynamics </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm24.pdf">PDF</a></td>
+</tr>
+
+
+
+<tr>
+<td>Quark Model</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm25.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>Neutrino Physics As Explored By Flavor Change</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm26.pdf">PDF</a></td>
+</tr>
+
+
+
+<tr>
+<td>Quark Masses</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm27.pdf">PDF</a></td>
+</tr>
+
+
+
+
+<tr>
+<td>Searches For Quark And Lepton Compositeness </td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm28.pdf">PDF</a></td>
+</tr>
+
+
+
+<tr>
+<td>Leptoquark Quantum Numbers</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm29.pdf">PDF</a></td>
+</tr>
+
+<tr>
+<td>Quarks, partons and Quantum Chromodynamics</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm30.pdf">PDF</a></td>
+</tr>
+
+
+
+<tr>
+<td>Nuclear and Particle Physics</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm32.pdf">PDF</a></td>
+</tr>
+
+
+<tr>
+<td>A Story Of Light: A Short Introduction To Quantum Field Theory Of Quarks And Leptons</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm33.pdf">PDF</a></td>
+</tr>
+
+
+
+<tr>
+<td>The Number Of Light Neutrino Types From Collider Experiments</td>
+<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm35.pdf">PDF</a></td>
+</tr>
+
+
+
 
 
 
