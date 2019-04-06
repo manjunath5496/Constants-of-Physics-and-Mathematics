@@ -1378,7 +1378,7 @@
 
 
 <p><span style="font-size: small;"><strong>Cosmology</strong></span></p>
-
+<hr>
 <p>1. Introduction to Astronomy and Cosmology</p>
 <p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/bh(388).pdf">Download</a></p>
 <p>2. The Grand Design</p>
