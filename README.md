@@ -1378,127 +1378,120 @@
 
 
 <p><span style="font-size: small;"><strong>Cosmology</strong></span></p>
-</br>
+
 <p>1. Introduction to Astronomy and Cosmology</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/bh(388).pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/bh(388).pdf">Download</a></p>
 <p>2. The Grand Design</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/pdf3.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/pdf3.pdf">Download</a></p>
 <p>3. Hyperspace: A Scientific Odyssey Through Parallel Universes, Time Warps, and the Tenth Dimension</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/pdf16.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/pdf16.pdf">Download</a></p>
 <p>4. Cosmos</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/pdf18.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/pdf18.pdf">Download</a></p>
 <p>5. A Universe from Nothing</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/pdf21.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/pdf21.pdf">Download</a></p>
 <p>6. The First Three Minutes</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/pdf23.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/pdf23.pdf">Download</a></p>
 <p>7. Parallel worlds: A Journey through Creation, Higher dimensions, and the Future of the Cosmos</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/pdf24.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/pdf24.pdf">Download</a></p>
 <p>8. The Elegant Universe</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/pdf32.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/pdf32.pdf">Download</a></p>
 <p>9. Einstein's Cosmos</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/pdf33.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/pdf33.pdf">Download</a></p>
 <p>10. The Universe in a Nutshell</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/pdf40.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/pdf40.pdf">Download</a></p>
 <p>11. Our Mathematical Universe</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/pdf41.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/pdf41.pdf">Download</a></p>
 <p>12. Cosmology</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/pdf334.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/pdf334.pdf">Download</a></p>
 <p>13. Introduction to Cosmology</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/pdf348.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/pdf348.pdf">Download</a></p>
 <p>14. General Relativity, Black Holes, and Cosmology</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/pdf1946.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/pdf1946.pdf">Download</a></p>
 <p>15. Beyond Star Trek: Physics from Alien Invasions to the End of Time</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sh13.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sh13.pdf">Download</a></p>
 <p>16. Hiding in the Mirror: The Quest for Alternate Realities, from Plato to String Theory</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sh37.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sh37.pdf">Download</a></p>
 <p>17. From Quarks to Black Holes: Interviewing the Universe</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sh53.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sh53.pdf">Download</a></p>
 <p>18. A Brief History of Time</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs1.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs1.pdf">Download</a></p>
 <p>19. A Briefer History of Time</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs2.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs2.pdf">Download</a></p>
 <p>20. Black Holes And Baby Universes And Other Essays</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs3.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs3.pdf">Download</a></p>
 <p>21. Cosmology: The Origin and Evolution of Cosmic Structure</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs4.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs4.pdf">Download</a></p>
 <p>22. Relativistic Cosmology</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs5.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs5.pdf">Download</a></p>
 <p>23. Frontiers of Cosmology</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs6.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs6.pdf">Download</a></p>
 <p>24. Fundamentals of Cosmology</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs7.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs7.pdf">Download</a></p>
 <p>25. Hawking on the Big Bang and Black Holes</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs8.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs8.pdf">Download</a></p>
 <p>26. String Cosmology</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs9.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs9.pdf">Download</a></p>
 <p>27. Foundations of Modern Cosmology</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs10.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs10.pdf">Download</a></p>
 <p>28. Modern Cosmology</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs11.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs11.pdf">Download</a></p>
 <p>29. Cosmic Journeys To the Edge of Gravity, Space, and Time</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs12.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs12.pdf">Download</a></p>
 <p>30. The Evolution and Development of the Universe</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs13.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs13.pdf">Download</a></p>
 <p>31. The Theory of Everything</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs15.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs15.pdf">Download</a></p>
 <p>32. Understanding The Universe: From Quarks To The Cosmos</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs16.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs16.pdf">Download</a></p>
 <p>33. Astrophysics: Decoding the Cosmos</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs17.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/cbs17.pdf">Download</a></p>
 <p>34. The Accelerating Universe</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un1.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un1.pdf">Download</a></p>
 <p>35. A Short Journey from Quarks to the Universe</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un3.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un3.pdf">Download</a></p>
 <p>36. A Universe of Atoms, An Atom in the Universe</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un4.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un4.pdf">Download</a></p>
 <p>37. Four Laws That Drive the Universe</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un5.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un5.pdf">Download</a></p>
 <p>38. Our Place in the Universe</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un6.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un6.pdf">Download</a></p>
 <p>39. Our Universe: The Thrill of Extragalactic Exploration As Told by Leading Experts</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un7.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un7.pdf">Download</a></p>
 <p>40. The Magnetic Universe</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un8.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un8.pdf">Download</a></p>
 <p>41. Mysteries of the Universe</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un9.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un9.pdf">Download</a></p>
 <p>42. The Origins of Life and the Universe</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un10.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un10.pdf">Download</a></p>
 <p>43. Ultimate Explanations Of The Universe</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un11.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un11.pdf">Download</a></p>
 <p>44. The Universe and the Atom</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un12.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un12.pdf">Download</a></p>
 <p>45. Cosmos in Collision</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un13.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un13.pdf">Download</a></p>
 <p>46. Death By Black Hole</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un14.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un14.pdf">Download</a></p>
 <p>47. Physics of the Universe</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un16.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un16.pdf">Download</a></p>
 <p>48. The Law-Governed Universe</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un17.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un17.pdf">Download</a></p>
 <p>49. The Thermodynamic Universe</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un18.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un18.pdf">Download</a></p>
 <p>50. The Wraparound Universe</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un19.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un19.pdf">Download</a></p>
 <p>51. Universe Or Multiverse?</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un20.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un20.pdf">Download</a></p>
 <p>52. The Life Of The Cosmos</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un22.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un22.pdf">Download</a></p>
 <p>53. Wonders of the Universe</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un23.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un23.pdf">Download</a></p>
 <p>54. Dust in the Universe</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un24.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un24.pdf">Download</a></p>
 <p>55. Lectures on Cosmology</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un25.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un25.pdf">Download</a></p>
 <p>56. The Invisible Universe</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un26.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un26.pdf">Download</a></p>
 <p>57. The Living Cosmos</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un27.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un27.pdf">Download</a></p>
 <p>58. The Universe As Journey : Conversations With W. Norris Clarke</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un28.pdf">PDF</a></p>
-
-
-
-
-
-
-
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un28.pdf">Download</a></p>
