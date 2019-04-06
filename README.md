@@ -1377,7 +1377,7 @@
 
 
 
-<p><span style="font-size: small;"><strong>Cosmology</strong></span></p>
+<p><span style="font-size: small;"><strong>Cosmology: Selected books and articles</strong></span></p>
 <hr>
 <p>1. Introduction to Astronomy and Cosmology</p>
 <p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/bh(388).pdf">Download</a></p>
