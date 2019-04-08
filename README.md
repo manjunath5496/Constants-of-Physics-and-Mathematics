@@ -1549,6 +1549,40 @@
 <p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un55.pdf">Download</a></p>
 <p>85. Connecting Quarks with the Cosmos: Eleven Science Questions for the New Century</p>
 <p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un56.pdf">Download</a></p>
+<p>86. Introduction To The Theory Of Black Holes</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un57.pdf">Download</a></p>
+<p>87. The Black Hole (The Adventures of Archibald Higgins)  </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un58.pdf">Download</a></p>
+<p>88. Gravity, Black Holes and the Universe</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un59.pdf">Download</a></p>
+<p>89. Encyclopedia Of Space And Astronomy </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un60.pdf">Download</a></p>
+<p>90. The Laws Of The Universe And Life</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un61.pdf">Download</a></p>
+<p>91. The Universe, Life and Everything</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un62.pdf">Download</a></p>
+<p>92. A Beginner's View of Our Electric Universe  </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un63.pdf">Download</a></p>
+<p>93. The Universe and Dr. Einstein</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un64.pdf">Download</a></p>
+<p>94. Beyond Einstein: From the Big Bang to Black Holes </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un65.pdf">Download</a></p>
+<p>95. Galaxies in the Universe: An Introduction</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un66.pdf">Download</a></p>
+<p>96. The Accidental Universe </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un67.pdf">Download</a></p>
+<p>97. A New Model of the Universe</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un68.pdf">Download</a></p>
+<p>98. Plato's Cosmology </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un69.pdf">Download</a></p>
+<p>99. Extragalactic Astronomy and Cosmology</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un70.pdf">Download</a></p>
+<p>100. Cosmology and Particle Physics</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un71.pdf">Download</a></p>
+<p>101. Warped Passages: Unraveling the Mysteries of the Universe's Hidden Dimensions</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un72.pdf">Download</a></p>
+
+
 
 
 
