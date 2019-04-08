@@ -1509,8 +1509,24 @@
 <p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un34.pdf">Download</a></p>
 <p>65. Masks of the Universe</p>
 <p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un35.pdf">Download</a></p>
-
-
+<p>66. Particle Physics and the Universe</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un36.pdf">Download</a></p>
+<p>67. Particles and the Universe</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un37.pdf">Download</a></p>
+<p>68. The Complete CD Atlas of the Universe</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un38.pdf">Download</a></p>
+<p>69. The Emission-Line Universe</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un39.pdf">Download</a></p>
+<p>70. The High Energy Universe: Ultra-High Energy Events in Astrophysics and Cosmology</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un40.pdf">Download</a></p>
+<p>71. The Metal-Rich Universe</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un41.pdf">Download</a></p>
+<p>72. The ultimate fate of the universe</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un42.pdf">Download</a></p>
+<p>73. The Nonlinear Universe: Chaos, Emergence, Life </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un43.pdf">Download</a></p>
+<p>74. A Different Universe: Reinventing Physics from the Bottom Down</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un44.rar">Download</a></p>
 
 
 
