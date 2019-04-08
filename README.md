@@ -1527,8 +1527,28 @@
 <p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un43.pdf">Download</a></p>
 <p>74. A Different Universe: Reinventing Physics from the Bottom Down</p>
 <p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un44.rar">Download</a></p>
-
-
+<p>75. Quantum Cosmology</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un45.pdf">Download</a></p>
+<p>76. How It Ends </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un47.pdf">Download</a></p>
+<p>77. The Collapsing Universe</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un48.pdf">Download</a></p>
+<p>78. Fusion: The Energy of the Universe </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un49.pdf">Download</a></p>
+<p>79. Rare Earth: Why Complex Life is Uncommon in the Universe</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un50.pdf">Download</a></p>
+<p>80. Galileo and 400 Years of Telescopic Astronomy </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un51.pdf">Download</a></p>
+<p>81. In the Grip of the Distant Universe</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un52.pdf">Download</a></p>
+<p>82. Measuring the Cosmos: How Scientists Discovered the Dimensions of the Universe </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un53.pdf">Download</a></p>
+<p>83. Einstein's Dream: The Search For A Unified Theory Of The Universe</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un54.rar">Download</a></p>
+<p>84. Earth And The Cosmos </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un55.pdf">Download</a></p>
+<p>85. Connecting Quarks with the Cosmos: Eleven Science Questions for the New Century</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un56.pdf">Download</a></p>
 
 
 
