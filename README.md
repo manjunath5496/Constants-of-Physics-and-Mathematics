@@ -1581,7 +1581,14 @@
 <p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un71.pdf">Download</a></p>
 <p>101. Warped Passages: Unraveling the Mysteries of the Universe's Hidden Dimensions</p>
 <p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un72.pdf">Download</a></p>
-
+<p>102. String Theory Demystified</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un73.pdf">Download</a></p>
+<p>103. Feynman Hughes Lectures: Astronomy, Astrophysics, Cosmology</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un74.rar">Download</a></p>
+<p>104. An Introduction to the Science of Cosmology</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un75.pdf">Download</a></p>
+<p>105. Lectures on Astronomy, Astrophysics, and Cosmology</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un76.pdf">Download</a></p>
 
 
 
