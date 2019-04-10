@@ -1729,6 +1729,17 @@
 <p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un145.pdf">Download</a></p>
 <p>175. High Energy Radiation from Black Holes: Gamma Rays, Cosmic Rays, and Neutrinos </p>
 <p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un146.pdf">Download</a></p>
+<p>176. Beyond Standard Model Physics: At the Frontiers of Cosmology and Particle Physics</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un147.pdf">Download</a></p>
+<p>177. Faces of Gravity: From Classical Cosmology to Quantum Black Holes </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un148.pdf">Download</a></p>
+<p>178. Black Holes, White Dwarfs, and Neutron Stars </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un149.rar">Download</a></p>
+<p>179. Introduction to General Relativity, Black Holes, and Cosmology </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un150.pdf">Download</a></p>
+<p>180. Constraining Modified Gravity Theories With Cosmology </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un151.pdf">Download</a></p>
+
 
 
 
