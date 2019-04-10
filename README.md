@@ -1589,12 +1589,30 @@
 <p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un75.pdf">Download</a></p>
 <p>105. Lectures on Astronomy, Astrophysics, and Cosmology</p>
 <p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un76.pdf">Download</a></p>
-
-
-
-
-
-
+<p>106. A Pluralistic Universe</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un77.pdf">Download</a></p>
+<p>107. General Relativistic Dynamics</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un78.pdf">Download</a></p>
+<p>108. Eyewitness Universe</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un79.pdf">Download</a></p>
+<p>109. Weaving the Universe: Is Modern Cosmology Discovered Or Invented?</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un80.pdf">Download</a></p>
+<p>110. State of the Universe</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un81.pdf">Download</a></p>
+<p>111. The undivided universe</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un82.pdf">Download</a></p>
+<p>112. Deep Space Propulsion</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un83.pdf">Download</a></p>
+<p>113. Our Ultimate Reality, Life, the Universe and Destiny of Mankind</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un84.pdf">Download</a></p>
+<p>114. The Universe Before the Big Bang</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un85.pdf">Download</a></p>
+<p>115. Cycles of Time</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un86.pdf">Download</a></p>
+<p>116. Magic Universe: A Grand Tour of Modern Science</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un87.pdf">Download</a></p>
+<p>117. The Greatest Comets in History</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un88.pdf">Download</a></p>
 
 
 
