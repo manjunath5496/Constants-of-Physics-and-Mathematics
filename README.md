@@ -1662,6 +1662,33 @@
 
 
 
+<p>138. From Cosmos to Chaos</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un112.pdf">Download</a></p>
+<p>139. Handbook of Isotopes in the Cosmos</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un113.pdf">Download</a></p>
+<p>140. Parmenides, cosmos, and being</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un114.pdf">Download</a></p>
+<p>141. The Astronomy Revolution: 400 Years of Exploring the Cosmos</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un115.pdf">Download</a></p>
+<p>142. The Chemical Cosmos</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un116.pdf">Download</a></p>
+<p>143. The Connectivity Hypothesis</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un117.pdf">Download</a></p>
+
+<p>144. The Individual and the Cosmos in Renaissance Philosophy</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un118.pdf">Download</a></p>
+<p>145. Revolutionaries of the Cosmos: The Astro-physicists</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un119.pdf">Download</a></p>
+<p>146. The Speed of Light: Constancy and Cosmos</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un120.pdf">Download</a></p>
+<p>147. The Nine Numbers of the Cosmos</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un121.pdf">Download</a></p>
+<p>148. The Cosmos: A Historical Perspective</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un122.pdf">Download</a></p>
+<p>149. The Life of the Cosmos</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un123.pdf">Download</a></p>
+
+
 
 
 
