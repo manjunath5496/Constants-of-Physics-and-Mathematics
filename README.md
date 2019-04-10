@@ -1647,4 +1647,30 @@
 <p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un104.pdf">Download</a></p>
 <p>131. The Self-Evolving Cosmos </p>
 <p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un105.pdf">Download</a></p>
+<p>132. Programming the Universe: A Quantum Computer Scientist Takes On the Cosmos</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un106.pdf">Download</a></p>
+<p>133. The Passage to Cosmos</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un107.pdf">Download</a></p>
+<p>134. The intelligent universe</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un108.pdf">Download</a></p>
+<p>135. Alchemy</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un109.pdf">Download</a></p>
+<p>136. A More Perfect Heaven: How Copernicus Revolutionized the Cosmos</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un110.pdf">Download</a></p>
+<p>137. Blowing Bubbles in the Cosmos: Astronomical Winds, Jets, and Explosions</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un111.pdf">Download</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
