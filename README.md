@@ -1084,7 +1084,7 @@
 
 <p><span style="font-size: small;"><strong>Standard Model and Particle Properties</strong></span></p>
 
-
+<hr>
 
 <p>The Standard Model</p>
 <p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm1.pdf">Download</a></p>
