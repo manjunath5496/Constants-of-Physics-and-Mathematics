@@ -1081,296 +1081,291 @@
 
 
 
-<table>
-<tbody>
-<tr valign="bottom">
-<td colspan="4">
+
 <p><span style="font-size: small;"><strong>Standard Model and Particle Properties</strong></span></p>
-</td>
-</tr>
-<tr>
-<td>The Standard Model</td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm1.pdf">PDF</a></td>
-</tr>
-<tr>
-<td>The Standard Model of Particle Physics</td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm2.pdf">PDF</a></td>
-</tr>
-<tr>
-<td>Particle Physics Booklet</td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm3.pdf">PDF</a></td>
-</tr>
-<tr>
-<td>Elementary Particle Physics</td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm4.pdf">PDF</a></td>
-</tr>
-<tr>
-<td>Review Of Particle Physics (Part-1)</td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm4_1.pdf">PDF</a></td>
-</tr>
-<tr>
-<td>Review Of Particle Physics (Part-2)</td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm4_2.pdf">PDF</a></td>
-</tr>
-<tr>
-<td>God Particle</td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm5.pdf">PDF</a></td>
-</tr>
 
-<tr>
-<td>Quarks, Leptons and Gauge Fields</td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm6.pdf">PDF</a></td>
-</tr>
 
-<tr>
-<td>Quarks and Leptons: An Introductory Course In Modern Particle Physics</td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm7.pdf">PDF</a></td>
-</tr>
 
-<tr>
-<td>Introduction to Particle Physics</td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm8.pdf">PDF</a></td>
-</tr>
+<p>The Standard Model</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm1.pdf">Download</a></p>
 
 
-<tr>
-<td>Particle Physics: A Very Short Introduction</td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/c(33).pdf">PDF</a></td>
-</tr>
+<p>The Standard Model of Particle Physics</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm2.pdf">Download</a></p>
 
 
-<tr>
-<td>Atom: Journey Across the Subatomic Cosmos</td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm9.pdf">PDF</a></td>
-</tr>
+<p>Particle Physics Booklet</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm3.pdf">Download</a></p>
 
 
-<tr>
-<td>The Discovery of Subatomic Particles </td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm10.pdf">PDF</a></td>
-</tr>
+<p>Elementary Particle Physics</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm4.pdf">Download</a></p>
 
 
+<p>Review Of Particle Physics (Part-1)</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm4_1.pdf">Download</a></p>
 
-<tr>
-<td>Particle Metaphysics: A Critical Account Of Subatomic Reality</td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm11.pdf">PDF</a></td>
-</tr>
 
+<p>Review Of Particle Physics (Part-2)</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm4_2.pdf">Download</a></p>
 
-<tr>
-<td>The Physics of Subatomic Particles </td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm12.pdf">PDF</a></td>
-</tr>
 
+<p>God Particle</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm5.pdf">Download</a></p>
 
 
-<tr>
-<td>Subatomic Physics</td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm13.pdf">PDF</a></td>
-</tr>
 
+<p>Quarks, Leptons and Gauge Fields</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm6.pdf">Download</a></p>
 
 
 
-<tr>
-<td>Histories of Particles in the Dark Universe </td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm14.pdf">PDF</a></td>
-</tr>
+<p>Quarks and Leptons: An Introductory Course In Modern Particle Physics</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm7.pdf">Download</a></p>
 
 
 
-<tr>
-<td>Summary of Elementary Particle Physics</td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm15.pdf">PDF</a></td>
-</tr>
+<p>Introduction to Particle Physics</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm8.pdf">Download</a></p>
 
-<tr>
-<td>Hypothetical particles </td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm16.pdf">PDF</a></td>
-</tr>
 
 
 
-<tr>
-<td>Fundamental Forces Of Nature: The Story Of Gauge Fields</td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm17.pdf">PDF</a></td>
-</tr>
+<p>Particle Physics: A Very Short Introduction</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/c(33).pdf">Download</a></p>
 
 
 
-<tr>
-<td>From Quarks and Gluons to Quantum Gravity </td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm18.pdf">PDF</a></td>
-</tr>
 
+<p>Atom: Journey Across the Subatomic Cosmos</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm9.pdf">Download</a></p>
 
-<tr>
-<td>The Quest for Quarks</td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm19.pdf">PDF</a></td>
-</tr>
 
 
-<tr>
-<td>Quantum Chromodynamics </td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm24.pdf">PDF</a></td>
-</tr>
 
+<p>The Discovery of Subatomic Particles </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm10.pdf">Download</a></p>
 
 
-<tr>
-<td>Quark Model</td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm25.pdf">PDF</a></td>
-</tr>
 
 
-<tr>
-<td>Neutrino Physics As Explored By Flavor Change</td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm26.pdf">PDF</a></td>
-</tr>
 
+<p>Particle Metaphysics: A Critical Account Of Subatomic Reality</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm11.pdf">Download</a></p>
 
 
-<tr>
-<td>Quark Masses</td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm27.pdf">PDF</a></td>
-</tr>
 
 
+<p>The Physics of Subatomic Particles </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm12.pdf">Download</a></p>
 
 
-<tr>
-<td>Searches For Quark And Lepton Compositeness </td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm28.pdf">PDF</a></td>
-</tr>
 
 
 
-<tr>
-<td>Leptoquark Quantum Numbers</td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm29.pdf">PDF</a></td>
-</tr>
+<p>Subatomic Physics</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm13.pdf">Download</a></p>
 
-<tr>
-<td>Quarks, partons and Quantum Chromodynamics</td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm30.pdf">PDF</a></td>
-</tr>
 
 
 
-<tr>
-<td>Nuclear and Particle Physics</td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm32.pdf">PDF</a></td>
-</tr>
 
 
-<tr>
-<td>A Story Of Light: A Short Introduction To Quantum Field Theory Of Quarks And Leptons</td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm33.pdf">PDF</a></td>
-</tr>
+<p>Histories of Particles in the Dark Universe </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm14.pdf">Download</a></p>
 
 
 
-<tr>
-<td>The Number Of Light Neutrino Types From Collider Experiments</td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm35.pdf">PDF</a></td>
-</tr>
 
 
+<p>Summary of Elementary Particle Physics</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm15.pdf">Download</a></p>
 
-<tr>
-<td>Baryon Decay Parameters</td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm37.pdf">PDF</a></td>
-</tr>
 
 
+<p>Hypothetical particles </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm16.pdf">Download</a></p>
 
-<tr>
-<td>High-energy Collider Parameters</td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm38.pdf">PDF</a></td>
-</tr>
 
 
-<tr>
-<td>Pseudoscalar-meson Decay Constants</td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm39.pdf">PDF</a></td>
-</tr>
 
 
+<p>Fundamental Forces Of Nature: The Story Of Gauge Fields</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm17.pdf">Download</a></p>
 
-<tr>
-<td>Electron, Muon, And Tau Neutrinos</td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm40.pdf">PDF</a></td>
-</tr>
 
 
 
-<tr>
-<td>Grand Unified Theories</td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm42.pdf">PDF</a></td>
-</tr>
 
+<p>From Quarks and Gluons to Quantum Gravity </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm18.pdf">Download</a></p>
 
-<tr>
-<td>Particle Accelerator Physics</td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm44.pdf">PDF</a></td>
-</tr>
 
 
-<tr>
-<td>Passage of Particles through Matter</td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm45.pdf">PDF</a></td>
-</tr>
 
+<p>The Quest for Quarks</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm19.pdf">Download</a></p>
 
 
-<tr>
-<td>Electroweak Model And Constraints On New Physics</td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm46.pdf">PDF</a></td>
-</tr>
 
-<tr>
-<td>Particle Detectors</td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm49.pdf">PDF</a></td>
-</tr>
 
+<p>Quantum Chromodynamics </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm24.pdf">Download</a></p>
 
 
-<tr>
-<td>Gauge And Higgs Bosons </td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gx1.pdf">PDF</a></td>
-</tr>
 
-<tr>
-<td>Leptons </td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gx2.pdf">PDF</a></td>
-</tr>
 
 
-<tr>
-<td>Quarks </td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gx3.pdf">PDF</a></td>
-</tr>
+<p>Quark Model</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm25.pdf">Download</a></p>
 
-<tr>
-<td>Mesons </td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gx4.pdf">PDF</a></td>
-</tr>
 
 
-<tr>
-<td>Baryons </td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gx5.pdf">PDF</a></td>
-</tr>
 
-<tr>
-<td>Neutrinos in Particle Physics, Astronomy and Cosmology</td>
-<td><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gx6.pdf">PDF</a></td>
-</tr>
+<p>Neutrino Physics As Explored By Flavor Change</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm26.pdf">Download</a></p>
 
 
-</tbody>
-</table>
+
+
+
+<p>Quark Masses</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm27.pdf">Download</a></p>
+
+
+
+
+
+
+<p>Searches For Quark And Lepton Compositeness </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm28.pdf">Download</a></p>
+
+
+
+
+
+<p>Leptoquark Quantum Numbers</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm29.pdf">Download</a></p>
+
+
+
+<p>Quarks, partons and Quantum Chromodynamics</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm30.pdf">Download</a></p>
+
+
+
+
+
+<p>Nuclear and Particle Physics</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm32.pdf">Download</a></p>
+
+
+
+
+<p>A Story Of Light: A Short Introduction To Quantum Field Theory Of Quarks And Leptons</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm33.pdf">Download</a></p>
+
+
+
+
+
+<p>The Number Of Light Neutrino Types From Collider Experiments</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm35.pdf">Download</a></p>
+
+
+
+
+
+<p>Baryon Decay Parameters</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm37.pdf">Download</a></p>
+
+
+
+
+
+<p>High-energy Collider Parameters</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm38.pdf">Download</a></p>
+
+
+
+
+<p>Pseudoscalar-meson Decay Constants</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm39.pdf">Download</a></p>
+
+
+
+
+
+<p>Electron, Muon, And Tau Neutrinos</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm40.pdf">Download</a></p>
+
+
+
+
+
+<p>Grand Unified Theories</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm42.pdf">Download</a></p>
+
+
+
+
+<p>Particle Accelerator Physics</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm44.pdf">Download</a></p>
+
+
+
+
+<p>Passage of Particles through Matter</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm45.pdf">Download</a></p>
+
+
+
+
+
+<p>Electroweak Model And Constraints On New Physics</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm46.pdf">Download</a></p>
+
+
+
+<p>Particle Detectors</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm49.pdf">Download</a></p>
+
+
+
+
+
+<p>Gauge And Higgs Bosons </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gx1.pdf">Download</a></p>
+
+
+
+<p>Leptons </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gx2.pdf">Download</a></p>
+
+
+
+
+<p>Quarks </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gx3.pdf">Download</a></p>
+
+
+
+<p>Mesons </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gx4.pdf">Download</a></p>
+
+
+
+
+<p>Baryons </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gx5.pdf">Download</a></p>
+
+
+
+<p>Neutrinos in Particle Physics, Astronomy and Cosmology</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gx6.pdf">Download</a></p>
+
+
+
 
 
 </br>
