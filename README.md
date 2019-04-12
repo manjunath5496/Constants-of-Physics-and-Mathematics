@@ -1364,6 +1364,86 @@
 <p>Neutrinos in Particle Physics, Astronomy and Cosmology</p>
 <p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gx6.pdf">Download</a></p>
 
+<p>Atomic Physics at Accelerators: Stored Particles and Fundamental Physics</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm51.pdf">Download</a></p>
+
+<p>An Introduction to the Standard Model of Particle Physics</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm52.pdf">Download</a></p>
+
+<p>Grand Unified Theories and Supersymmetry in Particle Physics and Cosmology</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm54.pdf">Download</a></p>
+
+<p>Frontiers of Particle Physics</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm55.pdf">Download</a></p>
+
+<p>Future High-Energy Colliders</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm56.rar">Download</a></p>
+
+<p>Supersymmetry in Particle Physics</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm57.pdf">Download</a></p>
+
+<p>Particle Physics and Introduction to Field Theory </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm58.pdf">Download</a></p>
+
+<p>Particle Physics at the Year of Astronomy</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm59.pdf">Download</a></p>
+
+<p>Particles and Fundamental Interactions</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm60.pdf">Download</a></p>
+
+<p>A Statistical Field Theory for Classical Particles</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm61.pdf">Download</a></p>
+
+<p>Quantum Physics of Atoms, Molecules, Solids, Nuclei, and Particles</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm62.pdf">Download</a></p>
+
+<p>Quarks: Frontiers In Elementary Particle Physics</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm63.pdf">Download</a></p>
+
+<p>Quarks & Leptons: An Introductory Course In Modern Particle Physics</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm64.pdf">Download</a></p>
+
+<p>Relativity, groups, particles : special relativity and relativistic symmetry in field and particle physics</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm65.pdf">Download</a></p>
+
+<p>The Phases of Quantum Chromodynamics</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm66.pdf">Download</a></p>
+
+
+<p>The Physical Universe: The Interface Between Cosmology, Astrophysics and Particle Physics</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm67.pdf">Download</a></p>
+
+<p>Handbook of Particle Physics</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm68.rar">Download</a></p>
+
+<p>The MIT bag model to nuclear and particle physics</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm69.pdf">Download</a></p>
+
+<p>Physics of Particle Detection</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm70.pdf">Download</a></p>
+
+<p>Facts and Mysteries in Elementary Particle Physics</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm71.pdf">Download</a></p>
+
+<p>Lessons in Particle Physics</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm72.pdf">Download</a></p>
+
+<p>Theoretical Particle Physics</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm73.pdf">Download</a></p>
+
+<p>Phenomenology of Particle Physics</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm74.pdf">Download</a></p>
+
+<p>Status of Higgs Boson Physics</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm75.pdf">Download</a></p>
+
+<p>Particle Physics of the Early Universe</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm76.pdf">Download</a></p>
+
+
+
+
+
 
 
 
