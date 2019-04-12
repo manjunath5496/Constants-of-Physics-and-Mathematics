@@ -1455,6 +1455,74 @@
 <p>67. Particle-interaction Physics at High Energies</p>
 <p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm81.pdf">Download</a></p>
 
+<p>68. An Introduction To Gauge Theories And Modern Particle Physics</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm82.pdf">Download</a></p>
+
+<p>69. Particle Astrophysics</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm83.pdf">Download</a></p>
+
+<p>70. Particles and Fundamental Interactions</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm84.pdf">Download</a></p>
+
+<p>71. The Theory of Almost Everything: The Standard Model, the Unsung Triumph of Modern Physics</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm85.pdf">Download</a></p>
+
+<p>72. The Structure and Interpretation of the Standard Model</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm86.pdf">Download</a></p>
+
+<p>73. The Standard Model: A Primer</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm87.pdf">Download</a></p>
+
+<p>74. The Physics of Synchrotron Radiation</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm88.pdf">Download</a></p>
+
+<p>75. Constructing Reality: Quantum Theory and Particle Physics</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm89.pdf">Download</a></p>
+
+<p>76. Dark Matter in Astro- and Particle Physics</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm90.pdf">Download</a></p>
+
+<p>77. Constructing Reality: Quantum Theory and Particle Physics</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm91.pdf">Download</a></p>
+
+<p>78. Strong Interactions of Hadrons at High Energies </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm93.pdf">Download</a></p>
+
+<p>79. Quarks, Leptons and the Big Bang </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm94.pdf">Download</a></p>
+
+<p>80. Foundations of Quantum Physics </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm95.pdf">Download</a></p>
+
+<p>81. Colliders and Neutrinos: The Window Into Physics Beyond the Standard Model </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm96.pdf">Download</a></p>
+
+<p>82. The Role of Neutrinos, Strings, Gravity, and Variable Cosmological Constant in Elementary Particle Physics </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm97.pdf">Download</a></p>
+
+<p>83. From Quarks To Black Holes: Progress In Understanding The Logic Of Nature </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm98.pdf">Download</a></p>
+
+<p>84. The Physics of Massive Neutrinos </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm99.pdf">Download</a></p>
+
+<p>85. Particle Metaphysics: A Critical Account of Subatomic Reality </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm100.pdf">Download</a></p>
+
+<p>86. The Discovery of Subatomic Particles </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm101.rar">Download</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
