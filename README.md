@@ -1400,7 +1400,7 @@
 <p>Quarks: Frontiers In Elementary Particle Physics</p>
 <p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm63.pdf">Download</a></p>
 
-<p>Quarks & Leptons: An Introductory Course In Modern Particle Physics</p>
+<p>Particle Physics and the Schrödinger Equation</p>
 <p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm64.pdf">Download</a></p>
 
 <p>Relativity, groups, particles : special relativity and relativistic symmetry in field and particle physics</p>
