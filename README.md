@@ -1440,6 +1440,20 @@
 <p>62. Particle Physics of the Early Universe</p>
 <p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm76.pdf">Download</a></p>
 
+<p>63. Matter and Interactions: a particle physics perspective</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm77.pdf">Download</a></p>
+
+<p>64. Particle Physics and the Standard Model</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm78.pdf">Download</a></p>
+
+<p>65. Experimental foundations of particle physics</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm79.pdf">Download</a></p>
+
+<p>66. Hadronization in Particle Physics</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm80.pdf">Download</a></p>
+
+<p>67. Particle-interaction Physics at High Energies</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm81.pdf">Download</a></p>
 
 
 
