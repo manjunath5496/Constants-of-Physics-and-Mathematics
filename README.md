@@ -1512,8 +1512,47 @@
 <p>86. The Discovery of Subatomic Particles </p>
 <p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm101.rar">Download</a></p>
 
+<p>87. Applied Charged Particle Optics </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm102.pdf">Download</a></p>
 
+<p>88. Handbook Of Charged Particle Optics </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm103.pdf">Download</a></p>
 
+<p>89. Introduction to Experimental Particle Physics </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm104.pdf">Download</a></p>
+
+<p>90. Introduction to Particle Technology </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm105.pdf">Download</a></p>
+
+<p>91. Advances in Imaging and Electron Physics </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm106.pdf">Download</a></p>
+
+<p>92. Particle Dark Matter: Observations, Models and Searches </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm107.pdf">Download</a></p>
+
+<p>93. Particle Physics on the Eve of LHC </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm108.pdf">Download</a></p>
+
+<p>94. Particle Size Measurement </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm109.pdf">Download</a></p>
+
+<p>95. Positron Physics </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm110.pdf">Download</a></p>
+
+<p>96. QCD as a Theory of Hadrons: From Partons to Confinement </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm111.pdf">Download</a></p>
+
+<p>97. The Britannica Guide To Particle Physics </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm112.pdf">Download</a></p>
+
+<p>98. The Particle Odyssey</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm113.pdf">Download</a></p>
+
+<p>99. The Particle World of Condensed Matter </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm114.pdf">Download</a></p>
+
+<p>100. Statistical Problems In Particle Physics, Astrophysics And Cosmology</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm115.pdf">Download</a></p>
 
 
 
