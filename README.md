@@ -297,107 +297,107 @@
 
 <hr>
 <p>1. 1300 Math Formulas</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr1.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr1.pdf">Download</a></p>
 
 
 <p>2. Civil Engineering Formulas</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr2.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr2.pdf">Download</a></p>
 
 
 <p>3. Formulas of Acoustics</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr3.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr3.pdf">Download</a></p>
 
 
 <p>4. Mathematical Formulas for Economists</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr4.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr4.pdf">Download</a></p>
 
 
 <p>5. The Cambridge Handbook of Physics Formulas</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr5.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr5.pdf">Download</a></p>
 
 
 <p>6. Mathematical Handbook of Formulas and Tables</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr6.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr6.pdf">Download</a></p>
 
 
 <p>7. Formula Handbook</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr7.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr7.pdf">Download</a></p>
 
 
 <p>8. The 100 Most Important Chemical Compounds</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr8.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr8.pdf">Download</a></p>
 
 
 
 <p>9. Basic Thermodynamic Formulas</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr9.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr9.pdf">Download</a></p>
 
 
 <p>10. Principles of Chemical Nomenclature</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr10.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr10.pdf">Download</a></p>
 
 
 
 <p>11. Formulae Sheet for Physics</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr11.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr11.pdf">Download</a></p>
 
 
 <p>12. Physical Science: Tables & Formulas</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr12.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr12.pdf">Download</a></p>
 
 
 
 <p>13. Important Formulas of Physical Chemistry</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr13.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr13.pdf">Download</a></p>
 
 
 <p>14. Physics Formula Booklet </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr14.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr14.pdf">Download</a></p>
 
 
 
 <p>15. Physical Chemistry Formula Booklet </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr15.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr15.pdf">Download</a></p>
 
 
 
 
 <p>16. Chemistry Data Booklet </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr16.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr16.pdf">Download</a></p>
 
 
 
 <p>17. Basic Statistics Formulas </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr17.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr17.pdf">Download</a></p>
 
 
 
 
 <p>18. Mathematical Formulae and Statistical Tables </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr18.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr18.pdf">Download</a></p>
 
 
 
 <p>19. Formulae and Tables </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr19.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr19.pdf">Download</a></p>
 
 
 
 
 <p>20. List of formulae and statistical tables </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr20.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr20.pdf">Download</a></p>
 
 
 
 
 <p>21. Clark's Tables </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr21.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr21.pdf">Download</a></p>
 
 
 
 
 <p>22. The AIChE Pocket Handbook </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr22.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr22.pdf">Download</a></p>
 
 
 
@@ -405,111 +405,111 @@
 
 
 <p>23. AP Biology Equations and Formulas  </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr23.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr23.pdf">Download</a></p>
 
 
 
 
 <p>24. Equations in Physics </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr24.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr24.pdf">Download</a></p>
 
 
 
 
 <p>25. Formulae Handbook For Maths and Science  </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr25.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr25.pdf">Download</a></p>
 
 
 
 
 <p>26. CRC Standard Mathematical Tables and Formulae </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr26.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr26.pdf">Download</a></p>
 
 
 
 
 <p>27. Electronics Engineering Formula Book  </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr27.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr27.pdf">Download</a></p>
 
 
 
 
 <p>28. Formulas and Conversions  </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr28.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr28.pdf">Download</a></p>
 
 
 
 
 <p>29. Formulae Handbook  </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr29.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr29.pdf">Download</a></p>
 
 
 
 <p>30. Engineering Formula Sheet  </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr30.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr30.pdf">Download</a></p>
 
 
 
 <p>31. Data and Formulae for Mechanical Engineering Students  </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr31.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr31.pdf">Download</a></p>
 
 
 
 
 <p>32. Optics Formulas  </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr32.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr32.pdf">Download</a></p>
 
 
 
 <p>33. Quantitative Aptitude Formulae  </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr33.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr33.pdf">Download</a></p>
 
 
 
 
 
 <p>34. Materials Data Book  </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr34.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr34.pdf">Download</a></p>
 
 
 
 <p>35. Chemical Compound Formulas  </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr35.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr35.pdf">Download</a></p>
 
 
 
 
 
 <p>36. Math Formulas and Fundas </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr36.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr36.pdf">Download</a></p>
 
 
 
 <p>37. Handy Formulae for Quantitative Aptitude Problems </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr37.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr37.pdf">Download</a></p>
 
 
 
 
 
 <p>38. The Equations For Introductory Astronomy  </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr38.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr38.pdf">Download</a></p>
 
 
 
 <p>39. Science Data Booklet  </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr39.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr39.pdf">Download</a></p>
 
 
 
 
 <p>40. Chemical Equations and Reactions  </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr40.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr40.pdf">Download</a></p>
 
 
 
 <p>41. Chemical Reactions and their Equations   </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr41.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr41.pdf">Download</a></p>
 
 
 
@@ -517,551 +517,556 @@
 
 
 <p>42. Engineering Science Data Booklet </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr42.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr42.pdf">Download</a></p>
 
 
 
 
 
 <p>43. Trigonometry Formulas </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr43.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr43.pdf">Download</a></p>
 
 
 
 <p>44. Differentiation and Integration Formulas  </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr44.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr44.pdf">Download</a></p>
 
 
 
 
 <p>45. Formula Sheet for Financial Mathematics  </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr45.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr45.pdf">Download</a></p>
 
 
 
 
 <p>46. Mathematical Formulas and Tables   </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr46.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr46.pdf">Download</a></p>
 
 
 
 
 <p>47. Formulas in Solid Mechanics  </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr47.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr47.pdf">Download</a></p>
 
 
 
 
 <p>48. Integral Calculus Formula Sheet </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr48.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr48.pdf">Download</a></p>
 
 
 
 <p>49. Humidity Conversion Formulas</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr49.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr49.pdf">Download</a></p>
 
 
 
 <p>50. Queuing Formulas</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr50.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr50.pdf">Download</a></p>
 
 
 
 <p>51. Laplace Transform: General Formulas</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr51.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr51.pdf">Download</a></p>
 
 
 
 <p>52. Numerical Reasoning Formulas</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr52.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr52.pdf">Download</a></p>
 
 
 
 <p>53. Laplace Transform: General Formulas</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr53.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr53.pdf">Download</a></p>
 
 
 
 <p>54. Ramanujan Type Trigonometric Formulas</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr54.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr54.pdf">Download</a></p>
 
 
 
 <p>55. Work, Energy and Power formulae</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr54.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr54.pdf">Download</a></p>
 
 
 
 <p>56. Quadrature Formulas</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr55.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr55.pdf">Download</a></p>
 
 
 
 <p>57. Common Drilling Formulas</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr56.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr56.pdf">Download</a></p>
 
 
 
 <p>58. Beam Deflection Formulae</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr57.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr57.pdf">Download</a></p>
 
 
 
 
 <p>59. Mathematical Formulae</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr58.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr58.pdf">Download</a></p>
 
 
 
 <p>60. Electrostatics Formulas</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr59.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr59.pdf">Download</a></p>
 
 
 
 <p>61. Formula Sheet: Electricity and Magnetism</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr60.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr60.pdf">Download</a></p>
 
 
 
 <p>62. Chemical Kinetics - Formulas</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr61.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr61.pdf">Download</a></p>
 
 
 
 
 
 <p>63. Astrophysics Formulas</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr62.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr62.pdf">Download</a></p>
 
 
 
 <p>64. Geographic Tables and Formulas</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr63.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr63.pdf">Download</a></p>
 
 
 
 <p>65. Fluid Mechanics Formulas</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr64.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr64.pdf">Download</a></p>
 
 
 
 <p>66. Basic Geometric Formulas And Properties</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr65.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr65.pdf">Download</a></p>
 
 
 
 <p>67. Engineer's Mini-Notebook: Formulas, Tables and. Basic Circuits</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr66.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr66.pdf">Download</a></p>
 
 
 
 <p>68. Compendium of Chemical Terminology Gold Book</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr67.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr67.pdf">Download</a></p>
 
 
 
 
 <p>69. Business Ratios and Formulas</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr69.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr69.pdf">Download</a></p>
 
 
 
 <p>70. Financial and Insurance Formulas</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr70.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr70.pdf">Download</a></p>
 
 
 
 
 <p>71. Formulas For Stress, Strain, And Structural Matrices</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr71.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr71.pdf">Download</a></p>
 
 
 
 
 <p>72. Kinematic-wave Rainfall-runoff Formulas</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr72.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr72.pdf">Download</a></p>
 
 
 
 <p>73. Pocket Book of Integrals and Mathematical Formulas</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr73.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr73.pdf">Download</a></p>
 
 
 
 
 <p>74. Fundamental Formulas of Physics</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr74.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr74.pdf">Download</a></p>
 
 
 
 <p>75. Empirical Formulas</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr75.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr75.pdf">Download</a></p>
 
 
 
 
 
 <p>76. Some Inversion Formulas And Formulas For Stirling Numbers</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr76.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr76.pdf">Download</a></p>
 
 
 
 <p>77. Lifting Frenet Formulas</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr77.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr77.pdf">Download</a></p>
 
 
 
 
 
 <p>78. Poisson-Newton Formulas And Dirichlet Series</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr78.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr78.pdf">Download</a></p>
 
 
 
 <p>79. Kinematic Formulas for area measures</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr79.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr79.pdf">Download</a></p>
 
 
 
 
 <p>80. Newton's Interpolation Formulas</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr80.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr80.pdf">Download</a></p>
 
 
 
 <p>81. Formulas In Gearing</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr81.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr81.pdf">Download</a></p>
 
 
 
 
 <p>82. Transmission-line Formulas</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr82.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr82.pdf">Download</a></p>
 
 
 
 <p>83. Organic Type Formulas </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr83.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr83.pdf">Download</a></p>
 
 
 
 <p>84. Pharmacokinetic Equations </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr84.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr84.pdf">Download</a></p>
 
 
 
 
 <p>85. Newnes Mechanical Engineer's Pocket Book </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr85.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr85.pdf">Download</a></p>
 
 
 
 <p>86. Quantum Mechanics Formulas </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr86.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr86.pdf">Download</a></p>
 
 
 
 
 <p>87. Physics Pocket diary of concepts and formulas  </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr87.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr87.pdf">Download</a></p>
 
 
 
 <p>88. Mathematics Formulary </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr88.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr88.pdf">Download</a></p>
 
 
 
 <p>89. Formulae and Statistical Tables  </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr89.PDF">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr89.PDF">Download</a></p>
 
 
 
 <p>90. Physics Terms, Definitions And Units </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr90.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr90.pdf">Download</a></p>
 
 
 
 
 
 <p>91. Physics Formulas  </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr91.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr91.pdf">Download</a></p>
 
 
 
 <p>92. Functional Groups In Organic Chemistry </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr92.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr92.pdf">Download</a></p>
 
 
 
 
 
 <p>93. Rotational Kinematics Formulas  </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr93.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr93.pdf">Download</a></p>
 
 
 
 <p>94. Maxwell's Equations </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr94.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr94.pdf">Download</a></p>
 
 
 
 
 <p>95. Probability Cheatsheet  </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr95.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr95.pdf">Download</a></p>
 
 
 
 <p>96. Physics Data Booklet </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr96.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr96.pdf">Download</a></p>
 
 
 
 <p>97. Equations Of Stellar Structure </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr97.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/fr97.pdf">Download</a></p>
 
 
 
 
 
 <p>98. Glossary of Animal Physiology Terms</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs1.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs1.pdf">Download</a></p>
 
 
 
 <p>99. Glossary of Chemistry Terms</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs2.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs2.pdf">Download</a></p>
 
 
 
 <p>100. Glossary of Physics Terms</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs3.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs3.pdf">Download</a></p>
 
 
 
 <p>101. Glossary of Biology Terms</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs4.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs4.pdf">Download</a></p>
 
 
 
 
 <p>102. Glossary of Human Biology Terms</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs5.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs5.pdf">Download</a></p>
 
 
 
 <p>103. Glossary of Zoology Terms</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs6.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs6.pdf">Download</a></p>
 
 
 
 <p>104. Glossary of Mathematics Terms</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs7.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs7.pdf">Download</a></p>
 
 
 
 <p>105. Glossary of Biochemistry Terms</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs8.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs8.pdf">Download</a></p>
 
 
 
 
 <p>106. Glossary of Cell Biology Terms</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs9.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs9.pdf">Download</a></p>
 
 
 
 <p>107. Glossary of Life Science Terms</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs10.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs10.pdf">Download</a></p>
 
 
 
 <p>108. Glossary of Earth Science Terms</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs11.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs11.pdf">Download</a></p>
 
 
 
 
 <p>109. Glossary of Physical Science Terms</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs12.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs12.pdf">Download</a></p>
 
 
 
 <p>110. Glossary of Molecular Biology Terms</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs13.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs13.pdf">Download</a></p>
 
 
 
 
 <p>111. Glossary Of Terms Used In Physical Organic Chemistry</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs14.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs14.pdf">Download</a></p>
 
 
 
 
 <p>112. Glossary Of Astronomical Terms</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs15.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs15.pdf">Download</a></p>
 
 
 
 
 <p>113. Astrophysics – Glossary</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs16.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs16.pdf">Download</a></p>
 
 
 
 
 <p>114. Glossary Of Terms Used In Theoretical Organic Chemistry</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs17.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs17.pdf">Download</a></p>
 
 
 
 
 <p>115. Geometry – Glossary</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs18.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs18.pdf">Download</a></p>
 
 
 
 
 <p>116. Glossary Of Financial Terms</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs19.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs19.pdf">Download</a></p>
 
 
 
 
 <p>117. Genetics - Glossary</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs20.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs20.pdf">Download</a></p>
 
 
 
 
 
 <p>118. Glossary Of Geographical Terms</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs21.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs21.pdf">Download</a></p>
 
 
 
 
 <p>119. Glossary of Medical Terms</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs22.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs22.pdf">Download</a></p>
 
 
 
 
 
 <p>120. Glossary Of Medical And Anatomical Terms</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs23.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs23.pdf">Download</a></p>
 
 
 
 
 <p>121. Glossary Of Terms Related To Pharmaceutics</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs24.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs24.pdf">Download</a></p>
 
 
 
 
 
 <p>122. Social Psychology Glossary</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs25.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs25.pdf">Download</a></p>
 
 
 
 <p>123. Glossary Of Terms For Thermal Physiology</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs26.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/gs26.pdf">Download</a></p>
 
 
 
 <p>124. Log and Antilog Tables</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/lg1.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/lg1.pdf">Download</a></p>
 
 
 
 
 
 <p>125. Handbook Of Integral Equations</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/thl1.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/thl1.pdf">Download</a></p>
 
 
 
 <p>126. Handbook of Differential Equations</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/thl2.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/thl2.pdf">Download</a></p>
 
 
 
 <p>127. Handbook of Industrial Engineering Equations, Formulas, and Calculations</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/thl3.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/thl3.pdf">Download</a></p>
 
 
 
 <p>128. CFA Formula Booklet </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/thl4.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/thl4.pdf">Download</a></p>
 
 
 
 <p>129. The Handbook of Formulas and Tables for Signal Processing</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/thl5.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/thl5.pdf">Download</a></p>
 
 
 
 <p>130. Radioactive Decay Equations </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/thl6.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/thl6.pdf">Download</a></p>
 
 
 
 <p>131. Handbook Of Nonlinear Partial Differential Equations</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/thl7.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/thl7.pdf">Download</a></p>
 
 
 
 
 <p>132. Planet Data Table </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/thl8.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/thl8.pdf">Download</a></p>
 
 
 
 <p>133. Chemistry Data Book</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/thl9.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/thl9.pdf">Download</a></p>
 
 
 
 
 
 <p>134. AP Physics Equations </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/thl10.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/thl10.pdf">Download</a></p>
 
 
 
 <p>135. AP Chemistry Equations and Constants</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/thl11.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/thl11.pdf">Download</a></p>
 
 
 
 
 <p>136. Reference Tables for Physical Chemistry</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/thl12.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/thl12.pdf">Download</a></p>
 
 
 
 
 <p>137. Fundamental Equations of Thermodynamics</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm36.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm36.pdf">Download</a></p>
 
 
 
 <p>138. Classical Mechanics Formula Sheet </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm41.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm41.pdf">Download</a></p>
 
 
 
 <p>139. Basic Thermodynamic Formulas </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm48.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm48.pdf">Download</a></p>
 
 
 
 
 <p>140. Thermodynamics and Statistical Physics: Formulas and Constants</p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm47.pdf">PDF</a></p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm47.pdf">Download</a></p>
+
+
+
+
+
 
 
 
