@@ -1482,7 +1482,7 @@
 <p>86. Dark Matter in Astro- and Particle Physics</p>
 <p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm90.pdf">Download</a></p>
 
-<p>87. Constructing Reality: Quantum Theory and Particle Physics</p>
+<p>87. Particles and Fundamental Interactions: Supplements, Problems and Solutions</p>
 <p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm91.pdf">Download</a></p>
 
 <p>88. Strong Interactions of Hadrons at High Energies </p>
@@ -1509,8 +1509,8 @@
 <p>95. Particle Metaphysics: A Critical Account of Subatomic Reality </p>
 <p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm100.pdf">Download</a></p>
 
-<p>96. The Discovery of Subatomic Particles </p>
-<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm101.rar">Download</a></p>
+<p>96. Concepts of Particle Physics </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm101.pdf">Download</a></p>
 
 <p>97. Applied Charged Particle Optics </p>
 <p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm102.pdf">Download</a></p>
