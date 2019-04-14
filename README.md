@@ -1065,8 +1065,29 @@
 
 
 
+<p>141. Electrician's Math and Basic Electrical Formulas </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/mf1.pdf">Download</a></p>
 
 
+
+<p>142. Math Handbook of Formulas, Processes and Tricks </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/mf2.pdf">Download</a></p>
+
+
+
+
+<p>143. Field Formulas</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/mf3.pdf">Download</a></p>
+
+
+<p>144. Formulas Book for Mechanical Engineering </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/mf4.pdf">Download</a></p>
+
+<p>145. NRL Plasma Formulary</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/mf5.pdf">Download</a></p>
+
+<p>146. Roark's Formulas for Stress and Strain</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/mf6.pdf">Download</a></p>
 
 
 
