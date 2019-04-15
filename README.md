@@ -1090,10 +1090,225 @@
 <p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/mf6.pdf">Download</a></p>
 
 
+</br>
 
 
 
 
+<p style ="font-weight:bold; font-size:16px;">List of equations</p>
+<hr>
+
+<div style="overflow-x:auto;">
+
+<table style="border-collapse: collapse; padding: 0; border: 0; background: transparent; width: 100%;">
+<tbody>
+<tr>
+<td style="text-align: left; vertical-align: top;" width="25%">
+<p style ="font-weight:bold;">Mathematics</p>
+<ul>
+<li><a title="Cauchy&ndash;Riemann equations" target="_blank"   href="https://en.wikipedia.org/wiki/Cauchy%E2%80%93Riemann_equations">Cauchy&ndash;Riemann equations</a></li>
+<li><a title="Chapman&ndash;Kolmogorov equation" target="_blank"   href="https://en.wikipedia.org/wiki/Chapman%E2%80%93Kolmogorov_equation">Chapman&ndash;Kolmogorov equation</a></li>
+<li><a title="Clairaut's equation" target="_blank"   href="https://en.wikipedia.org/wiki/Clairaut%27s_equation">Clairaut's equation</a></li>
+<li><a title="Fredholm integral equation" target="_blank"   href="https://en.wikipedia.org/wiki/Fredholm_integral_equation">Fredholm integral equation</a></li>
+<li><a title="Hill differential equation" target="_blank"   href="https://en.wikipedia.org/wiki/Hill_differential_equation">Hill differential equation</a></li>
+<li><a title="Ishimori equation" target="_blank"   href="https://en.wikipedia.org/wiki/Ishimori_equation">Ishimori equation</a></li>
+<li><a title="Laplace's equation" target="_blank"   href="https://en.wikipedia.org/wiki/Laplace%27s_equation">Laplace's equation</a></li>
+<li><a class="mw-redirect" title="Maurer&ndash;Cartan equation" target="_blank"   href="https://en.wikipedia.org/wiki/Maurer%E2%80%93Cartan_equation">Maurer&ndash;Cartan equation</a></li>
+<li><a title="Pell's equation" target="_blank"   href="https://en.wikipedia.org/wiki/Pell%27s_equation">Pell's equation</a></li>
+<li><a title="Poisson's equation" target="_blank"   href="https://en.wikipedia.org/wiki/Poisson%27s_equation">Poisson's equation</a></li>
+<li><a title="Riccati equation" target="_blank"   href="https://en.wikipedia.org/wiki/Riccati_equation">Riccati equation</a></li>
+<li><a class="mw-redirect" title="Sine&ndash;Gordon equation" target="_blank"   href="https://en.wikipedia.org/wiki/Sine%E2%80%93Gordon_equation">Sine&ndash;Gordon equation</a></li>
+<li><a class="mw-redirect" title="Verhulst equation" target="_blank"   href="https://en.wikipedia.org/wiki/Verhulst_equation">Verhulst equation</a></li>
+<li><a class="mw-redirect" title="Polynomial equation" target="_blank"   href="https://en.wikipedia.org/wiki/Polynomial_equation">Polynomial equation</a>
+<ul>
+<li><a title="Linear equation" target="_blank"   href="https://en.wikipedia.org/wiki/Linear_equation">Linear equation</a></li>
+<li><a title="Quadratic equation" target="_blank"   href="https://en.wikipedia.org/wiki/Quadratic_equation">Quadratic equation</a></li>
+<li><a class="mw-redirect" title="Cubic equation" target="_blank"   href="https://en.wikipedia.org/wiki/Cubic_equation">Cubic equation</a></li>
+<li><a class="mw-redirect" title="Biquadratic equation" target="_blank"   href="https://en.wikipedia.org/wiki/Biquadratic_equation">Biquadratic equation</a></li>
+<li><a class="mw-redirect" title="Quartic equation" target="_blank"   href="https://en.wikipedia.org/wiki/Quartic_equation">Quartic equation</a></li>
+<li><a class="mw-redirect" title="Quintic equation" target="_blank"   href="https://en.wikipedia.org/wiki/Quintic_equation">Quintic equation</a></li>
+<li><a title="Sextic equation" target="_blank"   href="https://en.wikipedia.org/wiki/Sextic_equation">Sextic equation</a></li>
+</ul>
+</li>
+<li><a class="mw-redirect mw-disambig" title="Characteristic equation (disambiguation)" target="_blank"   href="https://en.wikipedia.org/wiki/Characteristic_equation_(disambiguation)">Characteristic equation</a></li>
+<li><a class="mw-redirect" title="Class equation" target="_blank"   href="https://en.wikipedia.org/wiki/Class_equation">Class equation</a></li>
+<li><a title="Comparametric equation" target="_blank"   href="https://en.wikipedia.org/wiki/Comparametric_equation">Comparametric equation</a></li>
+<li><a class="mw-redirect" title="Difference equation" target="_blank"   href="https://en.wikipedia.org/wiki/Difference_equation">Difference equation</a>
+<ul>
+<li><a title="Matrix difference equation" target="_blank"   href="https://en.wikipedia.org/wiki/Matrix_difference_equation">Matrix difference equation</a></li>
+</ul>
+</li>
+<li><a title="Differential equation" target="_blank"   href="https://en.wikipedia.org/wiki/Differential_equation">Differential equation</a>
+<ul>
+<li><a title="Matrix differential equation" target="_blank"   href="https://en.wikipedia.org/wiki/Matrix_differential_equation">Matrix differential equation</a></li>
+<li><a title="Ordinary differential equation" target="_blank"   href="https://en.wikipedia.org/wiki/Ordinary_differential_equation">Ordinary differential equation</a></li>
+<li><a title="Partial differential equation" target="_blank"   href="https://en.wikipedia.org/wiki/Partial_differential_equation">Partial differential equation</a></li>
+<li><a class="mw-redirect" title="Total differential equation" target="_blank"   href="https://en.wikipedia.org/wiki/Total_differential_equation">Total differential equation</a></li>
+</ul>
+</li>
+<li><a title="Diophantine equation" target="_blank"   href="https://en.wikipedia.org/wiki/Diophantine_equation">Diophantine equation</a></li>
+<li><a title="Equation" target="_blank"   href="https://en.wikipedia.org/wiki/Equation">Equation</a></li>
+<li><a title="Modular equation" target="_blank"   href="https://en.wikipedia.org/wiki/Modular_equation">Modular equation</a></li>
+<li><a title="Parametric equation" target="_blank"   href="https://en.wikipedia.org/wiki/Parametric_equation">Parametric equation</a></li>
+<li><a title="Replicator equation" target="_blank"   href="https://en.wikipedia.org/wiki/Replicator_equation">Replicator equation</a></li>
+</ul>
+</td>
+<td style="text-align: left; vertical-align: top;" width="30%">
+<p style ="font-weight:bold;">Physics</p>
+<ul>
+<li><a title="Amp&egrave;re's circuital law" target="_blank"   href="https://en.wikipedia.org/wiki/Amp%C3%A8re%27s_circuital_law">Amp&egrave;re's circuital law</a></li>
+<li><a class="mw-redirect" title="Bernoulli's equation" target="_blank"   href="https://en.wikipedia.org/wiki/Bernoulli%27s_equation">Bernoulli's equation</a></li>
+<li><a title="BBGKY hierarchy" target="_blank"   href="https://en.wikipedia.org/wiki/BBGKY_hierarchy">Bogoliubov&ndash;Born&ndash;Green&ndash;Kirkwood&ndash;Yvon hierarchy of equations</a></li>
+<li><a class="mw-redirect" title="Bessel's differential equation" target="_blank"   href="https://en.wikipedia.org/wiki/Bessel%27s_differential_equation">Bessel's differential equation</a></li>
+<li><a title="Boltzmann equation" target="_blank"   href="https://en.wikipedia.org/wiki/Boltzmann_equation">Boltzmann equation</a></li>
+<li><a title="Borda&ndash;Carnot equation" target="_blank"   href="https://en.wikipedia.org/wiki/Borda%E2%80%93Carnot_equation">Borda&ndash;Carnot equation</a></li>
+<li><a class="mw-redirect" title="Burger's equation" target="_blank"   href="https://en.wikipedia.org/wiki/Burger%27s_equation">Burger's equation</a></li>
+<li><a title="Darcy&ndash;Weisbach equation" target="_blank"   href="https://en.wikipedia.org/wiki/Darcy%E2%80%93Weisbach_equation">Darcy&ndash;Weisbach equation</a></li>
+<li><a title="Dirac equation" target="_blank"   href="https://en.wikipedia.org/wiki/Dirac_equation">Dirac equation</a>
+<ul>
+<li><a title="Dirac equation in the algebra of physical space" target="_blank"   href="https://en.wikipedia.org/wiki/Dirac_equation_in_the_algebra_of_physical_space">Dirac equation in the algebra of physical space</a></li>
+</ul>
+</li>
+<li><a class="mw-redirect" title="Doppler equations" target="_blank"   href="https://en.wikipedia.org/wiki/Doppler_equations">Doppler equations</a></li>
+<li><a title="Drake equation" target="_blank"   href="https://en.wikipedia.org/wiki/Drake_equation">Drake equation</a> (aka <a class="mw-redirect" title="Green Bank equation" target="_blank"   href="https://en.wikipedia.org/wiki/Green_Bank_equation">Green Bank equation</a>)</li>
+<li><a class="mw-redirect" title="Einstein's field equation" target="_blank"   href="https://en.wikipedia.org/wiki/Einstein%27s_field_equation">Einstein's field equation</a></li>
+<li><a title="Einstein&ndash;Maxwell&ndash;Dirac equations" target="_blank"   href="https://en.wikipedia.org/wiki/Einstein%E2%80%93Maxwell%E2%80%93Dirac_equations">Einstein&ndash;Maxwell&ndash;Dirac equations</a></li>
+<li><a title="Euler equations (fluid dynamics)" target="_blank"   href="https://en.wikipedia.org/wiki/Euler_equations_(fluid_dynamics)">Euler equations (fluid dynamics)</a></li>
+<li><a title="Euler's equations (rigid body dynamics)" target="_blank"   href="https://en.wikipedia.org/wiki/Euler%27s_equations_(rigid_body_dynamics)">Euler's equations (rigid body dynamics)</a></li>
+<li><a title="Relativistic Euler equations" target="_blank"   href="https://en.wikipedia.org/wiki/Relativistic_Euler_equations">Relativistic Euler equations</a></li>
+<li><a title="Euler&ndash;Lagrange equation" target="_blank"   href="https://en.wikipedia.org/wiki/Euler%E2%80%93Lagrange_equation">Euler&ndash;Lagrange equation</a></li>
+<li><a title="Faraday's law of induction" target="_blank"   href="https://en.wikipedia.org/wiki/Faraday%27s_law_of_induction">Faraday's law of induction</a></li>
+<li><a title="Fokker&ndash;Planck equation" target="_blank"   href="https://en.wikipedia.org/wiki/Fokker%E2%80%93Planck_equation">Fokker&ndash;Planck equation</a></li>
+<li><a title="Fresnel equations" target="_blank"   href="https://en.wikipedia.org/wiki/Fresnel_equations">Fresnel equations</a></li>
+<li><a title="Friedmann equations" target="_blank"   href="https://en.wikipedia.org/wiki/Friedmann_equations">Friedmann equations</a></li>
+<li><a title="Gauss's law" target="_blank"   href="https://en.wikipedia.org/wiki/Gauss%27s_law">Gauss's law for electricity</a></li>
+<li><a title="Gauss's law for gravity" target="_blank"   href="https://en.wikipedia.org/wiki/Gauss%27s_law_for_gravity">Gauss's law for gravity</a></li>
+<li><a title="Gauss's law for magnetism" target="_blank"   href="https://en.wikipedia.org/wiki/Gauss%27s_law_for_magnetism">Gauss's law for magnetism</a></li>
+<li><a title="Gibbs&ndash;Helmholtz equation" target="_blank"   href="https://en.wikipedia.org/wiki/Gibbs%E2%80%93Helmholtz_equation">Gibbs&ndash;Helmholtz equation</a></li>
+<li><a title="Gross&ndash;Pitaevskii equation" target="_blank"   href="https://en.wikipedia.org/wiki/Gross%E2%80%93Pitaevskii_equation">Gross&ndash;Pitaevskii equation</a></li>
+<li><a title="Hamilton&ndash;Jacobi&ndash;Bellman equation" target="_blank"   href="https://en.wikipedia.org/wiki/Hamilton%E2%80%93Jacobi%E2%80%93Bellman_equation">Hamilton&ndash;Jacobi&ndash;Bellman equation</a></li>
+<li><a title="Helmholtz equation" target="_blank"   href="https://en.wikipedia.org/wiki/Helmholtz_equation">Helmholtz equation</a></li>
+<li><a title="Karplus equation" target="_blank"   href="https://en.wikipedia.org/wiki/Karplus_equation">Karplus equation</a></li>
+<li><a class="mw-redirect" title="Advection equation" target="_blank"   href="https://en.wikipedia.org/wiki/Advection_equation">Advection equation</a></li>
+<li><a title="Barotropic vorticity equation" target="_blank"   href="https://en.wikipedia.org/wiki/Barotropic_vorticity_equation">Barotropic vorticity equation</a></li>
+<li><a title="Continuity equation" target="_blank"   href="https://en.wikipedia.org/wiki/Continuity_equation">Continuity equation</a></li>
+<li><a title="Diffusion equation" target="_blank"   href="https://en.wikipedia.org/wiki/Diffusion_equation">Diffusion equation</a></li>
+<li><a title="Drag equation" target="_blank"   href="https://en.wikipedia.org/wiki/Drag_equation">Drag equation</a></li>
+<li><a class="mw-redirect" title="Equation of motion" target="_blank"   href="https://en.wikipedia.org/wiki/Equation_of_motion">Equation of motion</a></li>
+<li><a title="Equation of state" target="_blank"   href="https://en.wikipedia.org/wiki/Equation_of_state">Equation of state</a></li>
+<li><a title="Equation of time" target="_blank"   href="https://en.wikipedia.org/wiki/Equation_of_time">Equation of time</a></li>
+<li><a title="Heat equation" target="_blank"   href="https://en.wikipedia.org/wiki/Heat_equation">Heat equation</a></li>
+<li><a class="mw-redirect" title="Ideal gas equation" target="_blank"   href="https://en.wikipedia.org/wiki/Ideal_gas_equation">Ideal gas equation</a></li>
+<li><a class="mw-redirect" title="Ionic equation" target="_blank"   href="https://en.wikipedia.org/wiki/Ionic_equation">Ionic equation</a></li>
+<li><a class="mw-redirect" title="Mass-energy equivalence" target="_blank"   href="https://en.wikipedia.org/wiki/Mass-energy_equivalence">Mass-energy equivalence equation</a></li>
+<li><a title="Primitive equations" target="_blank"   href="https://en.wikipedia.org/wiki/Primitive_equations">Primitive equations</a></li>
+<li><a title="Relativistic wave equations" target="_blank"   href="https://en.wikipedia.org/wiki/Relativistic_wave_equations">Relativistic wave equations</a></li>
+<li><a title="Vorticity equation" target="_blank"   href="https://en.wikipedia.org/wiki/Vorticity_equation">Vorticity equation</a></li>
+<li><a title="Wave equation" target="_blank"   href="https://en.wikipedia.org/wiki/Wave_equation">Wave equation</a></li>
+<li><a title="Kepler's equation" target="_blank"   href="https://en.wikipedia.org/wiki/Kepler%27s_equation">Kepler's equation</a></li>
+<li><a title="Kepler's laws of planetary motion" target="_blank"   href="https://en.wikipedia.org/wiki/Kepler%27s_laws_of_planetary_motion">Kepler's laws of planetary motion</a></li>
+<li><a title="Kirchhoff's diffraction formula" target="_blank"   href="https://en.wikipedia.org/wiki/Kirchhoff%27s_diffraction_formula">Kirchhoff's diffraction formula</a></li>
+<li><a title="Klein&ndash;Gordon equation" target="_blank"   href="https://en.wikipedia.org/wiki/Klein%E2%80%93Gordon_equation">Klein&ndash;Gordon equation</a></li>
+<li><a title="Korteweg&ndash;de Vries equation" target="_blank"   href="https://en.wikipedia.org/wiki/Korteweg%E2%80%93de_Vries_equation">Korteweg&ndash;de Vries equation</a></li>
+<li><a title="Landau&ndash;Lifshitz&ndash;Gilbert equation" target="_blank"   href="https://en.wikipedia.org/wiki/Landau%E2%80%93Lifshitz%E2%80%93Gilbert_equation">Landau&ndash;Lifshitz&ndash;Gilbert equation</a></li>
+<li><a title="Lane&ndash;Emden equation" target="_blank"   href="https://en.wikipedia.org/wiki/Lane%E2%80%93Emden_equation">Lane&ndash;Emden equation</a></li>
+<li><a title="Langevin equation" target="_blank"   href="https://en.wikipedia.org/wiki/Langevin_equation">Langevin equation</a></li>
+<li><a title="Levy&ndash;Mises equations" target="_blank"   href="https://en.wikipedia.org/wiki/Levy%E2%80%93Mises_equations">Levy&ndash;Mises equations</a></li>
+<li><a class="mw-redirect" title="Lindblad equation" target="_blank"   href="https://en.wikipedia.org/wiki/Lindblad_equation">Lindblad equation</a></li>
+<li><a class="mw-redirect" title="Lorentz equation" target="_blank"   href="https://en.wikipedia.org/wiki/Lorentz_equation">Lorentz equation</a></li>
+<li><a title="Maxwell's equations" target="_blank"   href="https://en.wikipedia.org/wiki/Maxwell%27s_equations">Maxwell's equations</a></li>
+<li><a class="mw-redirect" title="Maxwell's relations" target="_blank"   href="https://en.wikipedia.org/wiki/Maxwell%27s_relations">Maxwell's relations</a></li>
+<li><a title="Newton's laws of motion" target="_blank"   href="https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion">Newton's laws of motion</a></li>
+<li><a title="Navier&ndash;Stokes equations" target="_blank"   href="https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations">Navier&ndash;Stokes equations</a></li>
+<li><a title="Reynolds-averaged Navier&ndash;Stokes equations" target="_blank"   href="https://en.wikipedia.org/wiki/Reynolds-averaged_Navier%E2%80%93Stokes_equations">Reynolds-averaged Navier&ndash;Stokes equations</a></li>
+<li><a class="new" title="Prandtl&ndash;Reuss equations (page does not exist)" target="_blank"   href="/w/index.php?title=Prandtl%E2%80%93Reuss_equations&amp;action=edit&amp;redlink=1">Prandtl&ndash;Reuss equations</a></li>
+<li><a title="Prony equation" target="_blank"   href="https://en.wikipedia.org/wiki/Prony_equation">Prony equation</a></li>
+
+<li><a class="mw-redirect" title="Rankine&ndash;Hugoniot equation" target="_blank"   href="https://en.wikipedia.org/wiki/Rankine%E2%80%93Hugoniot_equation">Rankine&ndash;Hugoniot equation</a></li>
+<li><a title="Roothaan equations" target="_blank"   href="https://en.wikipedia.org/wiki/Roothaan_equations">Roothaan equations</a></li>
+<li><a title="Sackur&ndash;Tetrode equation" target="_blank"   href="https://en.wikipedia.org/wiki/Sackur%E2%80%93Tetrode_equation">Sackur&ndash;Tetrode equation</a></li>
+<li><a title="Schr&ouml;dinger equation" target="_blank"   href="https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation">Schr&ouml;dinger equation</a></li>
+<li><a title="Screened Poisson equation" target="_blank"   href="https://en.wikipedia.org/wiki/Screened_Poisson_equation">Screened Poisson equation</a></li>
+<li><a title="Schwinger&ndash;Dyson equation" target="_blank"   href="https://en.wikipedia.org/wiki/Schwinger%E2%80%93Dyson_equation">Schwinger&ndash;Dyson equation</a></li>
+<li><a title="Sellmeier equation" target="_blank"   href="https://en.wikipedia.org/wiki/Sellmeier_equation">Sellmeier equation</a></li>
+<li><a class="mw-redirect" title="Stokes&ndash;Einstein relation" target="_blank"   href="https://en.wikipedia.org/wiki/Stokes%E2%80%93Einstein_relation">Stokes&ndash;Einstein relation</a></li>
+<li><a title="Tsiolkovsky rocket equation" target="_blank"   href="https://en.wikipedia.org/wiki/Tsiolkovsky_rocket_equation">Tsiolkovsky rocket equation</a></li>
+<li><a title="Van der Waals equation" target="_blank"   href="https://en.wikipedia.org/wiki/Van_der_Waals_equation">Van der Waals equation</a></li>
+<li><a title="Vlasov equation" target="_blank"   href="https://en.wikipedia.org/wiki/Vlasov_equation">Vlasov equation</a></li>
+<li><a title="Wiener equation" target="_blank"   href="https://en.wikipedia.org/wiki/Wiener_equation">Wiener equation</a></li>
+
+</ul>
+<p>&nbsp;</p>
+</td>
+
+<td style="text-align: left; vertical-align: top;">
+<p style ="font-weight:bold;">Chemistry</p>
+<ul>
+<li><a title="Arrhenius equation" target="_blank"   href="https://en.wikipedia.org/wiki/Arrhenius_equation">Arrhenius equation</a></li>
+<li><a title="Butler&ndash;Volmer equation" target="_blank"   href="https://en.wikipedia.org/wiki/Butler%E2%80%93Volmer_equation">Butler&ndash;Volmer equation</a></li>
+<li><a title="Eyring equation" target="_blank"   href="https://en.wikipedia.org/wiki/Eyring_equation">Eyring equation</a></li>
+<li><a title="Henderson&ndash;Hasselbalch equation" target="_blank"   href="https://en.wikipedia.org/wiki/Henderson%E2%80%93Hasselbalch_equation">Henderson&ndash;Hasselbalch equation</a></li>
+<li><a class="mw-redirect" title="Michaelis&ndash;Menten equation" target="_blank"   href="https://en.wikipedia.org/wiki/Michaelis%E2%80%93Menten_equation">Michaelis&ndash;Menten equation</a></li>
+<li><a title="Nernst equation" target="_blank"   href="https://en.wikipedia.org/wiki/Nernst_equation">Nernst equation</a></li>
+<li><a class="mw-redirect" title="Schrodinger equation" target="_blank"   href="https://en.wikipedia.org/wiki/Schrodinger_equation">Schrodinger equation</a></li>
+<li><a title="Chemical equation" target="_blank"   href="https://en.wikipedia.org/wiki/Chemical_equation">Chemical equation</a> (&nbsp;<a class="mw-redirect" title="Molecular equation" target="_blank"   href="https://en.wikipedia.org/wiki/Molecular_equation">molecular equation</a>)</li>
+<li><a title="Thermochemical equation" target="_blank"   href="https://en.wikipedia.org/wiki/Thermochemical_equation">Thermochemical equation</a></li>
+</ul>
+<p style ="font-weight:bold;">Biology</p>
+<ul>
+<li><a class="mw-redirect" title="Lotka&ndash;Volterra equation" target="_blank"   href="https://en.wikipedia.org/wiki/Lotka%E2%80%93Volterra_equation">Lotka&ndash;Volterra equation</a></li>
+</ul>
+<p style ="font-weight:bold;">Economics</p>
+<ul>
+<li><a title="Black&ndash;Scholes equation" target="_blank"   href="https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_equation">Black&ndash;Scholes equation</a></li>
+<li><a title="Fisher equation" target="_blank"   href="https://en.wikipedia.org/wiki/Fisher_equation">Fisher equation</a></li>
+</ul>
+<p style ="font-weight:bold;">Telecommunications engineering</p>
+<ul>
+<li><a class="mw-redirect" title="Password length equation" target="_blank"   href="https://en.wikipedia.org/wiki/Password_length_equation">Password length equation</a></li>
+<li><a title="Telegrapher's equations" target="_blank"   href="https://en.wikipedia.org/wiki/Telegrapher%27s_equations">Telegrapher's equations</a></li>
+</ul>
+<p style ="font-weight:bold;">Other equations</p>
+<ul>
+<li><a title="Constitutive equation" target="_blank"   href="https://en.wikipedia.org/wiki/Constitutive_equation">Constitutive equation</a></li>
+<li><a class="mw-redirect" title="Laws of science" target="_blank"   href="https://en.wikipedia.org/wiki/Laws_of_science">Laws of science</a></li>
+<li><a title="Defining equation (physical chemistry)" target="_blank"   href="https://en.wikipedia.org/wiki/Defining_equation_(physical_chemistry)">Defining equation (physical chemistry)</a></li>
+<li><a title="Defining equation (physics)" target="_blank"   href="https://en.wikipedia.org/wiki/Defining_equation_(physics)">Defining equation (physics)</a></li>
+<li><a title="List of equations in classical mechanics" target="_blank"   href="https://en.wikipedia.org/wiki/List_of_equations_in_classical_mechanics">List of equations in classical mechanics</a></li>
+<li><a title="Table of thermodynamic equations" target="_blank"   href="https://en.wikipedia.org/wiki/Table_of_thermodynamic_equations">Table of thermodynamic equations</a></li>
+<li><a title="List of equations in wave theory" target="_blank"   href="https://en.wikipedia.org/wiki/List_of_equations_in_wave_theory">List of equations in wave theory</a></li>
+<li><a title="List of electromagnetism equations" target="_blank"   href="https://en.wikipedia.org/wiki/List_of_electromagnetism_equations">List of electromagnetism equations</a></li>
+<li><a title="List of relativistic equations" target="_blank"   href="https://en.wikipedia.org/wiki/List_of_relativistic_equations">List of relativistic equations</a></li>
+<li><a title="List of equations in fluid mechanics" target="_blank"   href="https://en.wikipedia.org/wiki/List_of_equations_in_fluid_mechanics">List of equations in fluid mechanics</a></li>
+<li><a title="List of equations in gravitation" target="_blank"   href="https://en.wikipedia.org/wiki/List_of_equations_in_gravitation">List of equations in gravitation</a></li>
+<li><a title="List of photonics equations" target="_blank"   href="https://en.wikipedia.org/wiki/List_of_photonics_equations">List of photonics equations</a></li>
+<li><a title="List of equations in quantum mechanics" target="_blank"   href="https://en.wikipedia.org/wiki/List_of_equations_in_quantum_mechanics">List of equations in quantum mechanics</a></li>
+<li><a title="List of equations in nuclear and particle physics" target="_blank"   href="https://en.wikipedia.org/wiki/List_of_equations_in_nuclear_and_particle_physics">List of equations in nuclear and particle physics</a></li>
+<li><a class="mw-redirect" title="Variables commonly used in physics" target="_blank"   href="https://en.wikipedia.org/wiki/Variables_commonly_used_in_physics">Variables commonly used in physics</a></li>
+<li><a title="Equation solving" target="_blank"   href="https://en.wikipedia.org/wiki/Equation_solving">Equation solving</a></li>
+<li><a title="Theory of equations" target="_blank"   href="https://en.wikipedia.org/wiki/Theory_of_equations">Theory of equations</a></li>
+</ul>
+
+
+<p style ="font-weight:bold;">Chemical formulas</p>
+<ul>
+<li><a title="Dictionary of chemical formulas" target="_blank"   href="https://en.wikipedia.org/wiki/Category:Dictionary_of_chemical_formulas">Dictionary of chemical formulas</a></li>
+<li><a class="mw-redirect" title="Glossary of chemical formulas" target="_blank"   href="https://en.wikipedia.org/wiki/Glossary_of_chemical_formulas">Glossary of chemical formulas</a></li>
+
+</ul>
+
+
+
+
+
+
+
+</td>
+</tr>
+</tbody>
+</table>
+
+</div>
 
 
 
