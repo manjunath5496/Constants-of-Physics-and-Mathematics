@@ -2353,6 +2353,527 @@
 <p>200. Introduction to Nuclear and Particle Physics </p>
 <p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un171.pdf">Download</a></p>
 
+</br>
+
+
+
+<table>
+<tbody>
+<tr>
+<th>List of scientific laws</th>
+</tr>
+<tr>
+<td><a title="Abel's theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Abel%27s_theorem">Abel's theorem</a></td>
+</tr>
+<tr>
+<td><a title="Amdahl's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Amdahl%27s_law">Amdahl's law</a></td>
+</tr>
+<tr>
+<td><a title="Amp&egrave;re's circuital law"  target="_blank"  href="https://en.wikipedia.org/wiki/Amp%C3%A8re%27s_circuital_law">Amp&egrave;re's circuital law</a></td>
+</tr>
+<tr>
+<td><a title="Archie's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Archie%27s_law">Archie's law</a></td>
+</tr>
+<tr>
+<td><a class="mw-redirect" title="Archimedes's principle"  target="_blank"  href="https://en.wikipedia.org/wiki/Archimedes%27s_principle">Archimedes's principle</a><br /><a class="mw-redirect" title="Axiom of Archimedes"  target="_blank"  href="https://en.wikipedia.org/wiki/Axiom_of_Archimedes">Axiom of Archimedes</a></td>
+</tr>
+<tr>
+<td><a title="Arrhenius equation"  target="_blank"  href="https://en.wikipedia.org/wiki/Arrhenius_equation">Arrhenius equation</a></td>
+</tr>
+<tr>
+<td><a title="Avogadro's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Avogadro%27s_law">Avogadro's law</a></td>
+</tr>
+<tr>
+<td><a title="Bell's theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Bell%27s_theorem">Bell's theorem</a></td>
+</tr>
+<tr>
+<td><a title="Benford's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Benford%27s_law">Benford's law</a></td>
+</tr>
+<tr>
+<td><a title="Beer&ndash;Lambert law"  target="_blank"  href="https://en.wikipedia.org/wiki/Beer%E2%80%93Lambert_law">Beer&ndash;Lambert law</a></td>
+</tr>
+<tr>
+<td><a title="Bernoulli's principle"  target="_blank"  href="https://en.wikipedia.org/wiki/Bernoulli%27s_principle">Bernoulli's principle</a><br /><a title="Bernoulli's principle"  target="_blank"  href="https://en.wikipedia.org/wiki/Bernoulli%27s_principle">Bernoulli's equation</a></td>
+</tr>
+<tr>
+<td><a title="Biot&ndash;Savart law"  target="_blank"  href="https://en.wikipedia.org/wiki/Biot%E2%80%93Savart_law">Biot&ndash;Savart law</a></td>
+</tr>
+<tr>
+<td><a title="Birch's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Birch%27s_law">Birch's law</a></td>
+</tr>
+<tr>
+<td><a class="mw-redirect" title="Bogoliubov&ndash;Born&ndash;Green&ndash;Kirkwood&ndash;Yvon hierarchy"  target="_blank"  href="https://en.wikipedia.org/wiki/Bogoliubov%E2%80%93Born%E2%80%93Green%E2%80%93Kirkwood%E2%80%93Yvon_hierarchy">Bogoliubov&ndash;Born&ndash;Green&ndash;Kirkwood&ndash;Yvon hierarchy</a></td>
+</tr>
+<tr>
+<td><a title="Bogoliubov transformation"  target="_blank"  href="https://en.wikipedia.org/wiki/Bogoliubov_transformation">Bogoliubov transformation</a></td>
+</tr>
+<tr>
+<td><a title="Boltzmann equation"  target="_blank"  href="https://en.wikipedia.org/wiki/Boltzmann_equation">Boltzmann equation</a></td>
+</tr>
+<tr>
+<td><a class="mw-redirect" title="Born's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Born%27s_law">Born's law</a></td>
+</tr>
+<tr>
+<td><a title="Boyle's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Boyle%27s_law">Boyle's law</a></td>
+</tr>
+<tr>
+<td><a title="Bragg's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Bragg%27s_law">Bragg's Law</a></td>
+</tr>
+<tr>
+<td><a title="Bradford's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Bradford%27s_law">Bradford's law</a></td>
+</tr>
+<tr>
+<td><a title="The Bruun Rule"  target="_blank"  href="https://en.wikipedia.org/wiki/The_Bruun_Rule">Bruun Rule</a></td>
+</tr>
+<tr>
+<td><a title="Buys Ballot's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Buys_Ballot%27s_law">Buys Ballot's law</a></td>
+</tr>
+<tr>
+<td><a title="Byerlee's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Byerlee%27s_law">Byerlee's law</a></td>
+</tr>
+<tr>
+<td><a title="Carnot's theorem (thermodynamics)"  target="_blank"  href="https://en.wikipedia.org/wiki/Carnot%27s_theorem_(thermodynamics)">Carnot's theorem</a></td>
+</tr>
+<tr>
+<td><a title="Cauchy's integral formula"  target="_blank"  href="https://en.wikipedia.org/wiki/Cauchy%27s_integral_formula">Cauchy's integral formula</a><br /> <a title="Cauchy&ndash;Riemann equations"  target="_blank"  href="https://en.wikipedia.org/wiki/Cauchy%E2%80%93Riemann_equations">Cauchy&ndash;Riemann equations</a></td>
+</tr>
+<tr>
+<td><a title="Cayley&ndash;Hamilton theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Cayley%E2%80%93Hamilton_theorem">Cayley&ndash;Hamilton theorem</a></td>
+</tr>
+<tr>
+<td><a title="Charles's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Charles%27s_law">Charles's law</a></td>
+</tr>
+<tr>
+<td><a title="Chandrasekhar limit"  target="_blank"  href="https://en.wikipedia.org/wiki/Chandrasekhar_limit">Chandrasekhar limit</a></td>
+</tr>
+<tr>
+<td><a title="Church&ndash;Turing thesis"  target="_blank"  href="https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis">Church&ndash;Turing thesis</a></td>
+</tr>
+<tr>
+<td><a title="Coulomb's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Coulomb%27s_law">Coulomb's law</a></td>
+</tr>
+<tr>
+<td><a title="Charles's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Charles%27s_law">Law of Charles and Gay-Lussac</a> (frequently called Charles's law)</td>
+</tr>
+<tr>
+<td><a title="Clifford's theorem on special divisors"  target="_blank"  href="https://en.wikipedia.org/wiki/Clifford%27s_theorem_on_special_divisors">Clifford's theorem</a><br /><a title="Clifford's circle theorems"  target="_blank"  href="https://en.wikipedia.org/wiki/Clifford%27s_circle_theorems">Clifford's circle theorems</a></td>
+</tr>
+<tr>
+<td><a title="Curie's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Curie%27s_law">Curie's law</a></td>
+</tr>
+<tr>
+<td><a title="Curie&ndash;Weiss law"  target="_blank"  href="https://en.wikipedia.org/wiki/Curie%E2%80%93Weiss_law">Curie&ndash;Weiss law</a></td>
+</tr>
+<tr>
+<td><a title="D'Alembert's paradox"  target="_blank"  href="https://en.wikipedia.org/wiki/D%27Alembert%27s_paradox">D'Alembert's paradox</a><br /> <a title="D'Alembert's principle"  target="_blank"  href="https://en.wikipedia.org/wiki/D%27Alembert%27s_principle">D'Alembert's principle</a></td>
+</tr>
+<tr>
+<td><a title="Dalton's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Dalton%27s_law">Dalton's law</a> of partial pressure</td>
+</tr>
+<tr>
+<td><a title="Darcy's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Darcy%27s_law">Darcy's law</a></td>
+</tr>
+<tr>
+<td><a title="De Bruijn&ndash;Erdős theorem (graph theory)"  target="_blank"  href="https://en.wikipedia.org/wiki/De_Bruijn%E2%80%93Erd%C5%91s_theorem_(graph_theory)">De Bruijn&ndash;Erdős theorem</a></td>
+</tr>
+<tr>
+<td><a class="mw-redirect" title="De Morgan's law"  target="_blank"  href="https://en.wikipedia.org/wiki/De_Morgan%27s_law">De Morgan's law</a></td>
+</tr>
+<tr>
+<td><a title="Dermott's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Dermott%27s_law">Dermott's law</a></td>
+</tr>
+<tr>
+<td><a class="mw-redirect" title="Descartes's theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Descartes%27s_theorem">Descartes's theorem</a></td>
+</tr>
+<tr>
+<td><a title="Dirac equation"  target="_blank"  href="https://en.wikipedia.org/wiki/Dirac_equation">Dirac equation</a><br /><a title="Dirac delta function"  target="_blank"  href="https://en.wikipedia.org/wiki/Dirac_delta_function">Dirac delta function</a><br /><a title="Dirac comb"  target="_blank"  href="https://en.wikipedia.org/wiki/Dirac_comb">Dirac comb</a><br /><a title="Dirac spinor"  target="_blank"  href="https://en.wikipedia.org/wiki/Dirac_spinor">Dirac spinor</a><br /><a title="Dirac operator"  target="_blank"  href="https://en.wikipedia.org/wiki/Dirac_operator">Dirac operator</a> <br /><small></small></td>
+</tr>
+<tr>
+<td><a title="Drake equation"  target="_blank"  href="https://en.wikipedia.org/wiki/Drake_equation">Drake equation</a></td>
+</tr>
+<tr>
+<td><a title="Doppler effect"  target="_blank"  href="https://en.wikipedia.org/wiki/Doppler_effect">Doppler effect</a></td>
+</tr>
+<tr>
+<td><a class="mw-redirect" title="Ehrenfest's theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Ehrenfest%27s_theorem">Ehrenfest's theorem</a></td>
+</tr>
+<tr>
+<td><a title="General relativity"  target="_blank"  href="https://en.wikipedia.org/wiki/General_relativity">Einstein's general theory of relativity</a><br /><a title="Special relativity"  target="_blank"  href="https://en.wikipedia.org/wiki/Special_relativity">Einstein's special theory of relativity</a></td>
+</tr>
+<tr>
+<td><a title="Erdős&ndash;Anning theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Anning_theorem">Erdős&ndash;Anning theorem</a></td>
+</tr>
+<tr>
+<td><a class="mw-redirect" title="Erdős&ndash;Beck theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Beck_theorem">Erdős&ndash;Beck theorem</a></td>
+</tr>
+<tr>
+<td><a title="Erdős&ndash;Gallai theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Gallai_theorem">Erdős&ndash;Gallai theorem</a></td>
+</tr>
+<tr>
+<td><a title="Erdős&ndash;Kac theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Kac_theorem">Erdős&ndash;Kac theorem</a></td>
+</tr>
+<tr>
+<td><a title="Erdős&ndash;Ko&ndash;Rado theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Ko%E2%80%93Rado_theorem">Erdős&ndash;Ko&ndash;Rado theorem</a></td>
+</tr>
+<tr>
+<td><a title="Erdős&ndash;Nagy theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Nagy_theorem">Erdős&ndash;Nagy theorem</a></td>
+</tr>
+<tr>
+<td><a title="Erdős&ndash;Rado theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Rado_theorem">Erdős&ndash;Rado theorem</a></td>
+</tr>
+<tr>
+<td><a title="Erdős&ndash;Stone theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Stone_theorem">Erdős&ndash;Stone theorem</a></td>
+</tr>
+<tr>
+<td><a title="Erdős&ndash;Szekeres theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Szekeres_theorem">Erdős&ndash;Szekeres theorem</a></td>
+</tr>
+<tr>
+<td><a title="Erdős&ndash;Szemer&eacute;di theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Szemer%C3%A9di_theorem">Erdős&ndash;Szemer&eacute;di theorem</a></td>
+</tr>
+<tr>
+<td><a title="Euclid's theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Euclid%27s_theorem">Euclid's theorem</a></td>
+</tr>
+<tr>
+<td><a title="Euler's theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Euler%27s_theorem">Euler's theorem</a><br /><small></small></td>
+</tr>
+<tr>
+<td><a title="Faraday's law of induction"  target="_blank"  href="https://en.wikipedia.org/wiki/Faraday%27s_law_of_induction">Faraday's law of induction</a><br /><a class="mw-redirect" title="Faraday's law of electrolysis"  target="_blank"  href="https://en.wikipedia.org/wiki/Faraday%27s_law_of_electrolysis">Faraday's law of electrolysis</a></td>
+</tr>
+<tr>
+<td><a title="Fax&eacute;n's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Fax%C3%A9n%27s_law">Fax&eacute;n's law</a></td>
+</tr>
+<tr>
+<td><a title="Fermat's principle"  target="_blank"  href="https://en.wikipedia.org/wiki/Fermat%27s_principle">Fermat's principle</a><br /><a class="mw-redirect" title="Fermat's last theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Fermat%27s_last_theorem">Fermat's last theorem</a><br /><a title="Fermat's little theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Fermat%27s_little_theorem">Fermat's little theorem</a></td>
+</tr>
+<tr>
+<td><a title="Fermi paradox"  target="_blank"  href="https://en.wikipedia.org/wiki/Fermi_paradox">Fermi paradox</a><br /><a title="Fermi's golden rule"  target="_blank"  href="https://en.wikipedia.org/wiki/Fermi%27s_golden_rule">Fermi's golden rule</a><br /><a title="Fermi acceleration"  target="_blank"  href="https://en.wikipedia.org/wiki/Fermi_acceleration">Fermi acceleration</a><br /><a title="Fermi heap and Fermi hole"  target="_blank"  href="https://en.wikipedia.org/wiki/Fermi_heap_and_Fermi_hole">Fermi hole</a><br /><a title="Fermionic field"  target="_blank"  href="https://en.wikipedia.org/wiki/Fermionic_field">Fermionic field</a><br /><a title="Fermi level"  target="_blank"  href="https://en.wikipedia.org/wiki/Fermi_level">Fermi level</a></td>
+</tr>
+<tr>
+<td><a class="mw-redirect" title="Fick's law of diffusion"  target="_blank"  href="https://en.wikipedia.org/wiki/Fick%27s_law_of_diffusion">Fick's law of diffusion</a></td>
+</tr>
+<tr>
+<td><a title="Fitts's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Fitts%27s_law">Fitts's law</a></td>
+</tr>
+<tr>
+<td><a class="mw-redirect" title="Fourier's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Fourier%27s_law">Fourier's law</a></td>
+</tr>
+<tr>
+<td><a title="Gauss's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Gauss%27s_law">Gauss's law</a><br /><a title="Gauss's law for magnetism"  target="_blank"  href="https://en.wikipedia.org/wiki/Gauss%27s_law_for_magnetism">Gauss's law for magnetism</a><br /><a title="Gauss's principle of least constraint"  target="_blank"  href="https://en.wikipedia.org/wiki/Gauss%27s_principle_of_least_constraint">Gauss's principle of least constraint</a><br /><a class="mw-redirect" title="Gauss's digamma theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Gauss%27s_digamma_theorem">Gauss's digamma theorem</a><br /><a class="mw-redirect" title="Gauss's hypergeometric theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Gauss%27s_hypergeometric_theorem">Gauss's hypergeometric theorem</a><br /><a title="Gaussian function"  target="_blank"  href="https://en.wikipedia.org/wiki/Gaussian_function">Gaussian function</a></td>
+</tr>
+<tr>
+<td><a title="Gay-Lussac's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Gay-Lussac%27s_law">Gay-Lussac's law</a></td>
+</tr>
+<tr>
+<td><a title="Gibbs&ndash;Helmholtz equation"  target="_blank"  href="https://en.wikipedia.org/wiki/Gibbs%E2%80%93Helmholtz_equation">Gibbs&ndash;Helmholtz equation</a></td>
+</tr>
+<tr>
+<td><a title="G&ouml;del's incompleteness theorems"  target="_blank"  href="https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems">G&ouml;del's incompleteness theorems</a></td>
+</tr>
+<tr>
+<td><a title="Graham's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Graham%27s_law">Graham's law</a></td>
+</tr>
+<tr>
+<td><a title="Green's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Green%27s_law">Green's law</a></td>
+</tr>
+<tr>
+<td><a title="Grimm's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Grimm%27s_law">Grimm's law</a></td>
+</tr>
+<tr>
+<td><a title="Gustafson's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Gustafson%27s_law">Gustafson's law</a></td>
+</tr>
+<tr>
+<td><a title="Uncertainty principle"  target="_blank"  href="https://en.wikipedia.org/wiki/Uncertainty_principle">Heisenberg's uncertainty principle</a></td>
+</tr>
+<tr>
+<td><a title="Heaps' law"  target="_blank"  href="https://en.wikipedia.org/wiki/Heaps%27_law">Heaps' law</a></td>
+</tr>
+<tr>
+<td><a title="Hellmann&ndash;Feynman theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Hellmann%E2%80%93Feynman_theorem">Hellmann&ndash;Feynman theorem</a></td>
+</tr>
+<tr>
+<td><a title="Henry's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Henry%27s_law">Henry's law</a></td>
+</tr>
+<tr>
+<td><a class="new" title="Hertz observations (page does not exist)"  target="_blank"  href="/w/index.php?title=Hertz_observations&amp;action=edit&amp;redlink=1">Hertz observations</a></td>
+</tr>
+<tr>
+<td><a title="Hess's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Hess%27s_law">Hess's law</a></td>
+</tr>
+<tr>
+<td><a title="Hilbert's basis theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Hilbert%27s_basis_theorem">Hilbert's basis theorem</a><br /><a title="Hilbert's axioms"  target="_blank"  href="https://en.wikipedia.org/wiki/Hilbert%27s_axioms">Hilbert's axioms</a><br /><a title="Hilbert series and Hilbert polynomial"  target="_blank"  href="https://en.wikipedia.org/wiki/Hilbert_series_and_Hilbert_polynomial">Hilbert function</a><br /><a title="Hilbert's irreducibility theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Hilbert%27s_irreducibility_theorem">Hilbert's irreducibility theorem</a><br /><a title="Hilbert's syzygy theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Hilbert%27s_syzygy_theorem">Hilbert's syzygy theorem</a><br /><a title="Hilbert's Theorem 90"  target="_blank"  href="https://en.wikipedia.org/wiki/Hilbert%27s_Theorem_90">Hilbert's Theorem 90</a><br /><a title="Hilbert's theorem (differential geometry)"  target="_blank"  href="https://en.wikipedia.org/wiki/Hilbert%27s_theorem_(differential_geometry)">Hilbert's theorem</a></td>
+</tr>
+<tr>
+<td><a title="Density functional theory"  target="_blank"  href="https://en.wikipedia.org/wiki/Density_functional_theory#Hohenberg&ndash;Kohn_theorems">Hohenberg&ndash;Kohn theorem</a></td>
+</tr>
+<tr>
+<td><a title="Helmholtz's theorems"  target="_blank"  href="https://en.wikipedia.org/wiki/Helmholtz%27s_theorems">Helmholtz's theorems</a><br /><a title="Helmholtz theorem (classical mechanics)"  target="_blank"  href="https://en.wikipedia.org/wiki/Helmholtz_theorem_(classical_mechanics)">Helmholtz theorem</a><br /><a title="Helmholtz free energy"  target="_blank"  href="https://en.wikipedia.org/wiki/Helmholtz_free_energy">Helmholtz free energy</a><br /><a title="Helmholtz decomposition"  target="_blank"  href="https://en.wikipedia.org/wiki/Helmholtz_decomposition">Helmholtz decomposition</a><br /><a title="Helmholtz equation"  target="_blank"  href="https://en.wikipedia.org/wiki/Helmholtz_equation">Helmholtz equation</a><br /><a title="Helmholtz resonance"  target="_blank"  href="https://en.wikipedia.org/wiki/Helmholtz_resonance">Helmholtz resonance</a></td>
+</tr>
+<tr>
+<td><a title="Hooke's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Hooke%27s_law">Hooke's law</a></td>
+</tr>
+<tr>
+<td><a class="mw-redirect" title="Hopkinson's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Hopkinson%27s_law">Hopkinson's law</a></td>
+</tr>
+<tr>
+<td><a title="Hubble's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Hubble%27s_law">Hubble's law</a></td>
+</tr>
+<tr>
+<td><a title="Hund's rules"  target="_blank"  href="https://en.wikipedia.org/wiki/Hund%27s_rules">Hund's rules</a></td>
+</tr>
+<tr>
+<td><a title="Huygens&ndash;Fresnel principle"  target="_blank"  href="https://en.wikipedia.org/wiki/Huygens%E2%80%93Fresnel_principle">Huygens&ndash;Fresnel principle</a></td>
+</tr>
+<tr>
+<td><a class="mw-redirect" title="Joule's laws"  target="_blank"  href="https://en.wikipedia.org/wiki/Joule%27s_laws">Joule's laws</a></td>
+</tr>
+<tr>
+<td><a title="Jurin's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Jurin%27s_law">Jurin's law</a></td>
+</tr>
+<tr>
+<td><a title="Kasha's rule"  target="_blank"  href="https://en.wikipedia.org/wiki/Kasha%27s_rule">Kasha's rule</a></td>
+</tr>
+<tr>
+<td><a title="Kepler's laws of planetary motion"  target="_blank"  href="https://en.wikipedia.org/wiki/Kepler%27s_laws_of_planetary_motion">Kepler's laws of planetary motion</a></td>
+</tr>
+<tr>
+<td><a class="mw-redirect mw-disambig" title="Kirchhoff's laws (disambiguation)"  target="_blank"  href="https://en.wikipedia.org/wiki/Kirchhoff%27s_laws_(disambiguation)">Kirchhoff's laws</a></td>
+</tr>
+<tr>
+<td><a title="Kopp's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Kopp%27s_law">Kopp's law</a></td>
+</tr>
+<tr>
+<td><a title="Lagrangian point"  target="_blank"  href="https://en.wikipedia.org/wiki/Lagrangian_point">Lagrangian point</a><br /><a title="Lagrange reversion theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Lagrange_reversion_theorem">Lagrange reversion theorem</a><br /><a title="Lagrange polynomial"  target="_blank"  href="https://en.wikipedia.org/wiki/Lagrange_polynomial">Lagrange polynomial</a><br /><a title="Lagrange's four-square theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Lagrange%27s_four-square_theorem">Lagrange's four-square theorem</a><br /><a title="Lagrange's theorem (number theory)"  target="_blank"  href="https://en.wikipedia.org/wiki/Lagrange%27s_theorem_(number_theory)">Lagrange's theorem</a><br /><a title="Lagrange's theorem (group theory)"  target="_blank"  href="https://en.wikipedia.org/wiki/Lagrange%27s_theorem_(group_theory)">Lagrange's theorem (group theory)</a><br /><a title="Lagrange invariant"  target="_blank"  href="https://en.wikipedia.org/wiki/Lagrange_invariant">Lagrange invariant</a><br /><a title="Lagrange multiplier"  target="_blank"  href="https://en.wikipedia.org/wiki/Lagrange_multiplier">Lagrange multiplier</a><br /><small></small></td>
+</tr>
+<tr>
+<td><a title="Lambert's cosine law"  target="_blank"  href="https://en.wikipedia.org/wiki/Lambert%27s_cosine_law">Lambert's cosine law</a></td>
+</tr>
+<tr>
+<td><a title="Lamm equation"  target="_blank"  href="https://en.wikipedia.org/wiki/Lamm_equation">Lamm equation</a></td>
+</tr>
+<tr>
+<td><a class="mw-redirect" title="Langmuir equation"  target="_blank"  href="https://en.wikipedia.org/wiki/Langmuir_equation">Langmuir equation</a></td>
+</tr>
+<tr>
+<td><a title="Laplace transform"  target="_blank"  href="https://en.wikipedia.org/wiki/Laplace_transform">Laplace transform</a><br /><a title="Laplace's equation"  target="_blank"  href="https://en.wikipedia.org/wiki/Laplace%27s_equation">Laplace's equation</a><br /><a title="Laplace operator"  target="_blank"  href="https://en.wikipedia.org/wiki/Laplace_operator">Laplace operator</a><br /><a title="Laplace distribution"  target="_blank"  href="https://en.wikipedia.org/wiki/Laplace_distribution">Laplace distribution</a><br /><a title="Laplace invariant"  target="_blank"  href="https://en.wikipedia.org/wiki/Laplace_invariant">Laplace invariant</a><br /><a title="Laplace expansion"  target="_blank"  href="https://en.wikipedia.org/wiki/Laplace_expansion">Laplace expansion</a><br /><a title="Laplace principle (large deviations theory)"  target="_blank"  href="https://en.wikipedia.org/wiki/Laplace_principle_(large_deviations_theory)">Laplace principle</a><br /><a title="Laplace limit"  target="_blank"  href="https://en.wikipedia.org/wiki/Laplace_limit">Laplace limit</a> <br /><small></small></td>
+</tr>
+<tr>
+<td><a title="Le Chatelier's principle"  target="_blank"  href="https://en.wikipedia.org/wiki/Le_Chatelier%27s_principle">Le Chatelier's principle</a></td>
+</tr>
+<tr>
+<td><a title="Identity of indiscernibles"  target="_blank"  href="https://en.wikipedia.org/wiki/Identity_of_indiscernibles">Leibniz's law</a></td>
+</tr>
+<tr>
+<td><a title="Lenz's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Lenz%27s_law">Lenz's law</a></td>
+</tr>
+<tr>
+<td><a title="Leonard&ndash;Merritt mass estimator"  target="_blank"  href="https://en.wikipedia.org/wiki/Leonard%E2%80%93Merritt_mass_estimator">Leonard&ndash;Merritt mass estimator</a></td>
+</tr>
+<tr>
+<td><a title="L'H&ocirc;pital's rule"  target="_blank"  href="https://en.wikipedia.org/wiki/L%27H%C3%B4pital%27s_rule">l'H&ocirc;pital's rule</a></td>
+</tr>
+<tr>
+<td><a title="Llin&aacute;s's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Llin%C3%A1s%27s_law">Llin&aacute;s's law</a></td>
+</tr>
+<tr>
+<td><a class="mw-redirect" title="Mach principle"  target="_blank"  href="https://en.wikipedia.org/wiki/Mach_principle">Mach principle</a><br /><a title="Mach reflection"  target="_blank"  href="https://en.wikipedia.org/wiki/Mach_reflection">Mach reflection</a></td>
+</tr>
+<tr>
+<td><a title="Marconi's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Marconi%27s_law">Marconi's law</a></td>
+</tr>
+<tr>
+<td><a title="Markovnikov's rule"  target="_blank"  href="https://en.wikipedia.org/wiki/Markovnikov%27s_rule">Markovnikov's rule</a></td>
+</tr>
+<tr>
+<td><a title="Maupertuis's principle"  target="_blank"  href="https://en.wikipedia.org/wiki/Maupertuis%27s_principle">Maupertuis's principle</a></td>
+</tr>
+<tr>
+<td><a title="Maxwell's equations"  target="_blank"  href="https://en.wikipedia.org/wiki/Maxwell%27s_equations">Maxwell's equations</a><br /> <a title="Maxwell relations"  target="_blank"  href="https://en.wikipedia.org/wiki/Maxwell_relations">Maxwell relations</a></td>
+</tr>
+<tr>
+<td><a title="Mendelian inheritance"  target="_blank"  href="https://en.wikipedia.org/wiki/Mendelian_inheritance">Mendelian inheritance</a>/<a class="mw-redirect" title="Mendel's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Mendel%27s_law#Mendel's_laws">Mendel's laws</a></td>
+</tr>
+<tr>
+<td><a title="Metcalfe's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Metcalfe%27s_law">Metcalfe's law</a></td>
+</tr>
+<tr>
+<td><a title="Mikheyev&ndash;Smirnov&ndash;Wolfenstein effect"  target="_blank"  href="https://en.wikipedia.org/wiki/Mikheyev%E2%80%93Smirnov%E2%80%93Wolfenstein_effect">Mikheyev&ndash;Smirnov&ndash;Wolfenstein effect</a></td>
+</tr>
+<tr>
+<td><a title="Milner&ndash;Rado paradox"  target="_blank"  href="https://en.wikipedia.org/wiki/Milner%E2%80%93Rado_paradox">Milner&ndash;Rado paradox</a></td>
+</tr>
+<tr>
+<td><a title="Minkowski's theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Minkowski%27s_theorem">Minkowski's theorem</a></td>
+</tr>
+<tr>
+<td><a title="Mitscherlich's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Mitscherlich%27s_law">Mitscherlich's law</a></td>
+</tr>
+<tr>
+<td><a title="Moore's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Moore%27s_law">Moore's law</a></td>
+</tr>
+<tr>
+<td><a title="Nash embedding theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Nash_embedding_theorem">Nash embedding theorem</a><br /><a title="Nash equilibrium"  target="_blank"  href="https://en.wikipedia.org/wiki/Nash_equilibrium">Nash equilibrium</a></td>
+</tr>
+<tr>
+<td><a title="Nernst equation"  target="_blank"  href="https://en.wikipedia.org/wiki/Nernst_equation">Nernst equation</a></td>
+</tr>
+<tr>
+<td><a title="Heat transfer"  target="_blank"  href="https://en.wikipedia.org/wiki/Heat_transfer#Newton's_law_of_cooling">Newton's law of cooling</a><br /><a title="Newton's law of universal gravitation"  target="_blank"  href="https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation">Newton's law of universal gravitation</a><br /><a title="Newton's laws of motion"  target="_blank"  href="https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion">Newton's laws of motion</a> <br /><small></small></td>
+</tr>
+<tr>
+<td><a title="Niven's theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Niven%27s_theorem">Niven's theorem</a></td>
+</tr>
+<tr>
+<td><a title="Noether's theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Noether%27s_theorem">Noether's theorem</a></td>
+</tr>
+<tr>
+<td><a title="Nyquist&ndash;Shannon sampling theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem">Nyquist&ndash;Shannon sampling theorem</a></td>
+</tr>
+<tr>
+<td><a title="Occam's razor"  target="_blank"  href="https://en.wikipedia.org/wiki/Occam%27s_razor">Occam's razor</a></td>
+</tr>
+<tr>
+<td><a title="Ohm's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Ohm%27s_law">Ohm's law</a></td>
+</tr>
+<tr>
+<td><a title="Osipkov&ndash;Merritt model"  target="_blank"  href="https://en.wikipedia.org/wiki/Osipkov%E2%80%93Merritt_model">Osipkov&ndash;Merritt model</a></td>
+</tr>
+<tr>
+<td><a class="mw-redirect" title="Ostwald dilution law"  target="_blank"  href="https://en.wikipedia.org/wiki/Ostwald_dilution_law">Ostwald dilution law</a></td>
+</tr>
+<tr>
+<td><a title="Paley&ndash;Wiener theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Paley%E2%80%93Wiener_theorem">Paley&ndash;Wiener theorem</a></td>
+</tr>
+<tr>
+<td><a title="Pareto distribution"  target="_blank"  href="https://en.wikipedia.org/wiki/Pareto_distribution">Pareto distribution</a><br /><a title="Pareto efficiency"  target="_blank"  href="https://en.wikipedia.org/wiki/Pareto_efficiency">Pareto efficiency</a><br /><a title="Pareto index"  target="_blank"  href="https://en.wikipedia.org/wiki/Pareto_index">Pareto index</a><br /><a title="Pareto principle"  target="_blank"  href="https://en.wikipedia.org/wiki/Pareto_principle">Pareto principle</a></td>
+</tr>
+<tr>
+<td><a title="Pascal's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Pascal%27s_law">Pascal's law</a><br /><a title="Pascal's theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Pascal%27s_theorem">Pascal's theorem</a></td>
+</tr>
+<tr>
+<td><a title="Pauli exclusion principle"  target="_blank"  href="https://en.wikipedia.org/wiki/Pauli_exclusion_principle">Pauli exclusion principle</a></td>
+</tr>
+<tr>
+<td><a title="Peano axioms"  target="_blank"  href="https://en.wikipedia.org/wiki/Peano_axioms">Peano axioms</a></td>
+</tr>
+<tr>
+<td><a title="Planck's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Planck%27s_law">Planck's law</a></td>
+</tr>
+<tr>
+<td><a title="Poincar&eacute;&ndash;Bendixson theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Poincar%C3%A9%E2%80%93Bendixson_theorem">Poincar&eacute;&ndash;Bendixson theorem</a></td>
+</tr>
+<tr>
+<td><a title="Poincar&eacute;&ndash;Birkhoff&ndash;Witt theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Poincar%C3%A9%E2%80%93Birkhoff%E2%80%93Witt_theorem">Poincar&eacute;&ndash;Birkhoff&ndash;Witt theorem</a></td>
+</tr>
+<tr>
+<td><a title="Poincar&eacute;&ndash;Hopf theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Poincar%C3%A9%E2%80%93Hopf_theorem">Poincar&eacute;&ndash;Hopf theorem</a></td>
+</tr>
+<tr>
+<td><a title="Poincar&eacute; recurrence theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Poincar%C3%A9_recurrence_theorem">Poincar&eacute; recurrence theorem</a><br /><a title="Poincar&eacute; conjecture"  target="_blank"  href="https://en.wikipedia.org/wiki/Poincar%C3%A9_conjecture">Poincar&eacute; conjecture</a> <br /> <a class="mw-redirect" title="Poincar&eacute; lemma"  target="_blank"  href="https://en.wikipedia.org/wiki/Poincar%C3%A9_lemma">Poincar&eacute; lemma</a></td>
+</tr>
+<tr>
+<td><a title="Hagen&ndash;Poiseuille equation"  target="_blank"  href="https://en.wikipedia.org/wiki/Hagen%E2%80%93Poiseuille_equation">Poiseuille's law</a></td>
+</tr>
+<tr>
+<td><a title="Poisson distribution"  target="_blank"  href="https://en.wikipedia.org/wiki/Poisson_distribution">Poisson distribution</a> <br /> <a title="Poisson's equation"  target="_blank"  href="https://en.wikipedia.org/wiki/Poisson%27s_equation">Poisson's equation</a></td>
+</tr>
+<tr>
+<td><a title="Price equation"  target="_blank"  href="https://en.wikipedia.org/wiki/Price_equation">Price's theorem</a></td>
+</tr>
+<tr>
+<td><a title="Ptolemy's theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Ptolemy%27s_theorem">Ptolemy's theorem</a></td>
+</tr>
+<tr>
+<td><a title="Pythagorean theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Pythagorean_theorem">Pythagorean theorem</a></td>
+</tr>
+<tr>
+<td><a title="Raman scattering"  target="_blank"  href="https://en.wikipedia.org/wiki/Raman_scattering">Raman scattering</a></td>
+</tr>
+<tr>
+<td><a title="Rado's theorem (Ramsey theory)"  target="_blank"  href="https://en.wikipedia.org/wiki/Rado%27s_theorem_(Ramsey_theory)">Rado's theorem</a></td>
+</tr>
+<tr>
+<td><a title="Ramanujan&ndash;Nagell equation"  target="_blank"  href="https://en.wikipedia.org/wiki/Ramanujan%E2%80%93Nagell_equation">Ramanujan&ndash;Nagell equation</a><br /><small></small></td>
+</tr>
+<tr>
+<td><a title="Raoult's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Raoult%27s_law">Raoult's law</a></td>
+</tr>
+<tr>
+<td><a title="Riemann zeta function"  target="_blank"  href="https://en.wikipedia.org/wiki/Riemann_zeta_function">Riemann zeta function</a><br /><a title="Riemann hypothesis"  target="_blank"  href="https://en.wikipedia.org/wiki/Riemann_hypothesis">Riemann hypothesis</a><br /><a title="Riemann integral"  target="_blank"  href="https://en.wikipedia.org/wiki/Riemann_integral">Riemann integral</a><br /><a class="mw-redirect" title="Riemann lemma"  target="_blank"  href="https://en.wikipedia.org/wiki/Riemann_lemma">Riemann lemma</a><br /><a title="Riemannian manifold"  target="_blank"  href="https://en.wikipedia.org/wiki/Riemannian_manifold">Riemannian manifold</a><br /><a title="Riemann sphere"  target="_blank"  href="https://en.wikipedia.org/wiki/Riemann_sphere">Riemann sphere</a><br /><a class="mw-redirect" title="Riemann theta function"  target="_blank"  href="https://en.wikipedia.org/wiki/Riemann_theta_function">Riemann theta function</a></td>
+</tr>
+<tr>
+<td><a title="Rolle's theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Rolle%27s_theorem">Rolle's theorem</a></td>
+</tr>
+<tr>
+<td><a title="Saha ionization equation"  target="_blank"  href="https://en.wikipedia.org/wiki/Saha_ionization_equation">Saha ionization equation</a></td>
+</tr>
+<tr>
+<td><a title="Schr&ouml;dinger equation"  target="_blank"  href="https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation">Schr&ouml;dinger equation</a></td>
+</tr>
+<tr>
+<td><a title="Sersic profile"  target="_blank"  href="https://en.wikipedia.org/wiki/Sersic_profile">S&eacute;rsic's law</a></td>
+</tr>
+<tr>
+<td><a title="Snell's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Snell%27s_law">Snell's law</a></td>
+</tr>
+<tr>
+<td><a title="Sokolov&ndash;Ternov effect"  target="_blank"  href="https://en.wikipedia.org/wiki/Sokolov%E2%80%93Ternov_effect">Sokolov&ndash;Ternov effect</a></td>
+</tr>
+<tr>
+<td><a title="Sommerfeld&ndash;Kossel displacement law"  target="_blank"  href="https://en.wikipedia.org/wiki/Sommerfeld%E2%80%93Kossel_displacement_law">Sommerfeld&ndash;Kossel displacement law</a></td>
+</tr>
+<tr>
+<td><a title="Stefan&ndash;Boltzmann law"  target="_blank"  href="https://en.wikipedia.org/wiki/Stefan%E2%80%93Boltzmann_law">Stefan&ndash;Boltzmann law</a></td>
+</tr>
+<tr>
+<td><a class="mw-redirect" title="Stokes's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Stokes%27s_law">Stokes's law</a></td>
+</tr>
+<tr>
+<td><a title="Stoletov's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Stoletov%27s_law">Stoletov's law</a></td>
+</tr>
+<tr>
+<td><a title="Tarski's undefinability theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Tarski%27s_undefinability_theorem">Tarski's undefinability theorem</a><br /><a title="Tarski's axioms"  target="_blank"  href="https://en.wikipedia.org/wiki/Tarski%27s_axioms">Tarski's axioms</a> <br /><small></small></td>
+</tr>
+<tr>
+<td><a title="Thales's theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Thales%27s_theorem">Thales's theorem</a></td>
+</tr>
+<tr>
+<td><a title="Titius&ndash;Bode law"  target="_blank"  href="https://en.wikipedia.org/wiki/Titius%E2%80%93Bode_law">Titius&ndash;Bode law</a></td>
+</tr>
+<tr>
+<td><a title="Torricelli's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Torricelli%27s_law">Torricelli's law</a></td>
+</tr>
+<tr>
+<td><a title="Umov effect"  target="_blank"  href="https://en.wikipedia.org/wiki/Umov_effect">Umov effect</a></td>
+</tr>
+<tr>
+<td><a title="Van der Waals equation"  target="_blank"  href="https://en.wikipedia.org/wiki/Van_der_Waals_equation">Van der Waals equation</a></td>
+</tr>
+<tr>
+<td><a title="Vlasov equation"  target="_blank"  href="https://en.wikipedia.org/wiki/Vlasov_equation">Vlasov equation</a></td>
+</tr>
+<tr>
+<td><a title="Von Neumann bicommutant theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Von_Neumann_bicommutant_theorem">Von Neumann bicommutant theorem</a><br /><a title="Von Neumann entropy"  target="_blank"  href="https://en.wikipedia.org/wiki/Von_Neumann_entropy">Von Neumann entropy</a><br /><a title="Von Neumann paradox"  target="_blank"  href="https://en.wikipedia.org/wiki/Von_Neumann_paradox">von Neumann paradox</a><br /><a class="mw-redirect" title="Mean ergodic theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Mean_ergodic_theorem">Von Neumann ergodic theorem</a><br /><a title="Von Neumann universe"  target="_blank"  href="https://en.wikipedia.org/wiki/Von_Neumann_universe">Von Neumann universe</a><br /><a title="Von Neumann neighborhood"  target="_blank"  href="https://en.wikipedia.org/wiki/Von_Neumann_neighborhood">Von Neumann neighborhood</a><br /><a class="mw-redirect" title="Von Neumann's trace inequality"  target="_blank"  href="https://en.wikipedia.org/wiki/Von_Neumann%27s_trace_inequality">Von Neumann's trace inequality</a><br /><small></small></td>
+</tr>
+<tr>
+<td><a title="Weinberg&ndash;Witten theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Weinberg%E2%80%93Witten_theorem">Weinberg&ndash;Witten theorem</a></td>
+</tr>
+<tr>
+<td><a title="Weyl character formula"  target="_blank"  href="https://en.wikipedia.org/wiki/Weyl_character_formula">Weyl character formula</a></td>
+</tr>
+<tr>
+<td><a class="mw-redirect mw-disambig" title="Wien's law (disambiguation)"  target="_blank"  href="https://en.wikipedia.org/wiki/Wien%27s_law_(disambiguation)">Wien's law</a></td>
+</tr>
+<tr>
+<td><a title="Wiener&ndash;Khinchin theorem"  target="_blank"  href="https://en.wikipedia.org/wiki/Wiener%E2%80%93Khinchin_theorem">Wiener&ndash;Khinchin theorem</a></td>
+</tr>
+<tr>
+<td><a title="Young&ndash;Laplace equation"  target="_blank"  href="https://en.wikipedia.org/wiki/Young%E2%80%93Laplace_equation">Young&ndash;Laplace equation</a></td>
+</tr>
+<tr>
+<td><a title="Zipf's law"  target="_blank"  href="https://en.wikipedia.org/wiki/Zipf%27s_law">Zipf's law</a></td>
+</tr>
+</tbody>
+</table>
 
 
 
