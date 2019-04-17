@@ -1931,10 +1931,198 @@
 <p>110. Statistical Problems In Particle Physics, Astrophysics And Cosmology</p>
 <p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sm115.pdf">Download</a></p>
 
+</br>
 
 
 
 
+<table border="1" BORDERCOLOR="white">
+
+<tbody><tr>
+<th>Metal</th>
+<th>Ion</th>
+<th>Reactivity</th>
+<th>Extraction
+</th></tr>
+<tr>
+<td bgcolor="#FA8072"><a target="_blank" href="https://en.wikipedia.org/wiki/Caesium" title="Caesium">Caesium</a>&#160;Cs
+</td>
+<td bgcolor="#FA8072">Cs<sup>+</sup>
+</td>
+<td rowspan="10" bgcolor="#FA8072" align="center">reacts with cold water
+</td>
+<td rowspan="13" bgcolor="#FA8072" align="center"><a target="_blank" href="https://en.wikipedia.org/wiki/Electrolysis" title="Electrolysis">electrolysis</a>
+</td></tr>
+<tr>
+<td bgcolor="#FA8072"><a target="_blank" href="https://en.wikipedia.org/wiki/Francium" title="Francium">Francium</a>&#160;Fr
+</td>
+<td bgcolor="#FA8072">Fr<sup>+</sup>
+</td></tr>
+<tr>
+<td bgcolor="#FA8072"><a target="_blank" href="https://en.wikipedia.org/wiki/Rubidium" title="Rubidium">Rubidium</a>&#160;Rb
+</td>
+<td bgcolor="#FA8072">Rb<sup>+</sup>
+</td></tr>
+<tr>
+<td bgcolor="#FA8072"><a target="_blank" href="https://en.wikipedia.org/wiki/Potassium" title="Potassium">Potassium</a>&#160;K
+</td>
+<td bgcolor="#FA8072">K<sup>+</sup>
+</td></tr>
+<tr>
+<td bgcolor="#FA8072"><a target="_blank" href="https://en.wikipedia.org/wiki/Sodium" title="Sodium">Sodium</a>&#160;Na
+</td>
+<td bgcolor="#FA8072">Na<sup>+</sup>
+</td></tr>
+<tr>
+<td bgcolor="#FA8072"><a target="_blank" href="https://en.wikipedia.org/wiki/Lithium" title="Lithium">Lithium</a>&#160;Li
+</td>
+<td bgcolor="#FA8072">Li<sup>+</sup>
+</td></tr>
+<tr>
+<td bgcolor="#FA8072"><a target="_blank" href="https://en.wikipedia.org/wiki/Barium" title="Barium">Barium</a>&#160;Ba
+</td>
+<td bgcolor="#FA8072">Ba<sup>2+</sup>
+</td></tr>
+<tr>
+<td bgcolor="#FA8072"><a target="_blank" href="https://en.wikipedia.org/wiki/Radium" title="Radium">Radium</a>&#160;Ra
+</td>
+<td bgcolor="#FA8072">Ra<sup>2+</sup>
+</td></tr>
+<tr>
+<td bgcolor="#FA8072"><a target="_blank" href="https://en.wikipedia.org/wiki/Strontium" title="Strontium">Strontium</a>&#160;Sr
+</td>
+<td bgcolor="#FA8072">Sr<sup>2+</sup>
+</td></tr>
+<tr>
+<td bgcolor="#FA8072"><a target="_blank" href="https://en.wikipedia.org/wiki/Calcium" title="Calcium">Calcium</a>&#160;Ca
+</td>
+<td bgcolor="#FA8072">Ca<sup>2+</sup>
+</td></tr>
+<tr>
+<td bgcolor="orange"><a target="_blank" href="https://en.wikipedia.org/wiki/Magnesium" title="Magnesium">Magnesium</a>&#160;Mg
+</td>
+<td bgcolor="orange">Mg<sup>2+</sup>
+</td>
+<td rowspan="1" bgcolor="orange" align="center">reacts very slowly with cold water, but rapidly<br />in boiling water, and very vigorously with <a target="_blank" href="https://en.wikipedia.org/wiki/Acid" title="Acid">acids</a>
+</td></tr>
+<tr>
+<td bgcolor="yellow"><a target="_blank" href="https://en.wikipedia.org/wiki/Beryllium" title="Beryllium">Beryllium</a>&#160;Be
+</td>
+<td bgcolor="yellow">Be<sup>2+</sup>
+</td>
+<td rowspan="2" bgcolor="yellow" align="center">reacts with acids and steam
+</td></tr>
+<tr>
+<td bgcolor="yellow"><a target="_blank" href="https://en.wikipedia.org/wiki/Aluminium" title="Aluminium">Aluminium</a>&#160;Al
+</td>
+<td bgcolor="yellow">Al<sup>3+</sup>
+</td></tr>
+<tr>
+<td bgcolor="orange"><a target="_blank" href="https://en.wikipedia.org/wiki/Titanium" title="Titanium">Titanium</a>&#160;Ti
+</td>
+<td bgcolor="orange">Ti<sup>4+</sup>
+</td>
+<td rowspan="1" bgcolor="orange" align="center">reacts with concentrated <a target="_blank" href="https://en.wikipedia.org/wiki/Mineral_acids" class="mw-redirect" title="Mineral acids">mineral acids</a>
+</td>
+<td rowspan="1" bgcolor="orange" align="center"><a target="_blank" href="https://en.wikipedia.org/wiki/Pyrometallurgical" class="mw-redirect" title="Pyrometallurgical">pyrometallurgical</a> extraction using <a target="_blank" href="https://en.wikipedia.org/wiki/Magnesium" title="Magnesium">magnesium</a>,<br /> or less commonly other <a target="_blank" href="https://en.wikipedia.org/wiki/Alkali_metals" class="mw-redirect" title="Alkali metals">alkali metals</a>, <a target="_blank" href="https://en.wikipedia.org/wiki/Hydrogen" title="Hydrogen">hydrogen</a> or <a target="_blank" href="https://en.wikipedia.org/wiki/Calcium" title="Calcium">calcium</a> in the <a target="_blank" href="https://en.wikipedia.org/wiki/Kroll_process" title="Kroll process">Kroll process</a>
+</td></tr>
+<tr>
+<td bgcolor="yellow"><a target="_blank" href="https://en.wikipedia.org/wiki/Manganese" title="Manganese">Manganese</a>&#160;Mn
+</td>
+<td bgcolor="yellow">Mn<sup>2+</sup>
+</td>
+<td rowspan="9" bgcolor="yellow" align="center">reacts with <a target="_blank" href="https://en.wikipedia.org/wiki/Acid" title="Acid">acids</a>; very poor reaction with steam.
+</td>
+<td rowspan="2" bgcolor="yellow" align="center"><a target="_blank" href="https://en.wikipedia.org/wiki/Smelting" title="Smelting">smelting</a> with <a target="_blank" href="https://en.wikipedia.org/wiki/Coke_(fuel)" title="Coke (fuel)">coke</a>
+</td></tr>
+<tr>
+<td bgcolor="yellow"><a target="_blank" href="https://en.wikipedia.org/wiki/Zinc" title="Zinc">Zinc</a>&#160;Zn
+</td>
+<td bgcolor="yellow">Zn<sup>2+</sup>
+</td></tr>
+<tr>
+<td bgcolor="yellow"><a target="_blank" href="https://en.wikipedia.org/wiki/Chromium" title="Chromium">Chromium</a>&#160;Cr
+</td>
+<td bgcolor="yellow">Cr<sup>3+</sup>
+</td>
+<td rowspan="1" bgcolor="orange" align="center"><a target="_blank" href="https://en.wikipedia.org/wiki/Aluminothermic_reaction" title="Aluminothermic reaction">aluminothermic reaction</a>
+</td></tr>
+<tr>
+<td bgcolor="yellow"><a target="_blank" href="https://en.wikipedia.org/wiki/Iron" title="Iron">Iron</a>&#160;Fe
+</td>
+<td bgcolor="yellow">Fe<sup>3+</sup>
+</td>
+<td rowspan="6" bgcolor="yellow" align="center"><a target="_blank" href="https://en.wikipedia.org/wiki/Smelting" title="Smelting">smelting</a> with <a target="_blank" href="https://en.wikipedia.org/wiki/Coke_(fuel)" title="Coke (fuel)">coke</a>
+</td></tr>
+<tr>
+<td bgcolor="yellow"><a target="_blank" href="https://en.wikipedia.org/wiki/Cadmium" title="Cadmium">Cadmium</a>&#160;Cd
+</td>
+<td bgcolor="yellow">Cd<sup>2+</sup>
+</td></tr>
+<tr>
+<td bgcolor="yellow"><a target="_blank" href="https://en.wikipedia.org/wiki/Cobalt" title="Cobalt">Cobalt</a>&#160;Co
+</td>
+<td bgcolor="yellow">Co<sup>2+</sup>
+</td></tr>
+<tr>
+<td bgcolor="yellow"><a target="_blank" href="https://en.wikipedia.org/wiki/Nickel" title="Nickel">Nickel</a>&#160;Ni
+</td>
+<td bgcolor="yellow">Ni<sup>2+</sup>
+</td></tr>
+<tr>
+<td bgcolor="yellow"><a target="_blank" href="https://en.wikipedia.org/wiki/Tin" title="Tin">Tin</a>&#160;Sn
+</td>
+<td bgcolor="yellow">Sn<sup>2+</sup>
+</td></tr>
+<tr>
+<td bgcolor="yellow"><a target="_blank" href="https://en.wikipedia.org/wiki/Lead" title="Lead">Lead</a>&#160;Pb
+</td>
+<td bgcolor="yellow">Pb<sup>2+</sup>
+</td></tr>
+<tr>
+<td bgcolor="#cdcdcd"><a target="_blank" href="https://en.wikipedia.org/wiki/Antimony" title="Antimony">Antimony</a>&#160;Sb
+</td>
+<td bgcolor="#cdcdcd">Sb<sup>3+</sup>
+</td>
+<td rowspan="10" bgcolor="#cdcdcd" align="center">may react with some strong <a target="_blank" href="https://en.wikipedia.org/wiki/Oxidizing_acid" title="Oxidizing acid">oxidizing acids</a>
+</td>
+<td rowspan="10" bgcolor="#cdcdcd" align="center">heat or physical extraction
+</td></tr>
+<tr>
+<td bgcolor="#cdcdcd"><a target="_blank" href="https://en.wikipedia.org/wiki/Bismuth" title="Bismuth">Bismuth</a>&#160;Bi
+</td>
+<td bgcolor="#cdcdcd">Bi<sup>3+</sup>
+</td></tr>
+<tr>
+<td bgcolor="#cdcdcd"><a target="_blank" href="https://en.wikipedia.org/wiki/Copper" title="Copper">Copper</a>&#160;Cu
+</td>
+<td bgcolor="#cdcdcd">Cu<sup>2+</sup>
+</td></tr>
+<tr>
+<td bgcolor="cdcdcd"><a target="_blank" href="https://en.wikipedia.org/wiki/Tungsten" title="Tungsten">Tungsten</a>&#160;W
+</td>
+<td bgcolor="#cdcdcd">W<sup>3+</sup>
+</td></tr>
+<tr>
+<td bgcolor="#cdcdcd"><a target="_blank" href="https://en.wikipedia.org/wiki/Mercury_(element)" title="Mercury (element)">Mercury</a>&#160;Hg
+</td>
+<td bgcolor="#cdcdcd">Hg<sup>2+</sup>
+</td></tr>
+<tr>
+<td bgcolor="#cdcdcd"><a target="_blank" href="https://en.wikipedia.org/wiki/Silver" title="Silver">Silver</a>&#160;Ag
+</td>
+<td bgcolor="#cdcdcd">Ag<sup>+</sup>
+</td></tr>
+<tr>
+<td bgcolor="#cdcdcd"><a target="_blank" href="https://en.wikipedia.org/wiki/Gold" title="Gold">Gold</a>&#160;Au
+</td>
+<td bgcolor="#cdcdcd">Au<sup>3+</sup>
+</td></tr>
+<tr>
+<td bgcolor="#cdcdcd"><a target="_blank" href="https://en.wikipedia.org/wiki/Platinum" title="Platinum">Platinum</a>&#160;Pt
+</td>
+<td bgcolor="#cdcdcd">Pt<sup>4+</sup>
+</td></tr></tbody></table>
 
 
 
