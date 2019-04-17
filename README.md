@@ -1933,8 +1933,8 @@
 
 </br>
 
-
-
+<p> <strong>The Metal Reactivity Series</strong></p>
+</br>
 
 <table border="1" BORDERCOLOR="white">
 
