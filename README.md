@@ -1246,17 +1246,33 @@
 <p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/s17.pdf">Download</a></p>
 
 
+<p>151. Reference Guide and Formula Sheet for Physics</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/s19.pdf">Download</a></p>
 
+<p>152. Important Physics and Chemistry Formula</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/s20.pdf">Download</a></p>
 
+<p>153. Physics Formulas List</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/s21.pdf">Download</a></p>
 
+<p>154. All Chemistry Formulas for O levels Chemistry</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/s22.pdf">Download</a></p>
 
+<p>155. The Mole and Chemical Formulas</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/s23.pdf">Download</a></p>
+
+<p>156. Murphy's laws and corollaries</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sl1.pdf">Download</a></p>
+
+<p>157. The Laws Of Physics And The Physics Of Laws</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sl2.pdf">Download</a></p>
+
+<p>158. The Law Of One: Book I The Ra Material</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sl3.pdf">Download</a></p>
 
 
 
 </br>
-
-
-
 
 <p style ="font-weight:bold; font-size:16px;">List of equations</p>
 <hr>
