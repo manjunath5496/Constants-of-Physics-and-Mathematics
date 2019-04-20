@@ -1934,7 +1934,8 @@
 <p>111. Forces of Nature</p>
 <p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/s16.pdf">Download</a></p>
 
-
+<p>112. Journeys Beyond the Standard Model</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/jb1.pdf">Download</a></p>
 
 </br>
 
