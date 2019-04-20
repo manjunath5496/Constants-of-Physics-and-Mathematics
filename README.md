@@ -2540,6 +2540,25 @@
 <p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un170.pdf">Download</a></p>
 <p>200. Introduction to Nuclear and Particle Physics </p>
 <p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/un171.pdf">Download</a></p>
+<p>201. This Idea Must Die: Scientific Theories That Are Blocking Progress </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/s12.pdf">Download</a></p>
+<p>202. Doing Physics with Scientific Notebook </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sl6.pdf">Download</a></p>
+<p>203. Newton's Scientific and Philosophical Legacy </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sl7.pdf">Download</a></p>
+<p>204. The Recursive Universe: Cosmic Complexity and the Limits of Scientific Knowledge </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sl8.pdf">Download</a></p>
+<p>205. The Invention of Science: A New History of the Scientific Revolution </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sl10.pdf">Download</a></p>
+<p>206. Science Without Laws: Model Systems, Cases, Exemplary Narratives </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sl11.pdf">Download</a></p>
+
+
+
+
+
+
+
 
 </br>
 
