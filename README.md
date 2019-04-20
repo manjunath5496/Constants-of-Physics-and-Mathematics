@@ -2597,6 +2597,12 @@
 <p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sl11.pdf">Download</a></p>
 <p>207. The Universe in a Helium Droplet </p>
 <p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/skl2.pdf">Download</a></p>
+<p>208. Discover Entropy and the Second Law of Thermodynamics </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sl5.pdf">Download</a></p>
+<p>209. The Universe of Fluctuations </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/s18.pdf">Download</a></p>
+<p>210. Into the Alternate Universe </p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sl4.pdf">Download</a></p>
 
 
 
