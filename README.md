@@ -1232,6 +1232,27 @@
 <p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/mf6.pdf">Download</a></p>
 
 
+<p>147. Fundamental laws of mechanics</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/s13.pdf">Download</a></p>
+
+<p>148. Conservation Laws</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/s14.pdf">Download</a></p>
+
+
+<p>149. Encyclopedia of Scientific Principles, Laws, and Theories</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/s15.pdf">Download</a></p>
+
+<p>150. Differential Equations of Mathematical Physics</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/s17.pdf">Download</a></p>
+
+
+
+
+
+
+
+
+
 </br>
 
 
