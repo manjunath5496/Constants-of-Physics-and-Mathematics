@@ -1270,6 +1270,25 @@
 <p>158. The Law Of One: Book I The Ra Material</p>
 <p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sl3.pdf">Download</a></p>
 
+<p>159. The Character of Physical Law</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/sl9.pdf">Download</a></p>
+
+<p>160. Hazardous Chemicals Handbook</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/s26.pdf">Download</a></p>
+
+<p>161. Chemistry Reference Tables</p>
+<p><a href="https://github.com/manjunath5496/Constants-of-Physics-and-Mathematics/blob/master/s25.pdf">Download</a></p>
+
+
+
+
+
+
+
+
+
+
+
 
 
 </br>
