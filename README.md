@@ -416,12 +416,7 @@
 </td>
 </tr>
 
-<tr>
-<th class="navbox-title" style="text-align: center;" colspan="2" scope="col">
 
-<div id="Particles_in_physics" style="font-size: 114%; margin: 0 2em;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<a title="mathematical constants"  target="_blank"  href="https://en.wikipedia.org/wiki/List_of_mathematical_constants">List of mathematical constants</a></div>
-</th>
-</tr>
 
 
 
@@ -430,6 +425,15 @@
 
 
 </div>
+
+
+
+
+<div id="Particles_in_physics" style="font-size: 114%; margin: 0 2em;"><a title="mathematical constants"  target="_blank"  href="https://en.wikipedia.org/wiki/List_of_mathematical_constants">List of mathematical constants</a></div>
+
+
+
+
 
 
 </br>
