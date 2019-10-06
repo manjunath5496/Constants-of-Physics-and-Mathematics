@@ -290,22 +290,13 @@
 </br>
 
 
+<div id="Particles_in_physics" style="font-size: 114%; margin: 0 4em;"><a title="Physical constants"  target="_blank"  href="https://en.wikipedia.org/wiki/Physical_constant">Physical constants</a></div>
+<hr>
+
 <div style="overflow-x:auto;">
 
 <table>
 <tbody>
-
-<tr>
-<th class="navbox-title" style="text-align: center;" colspan="2" scope="col">
-
-<div id="Particles_in_physics" style="font-size: 114%; margin: 0 4em;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<a title="Physical constants"  target="_blank"  href="https://en.wikipedia.org/wiki/Physical_constant">Physical constants</a></div>
-</th>
-</tr>
-
-
-
-
-
 
 
 <tr>
